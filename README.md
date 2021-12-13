@@ -1,2 +1,2 @@
 # PokeMedia
-Hello I am Musical Pieces 
+Simpke Pokedex bot
