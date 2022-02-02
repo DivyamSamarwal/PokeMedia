@@ -80,7 +80,7 @@ async def ping(ctx):
 
 #001
 
-@client.command(aliases=['Fushigidane','フシギダネ','Bulbizarre','Bisasam','이상해씨'])
+@client.command()
 async def Bulbasaur(ctx):
     embed = discord.Embed(title="Pokemon #001", description="**Bulbasaur**", color=discord.Color.random())
     embed.add_field(name="Types", value= "Grass/Poison")
@@ -88,7 +88,7 @@ async def Bulbasaur(ctx):
     embed.add_field(name="Region", value="Kanto" )
     
     embed.set_image(url='https://serebii.net/swordshield/pokemon/001.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -102,7 +102,7 @@ async def Ivysaur(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Psychic/Flying/Ice")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://serebii.net/swordshield/pokemon/002.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 #003
@@ -114,7 +114,7 @@ async def Venusaur(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Psychic/Flying/Ice")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://serebii.net/swordshield/pokemon/003.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -127,7 +127,7 @@ async def MegaVenusaur(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Psychic/Flying/Ice")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867652678887800852/003_f2.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -141,7 +141,7 @@ async def GigantamaxVenusaur(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Psychic/Flying/Ice")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867654474469343262/003_f3.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -155,7 +155,7 @@ async def Charmander(ctx):
     embed.add_field(name="Weaknesses", value= "Water/Ground/Rock")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867658698327195698/004.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -168,7 +168,7 @@ async def Charmeleon(ctx):
     embed.add_field(name="Weaknesses", value= "Water/Ground/Rock")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867659221047050270/005.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -181,7 +181,7 @@ async def Charizard(ctx):
     embed.add_field(name="Weaknesses", value= "Water/Ground/Rock")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867662264928829490/006.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -194,7 +194,7 @@ async def MegaCharizardX(ctx):
     embed.add_field(name="Weaknesses", value= "Ground/Rock/Dragon")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867663657500147732/006_f2.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -207,7 +207,7 @@ async def MegaCharizardY(ctx):
     embed.add_field(name="Weaknesses", value= "Water/Electric/Rock")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867665625023381574/006_f3.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -222,7 +222,7 @@ async def GigantamaxCharizard(ctx):
     embed.add_field(name="Weaknesses", value= "Water/Electric/Rock")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867666729123708929/006_f4.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -237,7 +237,7 @@ async def Squirtle(ctx):
     embed.add_field(name="Weaknesses", value= "Grass/Electric")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867668406537682984/007.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -252,7 +252,7 @@ async def Wartortle(ctx):
     embed.add_field(name="Weaknesses", value= "Grass/Electric")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867669462931734548/008.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -265,7 +265,7 @@ async def Blastoise(ctx):
     embed.add_field(name="Weaknesses", value= "Grass/Electric")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867670898327814174/009.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -278,7 +278,7 @@ async def MegaBlastoise(ctx):
     embed.add_field(name="Weaknesses", value= "Grass/Electric")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867672223866945536/009_f2.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -292,7 +292,7 @@ async def GigantamaxBlastoise(ctx):
     embed.add_field(name="Weaknesses", value= "Grass/Electric")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867673046244524072/009_f3.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -306,7 +306,7 @@ async def Caterpie(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Flying/Rock")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867674938629423134/010.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -319,7 +319,7 @@ async def Metapod(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Flying/Rock")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867675861293858856/011.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -333,7 +333,7 @@ async def Butterfree(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Flying/Rock/Electric/Ice")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867676470670655488/012.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -346,7 +346,7 @@ async def GigantamaxButterfree(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Flying/Rock/Electric/Ice")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867679479845486613/012_f2.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -360,7 +360,7 @@ async def Weedle(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Flying/Rock/Psychic")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/867689132133974026/013.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -373,7 +373,7 @@ async def Kakuna(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Flying/Rock/Psychic")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/867690464816005200/014.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -387,7 +387,7 @@ async def Beedrill(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Flying/Rock/Psychic")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/867694827923701760/015.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -400,7 +400,7 @@ async def MegaBeedrill(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Flying/Rock/Psychic")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/867694935523065856/015_f2.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -414,7 +414,7 @@ async def Pidgey(ctx):
     embed.add_field(name="Weaknesses", value= "Electric/Rock/Ice")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/867696726819602442/016.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -428,7 +428,7 @@ async def Pidgeotto(ctx):
     embed.add_field(name="Weaknesses", value= "Electric/Rock/Ice")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/867697087343886376/017.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -441,7 +441,7 @@ async def Pidgeot(ctx):
     embed.add_field(name="Weaknesses", value= "Electric/Rock/Ice")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/867697216890208296/018.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -455,7 +455,7 @@ async def MegaPidgeot(ctx):
     embed.add_field(name="Weaknesses", value= "Electric/Rock/Ice")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/867697932752125962/018_f2.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 #019
@@ -467,7 +467,7 @@ async def Rattata(ctx):
     embed.add_field(name="Weaknesses", value= "Fighting")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/867699941739724800/019.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -480,7 +480,7 @@ async def AlolanRattata(ctx):
     embed.add_field(name="Weaknesses", value= "Fairy/Bug/Fighting")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/867702003174080522/019_f2.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -493,7 +493,7 @@ async def Raticate(ctx):
     embed.add_field(name="Weaknesses", value= "Fighting")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/867703045190057994/020.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -507,7 +507,7 @@ async def AlolanRaticate(ctx):
     embed.add_field(name="Weaknesses", value= "Fairy/Bug/Fighting")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/867703530981949450/020_f2.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -522,7 +522,7 @@ async def Spearow(ctx):
     embed.add_field(name="Weaknesses", value= "Electric/Rock/Ice")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867953847195295804/021.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -537,7 +537,7 @@ async def Fearow(ctx):
     embed.add_field(name="Weaknesses", value= "Electric/Rock/Ice")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867954507391336458/022.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -552,7 +552,7 @@ async def Ekans(ctx):
     embed.add_field(name="Weaknesses", value= "Psychic/Ground")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867955409028268032/023.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -566,7 +566,7 @@ async def Arbok(ctx):
     embed.add_field(name="Weaknesses", value= "Psychic/Ground")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867955457287917638/024.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -584,7 +584,7 @@ async def Pikachu(ctx):
     embed.add_field(name="Weaknesses", value= "Ground")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867957987988353074/025.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -599,7 +599,7 @@ async def GigantamaxPikachu(ctx):
     embed.add_field(name="Weaknesses", value= "Ground")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867959076112461915/025_f2.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -614,7 +614,7 @@ async def Raichu(ctx):
     embed.add_field(name="Weaknesses", value= "Ground")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867959628074483772/026.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -630,7 +630,7 @@ async def AlolanRaichu(ctx):
     embed.add_field(name="Weaknesses", value= "Ghost/Dark/Bug/   Ground")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867959666846609549/026_f2.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -645,7 +645,7 @@ async def Sandshrew(ctx):
     embed.add_field(name="Weaknesses", value= "Water/Grass/Ice")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867962436337147954/027.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -660,7 +660,7 @@ async def AlolanSandshrew(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Fighting/Ground")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867962470734651402/027_f2.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -676,7 +676,7 @@ async def Sandslash(ctx):
     embed.add_field(name="Weaknesses", value= "Water/Grass/Ice")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867966668767371264/028.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -691,7 +691,7 @@ async def AlolanSandslash(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Fighting/Ground")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/867966704850993192/028_f2.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -704,7 +704,7 @@ async def Nidoran(ctx):
     embed.add_field(name="Weaknesses", value= "Psychic/Ground")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868038062326812722/029.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -718,7 +718,7 @@ async def Nidorina(ctx):
     embed.add_field(name="Weaknesses", value= "Psychic/Ground")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/868039106725281792/030.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -731,7 +731,7 @@ async def Nidoqueen(ctx):
     embed.add_field(name="Weaknesses", value= "Water/Ice/Psychic/Ground")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868039516059996180/031.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -744,7 +744,7 @@ async def NidoranMale(ctx):
     embed.add_field(name="Weaknesses", value= "Psychic/Ground")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868041386191097886/032.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -757,7 +757,7 @@ async def Nidorino(ctx):
     embed.add_field(name="Weaknesses", value= "Psychic/Ground")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/868041417623232523/033.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -771,7 +771,7 @@ async def Nidoking(ctx):
     embed.add_field(name="Weaknesses", value= "Water/Ice/Psychic/Ground")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/868041450028400640/034.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -785,7 +785,7 @@ async def Clefairy(ctx):
     embed.add_field(name="Weaknesses", value= "Steel/Poison")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868346044184928276/035.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -801,7 +801,7 @@ async def Clefable(ctx):
     embed.add_field(name="Weaknesses", value= "Steel/Poison")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868346715701407744/036.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -814,7 +814,7 @@ async def Vulpix(ctx):
     embed.add_field(name="Weaknesses", value= "Water/Ground/Rock")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868347336097660968/037.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -827,7 +827,7 @@ async def AlolanVulpix(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Steel/Fighting/Rock")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868348224539353098/037_f2.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -841,7 +841,7 @@ async def Ninetales(ctx):
     embed.add_field(name="Weaknesses", value= "Water/Ground/Rock")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868348722231259146/038.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -856,7 +856,7 @@ async def AlolanNinetales(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Steel/Fighting/Rock")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868349387393339412/038_f2.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -870,7 +870,7 @@ async def Jigglypuff(ctx):
     embed.add_field(name="Weaknesses", value= "Steel/Poison")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868349913237446746/039.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -883,7 +883,7 @@ async def Wigglytuff(ctx):
     embed.add_field(name="Weaknesses", value= "Steel/Poison")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868349969814392852/040.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -898,7 +898,7 @@ async def Zubat(ctx):
     embed.add_field(name="Weaknesses", value= "Psychic/Electric/Ice/Rock")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868352614423748638/041.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -913,7 +913,7 @@ async def Golbat(ctx):
     embed.add_field(name="Weaknesses", value= "Psychic/Electric/Ice/Rock")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868352670572900392/042.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -927,7 +927,7 @@ async def Oddish(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Psychic/Flying/Ice")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868355478265155624/043.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -940,7 +940,7 @@ async def Gloom(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Psychic/Flying/Ice")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868355514671726612/044.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -955,7 +955,7 @@ async def Vileplume(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Psychic/Flying/Ice")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868355570422403072/045.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -970,7 +970,7 @@ async def Paras(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Flying/Ice/Poison/Rock/Bug")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868357769579864094/046.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -983,7 +983,7 @@ async def Parasect(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Flying/Ice/Poison/Rock/Bug")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868357874785599518/047.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -997,7 +997,7 @@ async def Venonat(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Flying/Psychic/Rock")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868360900824948736/048.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -1011,7 +1011,7 @@ async def Venomoth(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Flying/Psychic/Rock")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868361675533848626/049.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -1026,7 +1026,7 @@ async def Diglett(ctx):
     embed.add_field(name="Weaknesses", value= "Water/Ground/Ice")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868362800643309598/050.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -1040,7 +1040,7 @@ async def AlolanDiglett(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Water/Fighting/Ground")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868362862932934688/050_f2.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -1053,7 +1053,7 @@ async def Dugtrio(ctx):
     embed.add_field(name="Weaknesses", value= "Water/Ground/Ice")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868365005932859452/051.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -1066,7 +1066,7 @@ async def AlolanDugtrio(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Water/Fighting/Ground")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868365047020261406/051_f2.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -1080,7 +1080,7 @@ async def Meowth(ctx):
     embed.add_field(name="Weaknesses", value= "Fighting")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868366646933344326/052.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -1095,7 +1095,7 @@ async def AlolanMeowth(ctx):
     embed.add_field(name="Weaknesses", value= "Fairy/Bug/Fighting")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868367052463829052/052_f2.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -1109,7 +1109,7 @@ async def GalarianMeowth(ctx):
     embed.add_field(name="Weaknesses", value= "Fire/Ground/Fighting")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868367494031769610/052_f3.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -1123,7 +1123,7 @@ async def GigantamaxMeowth(ctx):
     embed.add_field(name="Weaknesses", value= "Fighting")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://cdn.discordapp.com/attachments/866591261640622131/868367971280629770/052_f4.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -1137,7 +1137,7 @@ async def Persian(ctx):
     embed.add_field(name="Weaknesses", value= "Fighting")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/870559771747573770/053.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -1151,7 +1151,7 @@ async def AlolanPersian(ctx):
     embed.add_field(name="Weaknesses", value= "Fairy/Bug/Fighting")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/870560442764906526/053_f2.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -1166,7 +1166,7 @@ async def Psyduck(ctx):
     embed.add_field(name="Weaknesses", value= "Grass/Electric")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/870563209357180968/054.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -1181,7 +1181,7 @@ async def Golduck(ctx):
     embed.add_field(name="Weaknesses", value= "Grass/Electric")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/871293238760316938/055.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -1195,7 +1195,7 @@ async def Mankey(ctx):
     embed.add_field(name="Weaknesses", value= "Psychic/Flying/Fairy")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/871294481792651304/056.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
 
@@ -1209,9 +1209,19 @@ async def Primeape(ctx):
     embed.add_field(name="Weaknesses", value= "Psychic/Flying/Fairy")
     embed.add_field(name="Region", value="Kanto" )
     embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/871294524897513482/057.png')
-    embed.set_footer(text="Created by MusicalPieces◥▶_◀◤#0009")
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
+
+@client.command()
+async def Growlithe(ctx):    
+    embed = discord.Embed(title="Pokemon #057 ", description=" **Primeape**", color=discord.Color.random())
+    embed.add_field(name="Types", value= "Fighting")
+    embed.add_field(name="Weaknesses", value= "Psychic/Flying/Fairy")
+    embed.add_field(name="Region", value="Kanto" )
+    embed.set_image(url='https://media.discordapp.net/attachments/866591261640622131/871294524897513482/057.png')
+    embed.set_footer(text=f'Requested by {ctx.author.name}', icon_url= ctx.author.avatar_url)
+    await ctx.send(embed=embed)
 
 
 keep_alive()
