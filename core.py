@@ -13,7 +13,7 @@ from threading import Thread
 from webserver import keep_alive
 import os 
 import asyncio
-
+import requests
 
 from discord.ext.commands.core import command
 
@@ -77,6 +77,35 @@ async def ping(ctx):
     message= await ctx.send('🔌`Intialising connection...`')
     await message.edit(content="🛠️`Processing...`")
     await message.edit(content=f'🟢 **Pong!  {round(client.latency *1000)}ms**')
+#pokemon
+
+URL_API = 'https://pokeapi.co/api/v2/pokemon/'
+
+#pokemon
+@client.command()
+async def pokemon(ctx, *, args):
+  
+    pokeName = args.lower()
+    try:
+        r = requests.get(f'{URL_API}{pokeName}')
+        packages_json = r.json()
+        packages_json.keys()
+
+        embed = discord.Embed(title="Pokemon", color=discord.Color.random())
+        embed.add_field(name="Name", value=packages_json['name'], inline=True)
+        embed.add_field(name="Pokedex Order", value=packages_json['order'], inline=False)
+
+        embed.set_thumbnail(url= f'https://play.pokemonshowdown.com/sprites/ani/{pokeName}.gif')     
+        embed.add_field(name="Weight (kg)", value=packages_json['weight']/10, inline=False)
+        embed.add_field(name="Height (m)", value=packages_json['height']/10, inline=False)
+   
+        embed.add_field(name="Base XP", value=packages_json['base_experience'], inline=False)
+        for type in packages_json['types']: #FOR TO GET A TYPE OF A POKEMON
+            embed.add_field(name="Types", value= type['type']['name'], inline=False)
+        embed.set_footer(text=f"Requested by {ctx.author} , v1.0.2", icon_url=ctx.author.avatar_url )
+        await ctx.send(embed=embed)
+    except:
+        await ctx.send("Pokemon not found!")
 
 #001
 
