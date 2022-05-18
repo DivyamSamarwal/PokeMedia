@@ -1,0 +1,185 @@
+{
+    "pokemon": [
+        {
+            "name": "Bulbasaur",
+            "number": "001",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "grass",
+                "poison"
+            ],
+            "height": "2'04\"",
+            "weight": "15.2 lbs",
+            "abilities": [
+                "overgrow",
+                "chlorophyll"
+            ],
+            "stats": {
+                "hp": 45,
+                "attack": 49,
+                "defense": 49,
+                "sp.atk": 65,
+                "sp.def": 65,
+                "speed": 45,
+                "total": 318
+            },
+            "evolution": [
+                "Bulbasaur",
+                "Ivysaur",
+                "Venusaur"
+            ]
+        },
+    {
+        "name" : "Ivysaur",
+        "number" : "002",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "grass",
+            "poison"
+        ],
+        "height" : "3'03\"",
+        "weight" : "28.7 lbs",
+        "abilities" : [
+            "overgrow",
+            "chlorophyll"
+        ],
+        "stats" : {
+            "hp" : 60,
+            "attack" : 62,
+            "defense" : 63,
+            "sp.atk" : 80,
+            "sp.def" : 80,
+            "speed" : 60,
+            "total" : 405
+        },
+        "evolution" : [
+            "Bulbasaur",
+            "Ivysaur",
+            "Venusaur"
+        ]
+    },
+    {
+        "name" : "Venusaur",
+        "number" : "003",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "grass",
+            "poison"
+        ],
+        "height" : "6'07\"",
+        "weight" : "220.5 lbs",
+
+        "abilities" : [
+            "overgrow",
+            "chlorophyll"
+        ],
+        "stats" : {
+            "hp" : 80,
+            "attack" : 82,
+            "defense" : 83,
+            "sp.atk" : 100,
+            "sp.def" : 100,
+            "speed" : 80,
+            "total" : 525
+        },
+        "evolution" : [
+            "Bulbasaur",
+            "Ivysaur",
+            "Venusaur"
+        ]
+    },
+    {
+        "name" : "Charmander",
+        "number" : "004",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "fire"
+        ],
+        "height" : "2'00\"",
+        "weight" : "18.7 lbs",
+        "abilities" : [
+            "blaze",
+            "solar-power"
+        ],
+        "stats" : {
+            "hp" : 39,
+            "attack" : 52,
+            "defense" : 43,
+            "sp.atk" : 60,
+            "sp.def" : 50,
+            "speed" : 65,
+            "total" : 309
+        },
+        "evolution" : [
+            "Charmander",
+            "Charmeleon",
+            "Charizard"
+        ]
+    },
+    {
+        "name": "Charmeleon",
+        "number": "005",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+        "color": "rgb(255,193,7)",
+        "type": [
+            "fire"
+        ],
+        "height": "3'07\"",
+        "weight": "41.9 lbs",
+        "abilities": [
+            "blaze",
+            "solar-power"
+        ],
+        "stats": {
+            "hp": 58,
+            "attack": 64,
+            "defense": 58,
+            "sp.atk": 80,
+            "sp.def": 65,
+            "speed": 80,
+            "total": 405
+        },
+        "evolution": [
+            "Charmander",
+            "Charmeleon",
+            "Charizard"
+        ]
+    },
+    {
+        "name" : "Charizard",
+        "number" : "006",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "fire",
+            "flying"
+        ],
+        "height" : "5'07\"",
+        "weight" : "199.5 lbs",
+        "abilities" : [
+            "blaze",
+            "solar-power"
+        ],
+        "stats" : {
+            "hp" : 78,
+            "attack" : 84,
+            "defense" : 78,
+            "sp.atk" : 109,
+            "sp.def" : 85,
+            "speed" : 100,
+            "total" : 534
+        },
+        "evolution" : [
+            "Charmander",
+            "Charmeleon",
+            "Charizard"
+        ]
+    },
+   
+        
+    ]
+}
