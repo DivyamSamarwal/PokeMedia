@@ -1452,6 +1452,728 @@
             "Diglett",
             "Dugtrio"
         ]
+    },
+    {
+        "name" : "Dugtrio",
+        "number" : "051",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "ground"
+        ],
+        "height" : "0'09\"",
+        "weight" : "33.3 lbs",
+        "abilities" : [
+            "sand-veil",
+            "sand-force"
+        ],
+        "stats" : {
+            "hp" : 35,
+            "attack" : 100,
+            "defense" : 50,
+            "sp.atk" : 50,
+            "sp.def" : 70,
+            "speed" : 120,
+            "total" : 435
+        },
+        "evolution" : [
+            "Diglett",
+            "Dugtrio"
+        ]
+    },
+    {
+        "name" : "Meowth",
+        "number" : "052",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal"
+        ],
+        "height" : "0'04\"",
+        "weight" : "7.5 lbs",
+        "abilities" : [
+            "pickup",
+            "technician"
+        ],
+        "stats" : {
+            "hp" : 40,
+            "attack" : 45,
+            "defense" : 35,
+            "sp.atk" : 40,
+            "sp.def" : 40,
+            "speed" : 90,
+            "total" : 250
+        },
+        "evolution" : [
+            "Meowth",
+            "Persian"
+        ]
+    },
+    {
+        "name" : "Persian",
+        "number" : "053",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal"
+        ],
+        "height" : "0'08\"",
+        "weight" : "32.0 lbs",
+        "abilities" : [
+            "limber",
+            "technician"
+        ],
+        "stats" : {
+            "hp" : 65,
+            "attack" : 70,
+            "defense" : 60,
+            "sp.atk" : 65,
+            "sp.def" : 65,
+            "speed" : 115,
+            "total" : 410
+        },
+        "evolution" : [
+            "Meowth",
+            "Persian"
+        ]
+    },
+    {
+        "name" :  "Psyduck",
+        "number" : "054",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water"
+        ],
+        "height" : "0'09\"",
+        "weight" : "19.6 lbs",
+        "abilities" : [
+            "damp",
+            "cloud-nine"
+        ],
+        "stats" : {
+            "hp" : 50,
+            "attack" : 52,
+            "defense" : 48,
+            "sp.atk" : 65,
+            "sp.def" : 50,
+            "speed" : 55,
+            "total" : 320
+        },
+        "evolution" : [
+            "Psyduck",
+            "Golduck"
+        ]
+    },
+    {
+        "name" :   "Golduck",
+        "number" : "055",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water"
+        ],
+        "height" : "0'09\"",
+        "weight" : "76.6 lbs",
+        "abilities" : [
+            "damp",
+            "cloud-nine"
+        ],
+        "stats" : {
+            "hp" : 80,
+            "attack" : 82,
+            "defense" : 78,
+            "sp.atk" : 95,
+            "sp.def" : 80,
+            "speed" : 85,
+            "total" : 500
+        },
+        "evolution" : [
+            "Psyduck",
+            "Golduck"
+        ]
+    },
+    {
+        "name" : "Mankey",
+        "number" : "056",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "fighting"
+        ],
+        "height" : "0'04\"",
+        "weight" : "28.7 lbs",
+        "abilities" : [
+            "vital-spirit",
+            "anger-point"
+        ],
+        "stats" : {
+            "hp" : 40,
+            "attack" : 80,
+            "defense" : 35,
+            "sp.atk" : 35,
+            "sp.def" : 45,
+            "speed" : 70,
+            "total" : 300
+        },
+        "evolution" : [
+            "Mankey",
+            "Primeape"
+        ]
+    },
+    {
+        "name" : "Primeape",
+        "number" : "057",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "fighting"
+        ],
+        "height" : "0'09\"",
+        "weight" : "32.0 lbs",
+        "abilities" : [
+            "vital-spirit",
+            "anger-point"
+        ],
+        "stats" : {
+            "hp" : 65,
+            "attack" : 105,
+            "defense" : 60,
+            "sp.atk" : 60,
+            "sp.def" : 70,
+            "speed" : 95,
+            "total" : 455
+        },
+        "evolution" : [
+            "Mankey",
+            "Primeape"
+        ]
+    },
+    {
+        "name" : "Growlithe",
+        "number" : "058",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "fire"
+        ],
+        "height" : "0'04\"",
+        "weight" : "19.0 lbs",
+        "abilities" : [
+            "flash-fire",
+            "intimidate"
+        ],
+        "stats" : {
+            "hp" : 55,
+            "attack" : 70,
+            "defense" : 45,
+            "sp.atk" : 70,
+            "sp.def" : 50,
+            "speed" : 60,
+            "total" : 340
+        },
+        "evolution" : [
+            "Growlithe",
+            "Arcanine"
+        ]
+    },
+    {
+        "name" : "Arcanine",
+        "number" : "059",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "fire"
+        ],
+        "height" : "0'09\"",
+        "weight" : "155.0 lbs",
+        "abilities" : [
+            "flash-fire",
+            "intimidate"
+        ],
+        "stats" : {
+            "hp" : 90,
+            "attack" : 110,
+            "defense" : 80,
+            "sp.atk" : 100,
+            "sp.def" : 80,
+            "speed" : 95,
+            "total" : 515
+        },
+        "evolution" : [
+            "Growlithe",
+            "Arcanine"
+        ]
+    },
+    {
+        "name" : "Poliwag",
+        "number" : "060",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water"
+        ],
+        "height" : "0'01\"",
+        "weight" : "12.4 lbs",
+        "abilities" : [
+            "damp",
+            "water-absorb"
+        ],
+        "stats" : {
+            "hp" : 40,
+            "attack" : 50,
+            "defense" : 40,
+            "sp.atk" : 40,
+            "sp.def" : 40,
+            "speed" : 90,
+            "total" : 300
+        },
+        "evolution" : [
+            "Poliwag",
+            "Poliwhirl",
+            "Poliwrath"
+        ]
+    },
+    {
+        "name" : "Poliwhirl",
+        "number" : "061",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water"
+        ],
+        "height" : "0'02\"",
+        "weight" : "20.0 lbs",
+        "abilities" : [
+            "damp",
+            "water-absorb"
+        ],
+        "stats" : {
+            "hp" : 65,
+            "attack" : 65,
+            "defense" : 65,
+            "sp.atk" : 50,
+            "sp.def" : 50,
+            "speed" : 90,
+            "total" : 385
+        },
+        "evolution" : [
+            "Poliwag",
+            "Poliwhirl",
+            "Poliwrath"
+        ]
+    },
+    {
+        "name" : "Poliwrath",
+        "number" : "062",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water",
+            "fighting"
+        ],
+        "height" : "0'09\"",
+        "weight" : "54.0 lbs",
+        "abilities" : [
+            "damp",
+            "water-absorb"
+        ],
+        "stats" : {
+            "hp" : 90,
+            "attack" : 95,
+            "defense" : 95,
+            "sp.atk" : 70,
+            "sp.def" : 90,
+            "speed" : 70,
+            "total" : 490
+        },
+        "evolution" : [
+            "Poliwag",
+            "Poliwhirl",
+            "Poliwrath"
+        ]
+    },
+    {
+        "name" : "Abra",
+        "number" : "063",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "psychic"
+        ],
+        "height" : "0'03\"",
+        "weight" : "19.5 lbs",
+        "abilities" : [
+            "synchronize",
+            "inner-focus"
+        ],
+        "stats" : {
+            "hp" : 25,
+            "attack" : 35,
+            "defense" : 45,
+            "sp.atk" : 70,
+            "sp.def" : 55,
+            "speed" : 85,
+            "total" : 320
+        },
+        "evolution" : [
+            "Abra",
+            "Kadabra",
+            "Alakazam"
+        ]
+    },
+    {
+        "name" : "Kadabra",
+        "number" : "064",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "psychic"
+        ],
+        "height" : "0'04\"",
+        "weight" : "56.5 lbs",
+        "abilities" : [
+            "synchronize",
+            "inner-focus"
+        ],
+        "stats" : {
+            "hp" : 40,
+            "attack" : 65,
+            "defense" : 65,
+            "sp.atk" : 95,
+            "sp.def" : 85,
+            "speed" : 105,
+            "total" : 435
+        },
+        "evolution" : [
+            "Abra",
+            "Kadabra",
+            "Alakazam"
+        ]
+    },
+    {
+        "name" : "Alakazam",
+        "number" : "065",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "psychic"
+        ],
+        "height" : "0'03\"",
+        "weight" : "48.0 lbs",
+        "abilities" : [
+            "synchronize",
+            "inner-focus"
+        ],
+        "stats" : {
+            "hp" : 55,
+            "attack" : 85,
+            "defense" : 95,
+            "sp.atk" : 115,
+            "sp.def" : 95,
+            "speed" : 130,
+            "total" : 540
+        },
+        "evolution" : [
+            "Abra",
+            "Kadabra",
+            "Alakazam"
+        ]
+    },
+    {
+        "name" : "Machop",
+        "number" : "066",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "fighting"
+        ],
+        "height" : "0'03\"",
+        "weight" : "19.5 lbs",
+        "abilities" : [
+            "guts",
+            "no-guard"
+        ],
+        "stats" : {
+            "hp" : 70,
+            "attack" : 80,
+            "defense" : 50,
+            "sp.atk" : 35,
+            "sp.def" : 35,
+            "speed" : 35,
+            "total" : 305
+        },
+        "evolution" : [
+            "Machop",
+            "Machoke",
+            "Machamp"
+        ]
+    },
+    {
+        "name" : "Machoke",
+        "number" : "067",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "fighting"
+        ],
+        "height" : "0'07\"",
+        "weight" : "86.4 lbs",
+        "abilities" : [
+            "guts",
+            "no-guard"
+        ],
+        "stats" : {
+            "hp" : 80,
+            "attack" : 100,
+            "defense" : 70,
+            "sp.atk" : 50,
+            "sp.def" : 60,
+            "speed" : 45,
+            "total" : 405
+        },
+        "evolution" : [
+            "Machop",
+            "Machoke",
+            "Machamp"
+        ]
+    },
+    {
+        "name" : "Machamp",
+        "number" : "068",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "fighting"
+        ],
+        "height" : "0'08\"",
+        "weight" : "130.0 lbs",
+        "abilities" : [
+            "guts",
+            "no-guard"
+        ],
+        "stats" : {
+            "hp" : 90,
+            "attack" : 130,
+            "defense" : 80,
+            "sp.atk" : 65,
+            "sp.def" : 85,
+            "speed" : 55,
+            "total" : 505
+        },
+        "evolution" : [
+            "Machop",
+            "Machoke",
+            "Machamp"
+        ]
+    },
+    {
+        "name" : "Bellsprout",
+        "number" : "069",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "grass",
+            "poison"
+        ],
+        "height" : "0'04\"",
+        "weight" : "4.0 lbs",
+        "abilities" : [
+            "chlorophyll",
+            "overgrow"
+        ],
+        "stats" : {
+            "hp" : 50,
+            "attack" : 75,
+            "defense" : 35,
+            "sp.atk" : 70,
+            "sp.def" : 30,
+            "speed" : 40,
+            "total" : 285
+        },
+        "evolution" : [
+            "Bellsprout",
+            "Weepinbell",
+            "Victreebel"
+        ]
+    },
+    {
+        "name" : "Weepinbell",
+        "number" : "070",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "grass",
+            "poison"
+        ],
+        "height" : "0'07\"",
+        "weight" : "6.4 lbs",
+        "abilities" : [
+            "chlorophyll",
+            "overgrow"
+        ],
+        "stats" : {
+            "hp" : 65,
+            "attack" : 90,
+            "defense" : 50,
+            "sp.atk" : 85,
+            "sp.def" : 45,
+            "speed" : 55,
+            "total" : 395
+        },
+        "evolution" : [
+            "Bellsprout",
+            "Weepinbell",
+            "Victreebel"
+        ]
+    },
+    {
+        "name" : "Victreebel",
+        "number" : "071",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "grass",
+            "poison"
+        ],
+        "height" : "0'09\"",
+        "weight" : "15.5 lbs",
+        "abilities" : [
+            "chlorophyll",
+            "overgrow"
+        ],
+        "stats" : {
+            "hp" : 80,
+            "attack" : 105,
+            "defense" : 65,
+            "sp.atk" : 100,
+            "sp.def" : 70,
+            "speed" : 70,
+            "total" : 490
+        },
+        "evolution" : [
+            "Bellsprout",
+            "Weepinbell",
+            "Victreebel"
+        ]
+    },
+    {
+        "name" : "Tentacool",
+        "number" : "072",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water",
+            "poison"
+        ],
+        "height" : "0'03\"",
+        "weight" : "45.5 lbs",
+        "abilities" : [
+            "clear-body",
+            "rain-dish"
+        ],
+        "stats" : {
+            "hp" : 40,
+            "attack" : 40,
+            "defense" : 35,
+            "sp.atk" : 50,
+            "sp.def" : 100,
+            "speed" : 70,
+            "total" : 330
+        },
+        "evolution" : [
+            "Tentacool",
+            "Tentacruel"
+        ]
+    },
+    {
+        "name" : "Tentacruel",
+        "number" : "073",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water",
+            "poison"
+        ],
+        "height" : "0'08\"",
+        "weight" : "55.0 lbs",
+        "abilities" : [
+            "clear-body",
+            "rain-dish"
+        ],
+        "stats" : {
+            "hp" : 80,
+            "attack" : 70,
+            "defense" : 65,
+            "sp.atk" : 80,
+            "sp.def" : 120,
+            "speed" : 100,
+            "total" : 490
+        },
+        "evolution" : [
+            "Tentacool",
+            "Tentacruel"
+        ]
+    },
+    {
+        "name" : "Geodude",
+        "number" : "074",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "rock",
+            "ground"
+        ],
+        "height" : "0'04\"",
+        "weight" : "20.0 lbs",
+        "abilities" : [
+            "sturdy",
+            "sand-veil"
+        ],
+        "stats" : {
+            "hp" : 40,
+            "attack" : 80,
+            "defense" : 100,
+            "sp.atk" : 30,
+            "sp.def" : 30,
+            "speed" : 20,
+            "total" : 300
+        },
+        "evolution" : [
+            "Geodude",
+            "Graveler",
+            "Golem"
+        ]
+    },
+    {
+        "name" : "Graveler",
+        "number" : "075",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "rock",
+            "ground"
+        ],
+        "height" : "0'08\"",
+        "weight" : "105.0 lbs",
+        "abilities" : [
+            "sturdy",
+            "sand-veil"
+        ],
+        "stats" : {
+            "hp" : 55,
+            "attack" : 95,
+            "defense" : 115,
+            "sp.atk" : 45,
+            "sp.def" : 45,
+            "speed" : 35,
+            "total" : 425
+        },
+        "evolution" : [
+            "Geodude",
+            "Graveler",
+            "Golem"
+        ]
     }
  
     ]
