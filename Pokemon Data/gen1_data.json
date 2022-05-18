@@ -179,6 +179,127 @@
             "Charizard"
         ]
     },
+    {
+        "name": "Squirtle",
+        "number": "007",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+        "color": "rgb(255,193,7)",
+        "type": [
+            "water"
+        ],
+        "height": "1'08\"",
+        "weight": "19.8 lbs",
+        "abilities": [
+            "torrent",
+            "rain-dish"
+        ],
+        "stats": {
+            "hp": 44,
+            "attack": 48,
+            "defense": 65,
+            "sp.atk": 50,
+            "sp.def": 64,
+            "speed": 43,
+            "total": 314
+        },
+        "evolution": [
+            "Squirtle",
+            "Wartortle",
+            "Blastoise"
+        ]
+    },
+    {
+        "name": "Wartortle",
+        "number": "008",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+        "color": "rgb(255,193,7)",
+        "type": [
+            "water"
+        ],
+        "height": "3'03\"",
+        "weight": "49.6 lbs",
+        "abilities": [
+            "torrent",
+            "rain-dish"
+        ],
+        "stats": {
+            "hp": 59,
+            "attack": 63,
+            "defense": 80,
+            "sp.atk": 65,
+            "sp.def": 80,
+            "speed": 58,
+            "total": 405
+        },
+        "evolution": [
+            "Squirtle",
+            "Wartortle",
+            "Blastoise"
+        ]
+    },
+
+    {
+        "name": "Blastoise",
+        "number": "009",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+        "color": "rgb(255,193,7)",
+        "type": [
+            "water"
+        ],
+        "height": "5'03\"",
+        "weight": "188.5 lbs",
+        "abilities": [
+            "torrent",
+            "rain-dish"
+        ],
+        "stats": {
+            "hp": 79,
+            "attack": 83,
+            "defense": 100,
+            "sp.atk": 85,
+            "sp.def": 105,
+            "speed": 78,
+            "total": 530
+        },
+        "evolution": [
+            "Squirtle",
+            "Wartortle",
+            "Blastoise"
+        ]
+    },
+    {
+        "name" : "Caterpie",
+        "number" : "010",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "bug"
+        ],
+        "height" : "1'00\"",
+        "weight" : "6.4 lbs",
+        "abilities" : [
+            "shield-dust",
+            "run-away"
+        ],
+        "stats" : {
+            "hp" : 45,
+            "attack" : 30,
+            "defense" : 35,
+            "sp.atk" : 20,
+            "sp.def" : 20,
+            "speed" : 45,
+            "total" : 195
+        },
+        "evolution" : [
+            "Caterpie",
+            "Metapod",
+            "Butterfree"
+        ]
+    },
+    {
+        "name" : "Metapod",
+        
+    }
    
         
     ]
