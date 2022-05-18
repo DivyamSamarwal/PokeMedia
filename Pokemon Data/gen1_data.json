@@ -298,9 +298,356 @@
     },
     {
         "name" : "Metapod",
-        
+        "number" : "011",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "bug"
+        ],
+        "height" : "2'00\"",
+        "weight" : "21.8 lbs",
+        "abilities" : [
+            "shed-skin"
+        ],
+        "stats" : {
+            "hp" : 50,
+            "attack" : 20,
+            "defense" : 55,
+            "sp.atk" : 25,
+            "sp.def" : 25,
+            "speed" : 30,
+            "total" : 205
+        },
+        "evolution" : [
+            "Caterpie",
+            "Metapod",
+            "Butterfree"
+        ]
+    },
+    {
+        "name" : "Butterfree",
+        "number" : "012",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "bug",
+            "flying"
+        ],
+        "height" : "3'07\"",
+        "weight" : "70.5 lbs",
+        "abilities" : [
+            "compound-eyes",
+            "tinted-lens"
+        ],
+        "stats" : {
+            "hp" : 60,
+            "attack" : 45,
+            "defense" : 50,
+            "sp.atk" : 90,
+            "sp.def" : 80,
+            "speed" : 70,
+            "total" : 395
+        },
+        "evolution" : [
+            "Caterpie",
+            "Metapod",
+            "Butterfree"
+        ]
+    },
+    {
+        "name" : "Weedle",
+        "number" : "013",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "bug",
+            "poison"
+        ],
+        "height" : "1'00\"",
+        "weight" : "7.1 lbs",
+        "abilities" : [
+            "shield-dust",
+            "run-away"
+        ],
+        "stats" : {
+            "hp" : 40,
+            "attack" : 35,
+            "defense" : 30,
+            "sp.atk" : 20,
+            "sp.def" : 20,
+            "speed" : 50,
+            "total" : 195
+        },
+        "evolution" : [
+            "Weedle",
+            "Kakuna",
+            "Beedrill"
+        ]
+    },
+    {
+        "name": "Kakuna",
+        "number": "014",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+        "color": "rgb(255,193,7)",
+        "type": [
+            "bug",
+            "poison"
+        ],
+        "height": "2'00\"",
+        "weight": "10.0 lbs",
+        "abilities": [
+            "shed-skin"
+        ],
+        "stats": {
+            "hp": 45,
+            "attack": 25,
+            "defense": 50,
+            "sp.atk": 25,
+            "sp.def": 25,
+            "speed": 35,
+            "total": 205
+        },
+        "evolution": [
+            "Weedle",
+            "Kakuna",
+            "Beedrill"
+        ]
+    },
+    {
+        "name": "Beedrill",
+        "number": "015",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+        "color": "rgb(255,193,7)",
+        "type": [
+            "bug",
+            "poison"
+        ],
+        "height": "3'03\"",
+        "weight": "65.5 lbs",
+        "abilities": [
+            "swarm",
+            "sniper"
+        ],
+        "stats": {
+            "hp": 65,
+            "attack": 90,
+            "defense": 40,
+            "sp.atk": 45,
+            "sp.def": 80,
+            "speed": 75,
+            "total": 395
+        },
+        "evolution": [
+            "Weedle",
+            "Kakuna",
+            "Beedrill"
+        ]
+    },
+    {
+        "name": "Pidgey",
+        "number": "016",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+        "color": "rgb(255,193,7)",
+        "type": [
+            "normal",
+            "flying"
+        ],
+        "height": "1'00\"",
+        "weight": "4.0 lbs",
+        "abilities": [
+            "keen-eye",
+            "tangled-feet"
+        ],
+        "stats": {
+            "hp": 40,
+            "attack": 45,
+            "defense": 40,
+            "sp.atk": 35,
+            "sp.def": 35,
+            "speed": 56,
+            "total": 251
+        },
+        "evolution": [
+            "Pidgey",
+            "Pidgeotto",
+            "Pidgeot"
+        ]
+    },
+    {
+        "name" : "Pidgeotto",
+        "number" : "017",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal",
+            "flying"
+        ],
+        "height" : "3'07\"",
+        "weight" : "66.1 lbs",
+        "abilities" : [
+            "keen-eye",
+            "tangled-feet"
+        ],
+        "stats" : {
+            "hp" : 63,
+            "attack" : 60,
+            "defense" : 55,
+            "sp.atk" : 50,
+            "sp.def" : 50,
+            "speed" : 71,
+            "total" : 351
+        },
+        "evolution" : [
+            "Pidgey",
+            "Pidgeotto",
+            "Pidgeot"
+        ]
+    },
+    {
+        "name" : "Pidgeot",
+        "number" : "018",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal",
+            "flying"
+        ],
+        "height" : "5'07\"",
+        "weight" : "66.1 lbs",
+        "abilities" : [
+            "keen-eye",
+            "tangled-feet"
+        ],
+        "stats" : {
+            "hp" : 83,
+            "attack" : 80,
+            "defense" : 75,
+            "sp.atk" : 70,
+            "sp.def" : 70,
+            "speed" : 101,
+            "total" : 501
+        },
+        "evolution" : [
+            "Pidgey",
+            "Pidgeotto",
+            "Pidgeot"
+        ]
+    },
+    {
+        "name" : "Rattata",
+        "number" : "019",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal"
+        ],
+        "height" : "1'00\"",
+        "weight" : "7.0 lbs",
+        "abilities" : [
+            "run-away",
+            "guts"
+        ],
+        "stats" : {
+            "hp" : 30,
+            "attack" : 56,
+            "defense" : 35,
+            "sp.atk" : 25,
+            "sp.def" : 35,
+            "speed" : 72,
+            "total" : 251
+        },
+        "evolution" : [
+            "Rattata",
+            "Raticate"
+        ]
+    },
+    {
+        "name" : "Raticate",
+        "number" : "020",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal"
+        ],
+        "height" : "3'03\"",
+        "weight" : "40.0 lbs",
+        "abilities" : [
+            "run-away",
+            "guts"
+        ],
+        "stats" : {
+            "hp" : 55,
+            "attack" : 81,
+            "defense" : 60,
+            "sp.atk" : 50,
+            "sp.def" : 70,
+            "speed" : 97,
+            "total" : 401
+        },
+        "evolution" : [
+            "Rattata",
+            "Raticate"
+        ]
+    },
+    {
+        "name" : "Spearow",
+        "number" : "021",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal",
+            "flying"
+        ],
+        "height" : "1'00\"",
+        "weight" : "2.0 lbs",
+        "abilities" : [
+            "keen-eye",
+            "sniper"
+        ],
+        "stats" : {
+            "hp" : 40,
+            "attack" : 60,
+            "defense" : 30,
+            "sp.atk" : 31,
+            "sp.def" : 31,
+            "speed" : 70,
+            "total" : 251
+        },
+        "evolution" : [
+            "Spearow",
+            "Fearow"
+        ]
+    },
+    {
+        "name" : "Fearow",
+        "number" : "022",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal",
+            "flying"
+        ],
+        "height" : "3'03\"",
+        "weight" : "83.0 lbs",
+        "abilities" : [
+            "keen-eye",
+            "sniper"
+        ],
+        "stats" : {
+            "hp" : 65,
+            "attack" : 90,
+            "defense" : 65,
+            "sp.atk" : 61,
+            "sp.def" : 61,
+            "speed" : 100,
+            "total" : 431
+        },
+        "evolution" : [
+            "Spearow",
+            "Fearow"
+        ]
     }
-   
+
         
     ]
 }
