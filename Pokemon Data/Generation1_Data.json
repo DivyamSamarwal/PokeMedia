@@ -1,0 +1,1458 @@
+{
+    "pokemon": [
+        {
+            "name": "Bulbasaur",
+            "number": "001",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "grass",
+                "poison"
+            ],
+            "height": "2'04\"",
+            "weight": "15.2 lbs",
+            "abilities": [
+                "overgrow",
+                "chlorophyll"
+            ],
+            "stats": {
+                "hp": 45,
+                "attack": 49,
+                "defense": 49,
+                "sp.atk": 65,
+                "sp.def": 65,
+                "speed": 45,
+                "total": 318
+            },
+            "evolution": [
+                "Bulbasaur",
+                "Ivysaur",
+                "Venusaur"
+            ]
+        },
+    {
+        "name" : "Ivysaur",
+        "number" : "002",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "grass",
+            "poison"
+        ],
+        "height" : "3'03\"",
+        "weight" : "28.7 lbs",
+        "abilities" : [
+            "overgrow",
+            "chlorophyll"
+        ],
+        "stats" : {
+            "hp" : 60,
+            "attack" : 62,
+            "defense" : 63,
+            "sp.atk" : 80,
+            "sp.def" : 80,
+            "speed" : 60,
+            "total" : 405
+        },
+        "evolution" : [
+            "Bulbasaur",
+            "Ivysaur",
+            "Venusaur"
+        ]
+    },
+    {
+        "name" : "Venusaur",
+        "number" : "003",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "grass",
+            "poison"
+        ],
+        "height" : "6'07\"",
+        "weight" : "220.5 lbs",
+
+        "abilities" : [
+            "overgrow",
+            "chlorophyll"
+        ],
+        "stats" : {
+            "hp" : 80,
+            "attack" : 82,
+            "defense" : 83,
+            "sp.atk" : 100,
+            "sp.def" : 100,
+            "speed" : 80,
+            "total" : 525
+        },
+        "evolution" : [
+            "Bulbasaur",
+            "Ivysaur",
+            "Venusaur"
+        ]
+    },
+    {
+        "name" : "Charmander",
+        "number" : "004",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "fire"
+        ],
+        "height" : "2'00\"",
+        "weight" : "18.7 lbs",
+        "abilities" : [
+            "blaze",
+            "solar-power"
+        ],
+        "stats" : {
+            "hp" : 39,
+            "attack" : 52,
+            "defense" : 43,
+            "sp.atk" : 60,
+            "sp.def" : 50,
+            "speed" : 65,
+            "total" : 309
+        },
+        "evolution" : [
+            "Charmander",
+            "Charmeleon",
+            "Charizard"
+        ]
+    },
+    {
+        "name": "Charmeleon",
+        "number": "005",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+        "color": "rgb(255,193,7)",
+        "type": [
+            "fire"
+        ],
+        "height": "3'07\"",
+        "weight": "41.9 lbs",
+        "abilities": [
+            "blaze",
+            "solar-power"
+        ],
+        "stats": {
+            "hp": 58,
+            "attack": 64,
+            "defense": 58,
+            "sp.atk": 80,
+            "sp.def": 65,
+            "speed": 80,
+            "total": 405
+        },
+        "evolution": [
+            "Charmander",
+            "Charmeleon",
+            "Charizard"
+        ]
+    },
+    {
+        "name" : "Charizard",
+        "number" : "006",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "fire",
+            "flying"
+        ],
+        "height" : "5'07\"",
+        "weight" : "199.5 lbs",
+        "abilities" : [
+            "blaze",
+            "solar-power"
+        ],
+        "stats" : {
+            "hp" : 78,
+            "attack" : 84,
+            "defense" : 78,
+            "sp.atk" : 109,
+            "sp.def" : 85,
+            "speed" : 100,
+            "total" : 534
+        },
+        "evolution" : [
+            "Charmander",
+            "Charmeleon",
+            "Charizard"
+        ]
+    },
+    {
+        "name": "Squirtle",
+        "number": "007",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+        "color": "rgb(255,193,7)",
+        "type": [
+            "water"
+        ],
+        "height": "1'08\"",
+        "weight": "19.8 lbs",
+        "abilities": [
+            "torrent",
+            "rain-dish"
+        ],
+        "stats": {
+            "hp": 44,
+            "attack": 48,
+            "defense": 65,
+            "sp.atk": 50,
+            "sp.def": 64,
+            "speed": 43,
+            "total": 314
+        },
+        "evolution": [
+            "Squirtle",
+            "Wartortle",
+            "Blastoise"
+        ]
+    },
+    {
+        "name": "Wartortle",
+        "number": "008",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+        "color": "rgb(255,193,7)",
+        "type": [
+            "water"
+        ],
+        "height": "3'03\"",
+        "weight": "49.6 lbs",
+        "abilities": [
+            "torrent",
+            "rain-dish"
+        ],
+        "stats": {
+            "hp": 59,
+            "attack": 63,
+            "defense": 80,
+            "sp.atk": 65,
+            "sp.def": 80,
+            "speed": 58,
+            "total": 405
+        },
+        "evolution": [
+            "Squirtle",
+            "Wartortle",
+            "Blastoise"
+        ]
+    },
+
+    {
+        "name": "Blastoise",
+        "number": "009",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+        "color": "rgb(255,193,7)",
+        "type": [
+            "water"
+        ],
+        "height": "5'03\"",
+        "weight": "188.5 lbs",
+        "abilities": [
+            "torrent",
+            "rain-dish"
+        ],
+        "stats": {
+            "hp": 79,
+            "attack": 83,
+            "defense": 100,
+            "sp.atk": 85,
+            "sp.def": 105,
+            "speed": 78,
+            "total": 530
+        },
+        "evolution": [
+            "Squirtle",
+            "Wartortle",
+            "Blastoise"
+        ]
+    },
+    {
+        "name" : "Caterpie",
+        "number" : "010",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "bug"
+        ],
+        "height" : "1'00\"",
+        "weight" : "6.4 lbs",
+        "abilities" : [
+            "shield-dust",
+            "run-away"
+        ],
+        "stats" : {
+            "hp" : 45,
+            "attack" : 30,
+            "defense" : 35,
+            "sp.atk" : 20,
+            "sp.def" : 20,
+            "speed" : 45,
+            "total" : 195
+        },
+        "evolution" : [
+            "Caterpie",
+            "Metapod",
+            "Butterfree"
+        ]
+    },
+    {
+        "name" : "Metapod",
+        "number" : "011",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "bug"
+        ],
+        "height" : "2'00\"",
+        "weight" : "21.8 lbs",
+        "abilities" : [
+            "shed-skin"
+        ],
+        "stats" : {
+            "hp" : 50,
+            "attack" : 20,
+            "defense" : 55,
+            "sp.atk" : 25,
+            "sp.def" : 25,
+            "speed" : 30,
+            "total" : 205
+        },
+        "evolution" : [
+            "Caterpie",
+            "Metapod",
+            "Butterfree"
+        ]
+    },
+    {
+        "name" : "Butterfree",
+        "number" : "012",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "bug",
+            "flying"
+        ],
+        "height" : "3'07\"",
+        "weight" : "70.5 lbs",
+        "abilities" : [
+            "compound-eyes",
+            "tinted-lens"
+        ],
+        "stats" : {
+            "hp" : 60,
+            "attack" : 45,
+            "defense" : 50,
+            "sp.atk" : 90,
+            "sp.def" : 80,
+            "speed" : 70,
+            "total" : 395
+        },
+        "evolution" : [
+            "Caterpie",
+            "Metapod",
+            "Butterfree"
+        ]
+    },
+    {
+        "name" : "Weedle",
+        "number" : "013",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "bug",
+            "poison"
+        ],
+        "height" : "1'00\"",
+        "weight" : "7.1 lbs",
+        "abilities" : [
+            "shield-dust",
+            "run-away"
+        ],
+        "stats" : {
+            "hp" : 40,
+            "attack" : 35,
+            "defense" : 30,
+            "sp.atk" : 20,
+            "sp.def" : 20,
+            "speed" : 50,
+            "total" : 195
+        },
+        "evolution" : [
+            "Weedle",
+            "Kakuna",
+            "Beedrill"
+        ]
+    },
+    {
+        "name": "Kakuna",
+        "number": "014",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+        "color": "rgb(255,193,7)",
+        "type": [
+            "bug",
+            "poison"
+        ],
+        "height": "2'00\"",
+        "weight": "10.0 lbs",
+        "abilities": [
+            "shed-skin"
+        ],
+        "stats": {
+            "hp": 45,
+            "attack": 25,
+            "defense": 50,
+            "sp.atk": 25,
+            "sp.def": 25,
+            "speed": 35,
+            "total": 205
+        },
+        "evolution": [
+            "Weedle",
+            "Kakuna",
+            "Beedrill"
+        ]
+    },
+    {
+        "name": "Beedrill",
+        "number": "015",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+        "color": "rgb(255,193,7)",
+        "type": [
+            "bug",
+            "poison"
+        ],
+        "height": "3'03\"",
+        "weight": "65.5 lbs",
+        "abilities": [
+            "swarm",
+            "sniper"
+        ],
+        "stats": {
+            "hp": 65,
+            "attack": 90,
+            "defense": 40,
+            "sp.atk": 45,
+            "sp.def": 80,
+            "speed": 75,
+            "total": 395
+        },
+        "evolution": [
+            "Weedle",
+            "Kakuna",
+            "Beedrill"
+        ]
+    },
+    {
+        "name": "Pidgey",
+        "number": "016",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+        "color": "rgb(255,193,7)",
+        "type": [
+            "normal",
+            "flying"
+        ],
+        "height": "1'00\"",
+        "weight": "4.0 lbs",
+        "abilities": [
+            "keen-eye",
+            "tangled-feet"
+        ],
+        "stats": {
+            "hp": 40,
+            "attack": 45,
+            "defense": 40,
+            "sp.atk": 35,
+            "sp.def": 35,
+            "speed": 56,
+            "total": 251
+        },
+        "evolution": [
+            "Pidgey",
+            "Pidgeotto",
+            "Pidgeot"
+        ]
+    },
+    {
+        "name" : "Pidgeotto",
+        "number" : "017",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal",
+            "flying"
+        ],
+        "height" : "3'07\"",
+        "weight" : "66.1 lbs",
+        "abilities" : [
+            "keen-eye",
+            "tangled-feet"
+        ],
+        "stats" : {
+            "hp" : 63,
+            "attack" : 60,
+            "defense" : 55,
+            "sp.atk" : 50,
+            "sp.def" : 50,
+            "speed" : 71,
+            "total" : 351
+        },
+        "evolution" : [
+            "Pidgey",
+            "Pidgeotto",
+            "Pidgeot"
+        ]
+    },
+    {
+        "name" : "Pidgeot",
+        "number" : "018",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal",
+            "flying"
+        ],
+        "height" : "5'07\"",
+        "weight" : "66.1 lbs",
+        "abilities" : [
+            "keen-eye",
+            "tangled-feet"
+        ],
+        "stats" : {
+            "hp" : 83,
+            "attack" : 80,
+            "defense" : 75,
+            "sp.atk" : 70,
+            "sp.def" : 70,
+            "speed" : 101,
+            "total" : 501
+        },
+        "evolution" : [
+            "Pidgey",
+            "Pidgeotto",
+            "Pidgeot"
+        ]
+    },
+    {
+        "name" : "Rattata",
+        "number" : "019",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal"
+        ],
+        "height" : "1'00\"",
+        "weight" : "7.0 lbs",
+        "abilities" : [
+            "run-away",
+            "guts"
+        ],
+        "stats" : {
+            "hp" : 30,
+            "attack" : 56,
+            "defense" : 35,
+            "sp.atk" : 25,
+            "sp.def" : 35,
+            "speed" : 72,
+            "total" : 251
+        },
+        "evolution" : [
+            "Rattata",
+            "Raticate"
+        ]
+    },
+    {
+        "name" : "Raticate",
+        "number" : "020",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal"
+        ],
+        "height" : "3'03\"",
+        "weight" : "40.0 lbs",
+        "abilities" : [
+            "run-away",
+            "guts"
+        ],
+        "stats" : {
+            "hp" : 55,
+            "attack" : 81,
+            "defense" : 60,
+            "sp.atk" : 50,
+            "sp.def" : 70,
+            "speed" : 97,
+            "total" : 401
+        },
+        "evolution" : [
+            "Rattata",
+            "Raticate"
+        ]
+    },
+    {
+        "name" : "Spearow",
+        "number" : "021",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal",
+            "flying"
+        ],
+        "height" : "1'00\"",
+        "weight" : "2.0 lbs",
+        "abilities" : [
+            "keen-eye",
+            "sniper"
+        ],
+        "stats" : {
+            "hp" : 40,
+            "attack" : 60,
+            "defense" : 30,
+            "sp.atk" : 31,
+            "sp.def" : 31,
+            "speed" : 70,
+            "total" : 251
+        },
+        "evolution" : [
+            "Spearow",
+            "Fearow"
+        ]
+    },
+    {
+        "name" : "Fearow",
+        "number" : "022",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal",
+            "flying"
+        ],
+        "height" : "3'03\"",
+        "weight" : "83.0 lbs",
+        "abilities" : [
+            "keen-eye",
+            "sniper"
+        ],
+        "stats" : {
+            "hp" : 65,
+            "attack" : 90,
+            "defense" : 65,
+            "sp.atk" : 61,
+            "sp.def" : 61,
+            "speed" : 100,
+            "total" : 431
+        },
+        "evolution" : [
+            "Spearow",
+            "Fearow"
+        ]
+    },
+    {
+        "name" : "Ekans",
+        "number" : "023",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "poison"
+        ],
+        "height" : "2'04\"",
+        "weight" : "15.2 lbs",
+        "abilities" : [
+            "shed-skin",
+            "unnerve"
+        ],
+        "stats" : {
+            "hp" : 35,
+            "attack" : 60,
+            "defense" : 44,
+            "sp.atk" : 40,
+            "sp.def" : 54,
+            "speed" : 55,
+            "total" : 301
+        },
+        "evolution" : [
+            "Ekans",
+            "Arbok"
+        ]
+    },
+    {
+        "name" :   "Arbok",
+        "number" : "024",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "poison"
+        ],
+        "height" : "3'03\"",
+        "weight" : "65.0 lbs",
+        "abilities" : [
+            "intimidate",
+            "sniper"
+        ],
+        "stats" : {
+            "hp" : 60,
+            "attack" : 95,
+            "defense" : 69,
+            "sp.atk" : 65,
+            "sp.def" : 79,
+            "speed" : 80,
+            "total" : 431
+        },
+        "evolution" : [
+            "Ekans",
+            "Arbok"
+        ]
+    },
+    {
+        "name" : "Pikachu",
+        "number" : "025",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "electric"
+        ],
+        "height" : "0'35\"",
+        "weight" : "6.0 lbs",
+        "abilities" : [
+            "static",
+            "lightning-rod"
+        ],
+        "stats" : {
+            "hp" : 35,
+            "attack" : 55,
+            "defense" : 40,
+            "sp.atk" : 50,
+            "sp.def" : 50,
+            "speed" : 90,
+            "total" : 310
+        },
+        "evolution" : [
+            "Pikachu",
+            "Raichu"
+        ]
+    },
+    {
+        "name" : "Raichu",
+        "number" : "026",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "electric"
+        ],
+        "height" : "1'04\"",
+        "weight" : "30.0 lbs",
+        "abilities" : [
+            "static",
+            "lightning-rod"
+        ],
+        "stats" : {
+            "hp" : 60,
+            "attack" : 90,
+            "defense" : 55,
+            "sp.atk" : 90,
+            "sp.def" : 80,
+            "speed" : 110,
+            "total" : 460
+        },
+        "evolution" : [
+            "Pikachu",
+            "Raichu"
+        ]
+    },
+    {
+        "name" : "Sandshrew",
+        "number" : "027",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "ground"
+        ],
+        "height" : "0'09\"",
+        "weight" : "12.0 lbs",
+        "abilities" : [
+            "sand-rush",
+            "sand-veil"
+        ],
+        "stats" : {
+            "hp" : 50,
+            "attack" : 75,
+            "defense" : 85,
+            "sp.atk" : 20,
+            "sp.def" : 30,
+            "speed" : 40,
+            "total" : 300
+        },
+        "evolution" : [
+            "Sandshrew",
+            "Sandslash"
+        ]
+    },
+    {
+        "name" : "Sandslash",
+        "number" : "028",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "ground"
+        ],
+        "height" : "1'08\"",
+        "weight" : "29.5 lbs",
+        "abilities" : [
+            "sand-rush",
+            "sand-veil"
+        ],
+        "stats" : {
+            "hp" : 75,
+            "attack" : 100,
+            "defense" : 110,
+            "sp.atk" : 45,
+            "sp.def" : 55,
+            "speed" : 65,
+            "total" : 460
+        },
+        "evolution" : [
+            "Sandshrew",
+            "Sandslash"
+        ]
+    },
+    {
+        "name" : "Nidoran♀",
+        "number" : "029",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "poison"
+        ],
+        "height" : "0'07\"",
+        "weight" : "7.0 lbs",
+        "abilities" : [
+            "poison-point",
+            "rattled"
+        ],
+        "stats" : {
+            "hp" : 55,
+            "attack" : 47,
+            "defense" : 52,
+            "sp.atk" : 40,
+            "sp.def" : 40,
+            "speed" : 41,
+            "total" : 300
+        },
+        "evolution" : [
+            "Nidoran♀",
+            "Nidorina",
+            "Nidoqueen"
+        ]
+    },
+    {
+        "name" : "Nidorina",
+        "number" : "030",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "poison"
+        ],
+        "height" : "0'08\"",
+        "weight" : "20.0 lbs",
+        "abilities" : [
+            "poison-point",
+            "rattled"
+        ],
+        "stats" : {
+            "hp" : 70,
+            "attack" : 62,
+            "defense" : 67,
+            "sp.atk" : 55,
+            "sp.def" : 55,
+            "speed" : 56,
+            "total" : 405
+        },
+        "evolution" : [
+            "Nidoran♀",
+            "Nidorina",
+            "Nidoqueen"
+        ]
+    },
+    {
+        "name" : "Nidoqueen",
+        "number" : "031",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "poison",
+            "ground"
+        ],
+        "height" : "1'09\"",
+        "weight" : "60.0 lbs",
+        "abilities" : [
+            "poison-point",
+            "rattled"
+        ],
+        "stats" : {
+            "hp" : 90,
+            "attack" : 92,
+            "defense" : 87,
+            "sp.atk" : 75,
+            "sp.def" : 85,
+            "speed" : 76,
+            "total" : 525
+        },
+        "evolution" : [
+            "Nidoran♀",
+            "Nidorina",
+            "Nidoqueen"
+        ]
+    },
+    {
+        "name" : "Nidoran♂",
+        "number" : "032",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "poison"
+        ],
+        "height" : "0'07\"",
+        "weight" : "9.0 lbs",
+        "abilities" : [
+            "poison-point",
+            "rattled"
+        ],
+        "stats" : {
+            "hp" : 46,
+            "attack" : 57,
+            "defense" : 40,
+            "sp.atk" : 40,
+            "sp.def" : 40,
+            "speed" : 50,
+            "total" : 300
+        },
+        "evolution" : [
+            "Nidoran♂",
+            "Nidorino",
+            "Nidoking"
+        ]
+    },
+    {
+        "name" : "Nidorino",
+        "number" : "033",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "poison"
+        ],
+        "height" : "0'09\"",
+        "weight" : "19.5 lbs",
+        "abilities" : [
+            "poison-point",
+            "rattled"
+        ],
+        "stats" : {
+            "hp" : 61,
+            "attack" : 72,
+            "defense" : 57,
+            "sp.atk" : 55,
+            "sp.def" : 55,
+            "speed" : 65,
+            "total" : 405
+        },
+        "evolution" : [
+            "Nidoran♂",
+            "Nidorino",
+            "Nidoking"
+        ]
+    },
+    {
+        "name" : "Nidoking",
+        "number" : "034",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "poison",
+            "ground"
+        ],
+        "height" : "1'09\"",
+        "weight" : "62.0 lbs",
+        "abilities" : [
+            "poison-point",
+            "rattled"
+        ],
+        "stats" : {
+            "hp" : 81,
+            "attack" : 102,
+            "defense" : 77,
+            "sp.atk" : 85,
+            "sp.def" : 75,
+            "speed" : 85,
+            "total" : 525
+        },
+        "evolution" : [
+            "Nidoran♂",
+            "Nidorino",
+            "Nidoking"
+        ]
+    },
+    {
+        "name" : "Clefairy",
+        "number" : "035",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "fairy"
+        ],
+        "height" : "0'08\"",
+        "weight" : "7.5 lbs",
+        "abilities" : [
+            "cute-charm",
+            "magic-guard"
+        ],
+        "stats" : {
+            "hp" : 70,
+            "attack" : 45,
+            "defense" : 48,
+            "sp.atk" : 60,
+            "sp.def" : 65,
+            "speed" : 35,
+            "total" : 320
+        },
+        "evolution" : [
+            "Clefairy",
+            "Clefable"
+        ]
+    },
+    {
+        "name" : "Clefable",
+        "number" : "036",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "fairy"
+        ],
+        "height" : "1'04\"",
+        "weight" : "40.0 lbs",
+        "abilities" : [
+            "cute-charm",
+            "magic-guard"
+        ],
+        "stats" : {
+            "hp" : 95,
+            "attack" : 70,
+            "defense" : 73,
+            "sp.atk" : 95,
+            "sp.def" : 90,
+            "speed" : 60,
+            "total" : 480
+        },
+        "evolution" : [
+            "Clefairy",
+            "Clefable"
+        ]
+    },
+    {
+        "name" : "Vulpix",
+        "number" : "037",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "fire"
+        ],
+        "height" : "0'07\"",
+        "weight" : "9.9 lbs",
+        "abilities" : [
+            "flash-fire",
+            "drought"
+        ],
+        "stats" : {
+            "hp" : 38,
+            "attack" : 41,
+            "defense" : 40,
+            "sp.atk" : 50,
+            "sp.def" : 65,
+            "speed" : 65,
+            "total" : 300
+        },
+        "evolution" : [
+            "Vulpix",
+            "Ninetales"
+        ]
+    },
+    {
+        "name" : "Ninetales",
+        "number" : "038",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "fire"
+        ],
+        "height" : "1'09\"",
+        "weight" : "19.9 lbs",
+        "abilities" : [
+            "flash-fire",
+            "drought"
+        ],
+        "stats" : {
+            "hp" : 73,
+            "attack" : 76,
+            "defense" : 75,
+            "sp.atk" : 81,
+            "sp.def" : 100,
+            "speed" : 100,
+            "total" : 500
+        },
+        "evolution" : [
+            "Vulpix",
+            "Ninetales"
+        ]
+    },
+    {
+        "name" : "Jigglypuff",
+        "number" : "039",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal",
+            "fairy"
+        ],
+        "height" : "0'09\"",
+        "weight" : "5.5 lbs",
+        "abilities" : [
+            "cute-charm",
+            "competitive"
+        ],
+        "stats" : {
+            "hp" : 115,
+            "attack" : 45,
+            "defense" : 20,
+            "sp.atk" : 45,
+            "sp.def" : 25,
+            "speed" : 20,
+            "total" : 300
+        },
+        "evolution" : [
+            "Jigglypuff",
+            "Wigglytuff"
+        ]
+    },
+    {
+        "name" : "Wigglytuff",
+        "number" : "040",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal",
+            "fairy"
+        ],
+        "height" : "1'00\"",
+        "weight" : "12.1 lbs",
+        "abilities" : [
+            "cute-charm",
+            "competitive"
+        ],
+        "stats" : {
+            "hp" : 140,
+            "attack" : 70,
+            "defense" : 45,
+            "sp.atk" : 85,
+            "sp.def" : 50,
+            "speed" : 45,
+            "total" : 500
+        },
+        "evolution" : [
+            "Jigglypuff",
+            "Wigglytuff"
+        ]
+    },
+    {
+        "name" : "Zubat",
+        "number" : "041",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "poison",
+            "flying"
+        ],
+        "height" : "0'07\"",
+        "weight" : "7.5 lbs",
+        "abilities" : [
+            "inner-focus",
+            "infiltrator"
+        ],
+        "stats" : {
+            "hp" : 40,
+            "attack" : 45,
+            "defense" : 35,
+            "sp.atk" : 30,
+            "sp.def" : 40,
+            "speed" : 55,
+            "total" : 250
+        },
+        "evolution" : [
+            "Zubat",
+            "Golbat"
+        ]
+    },
+    {
+        "name" : "Golbat",
+        "number" : "042",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "poison",
+            "flying"
+        ],
+        "height" : "1'09\"",
+        "weight" : "55.0 lbs",
+        "abilities" : [
+            "inner-focus",
+            "infiltrator"
+        ],
+        "stats" : {
+            "hp" : 65,
+            "attack" : 60,
+            "defense" : 45,
+            "sp.atk" : 75,
+            "sp.def" : 55,
+            "speed" : 90,
+            "total" : 400
+        },
+        "evolution" : [
+            "Zubat",
+            "Golbat"
+        ]
+    },
+    {
+        "name" :  "Oddish",
+        "number" : "043",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "grass",
+            "poison"
+        ],
+        "height" : "0'04\"",
+        "weight" : "5.4 lbs",
+        "abilities" : [
+            "chlorophyll",
+            "run-away"
+        ],
+        "stats" : {
+            "hp" : 45,
+            "attack" : 50,
+            "defense" : 55,
+            "sp.atk" : 75,
+            "sp.def" : 65,
+            "speed" : 30,
+            "total" : 300
+        },
+        "evolution" : [
+            "Oddish",
+            "Gloom",
+            "Vileplume"
+        ]
+    },
+    {
+        "name" : "Gloom",
+        "number" : "044",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "grass",
+            "poison"
+        ],
+        "height" : "0'07\"",
+        "weight" : "8.6 lbs",
+        "abilities" : [
+            "chlorophyll",
+            "stench"
+        ],
+        "stats" : {
+            "hp" : 60,
+            "attack" : 65,
+            "defense" : 70,
+            "sp.atk" : 85,
+            "sp.def" : 75,
+            "speed" : 40,
+            "total" : 400
+        },
+        "evolution" : [
+            "Oddish",
+            "Gloom",
+            "Vileplume"
+        ]
+    },
+    {
+        "name": "Vileplume",
+        "number": "045",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+        "color": "rgb(255,193,7)",
+        "type": [
+            "grass",
+            "poison"
+        ],
+        "height": "0'09\"",
+        "weight": "18.6 lbs",
+        "abilities": [
+            "chlorophyll",
+            "effect-spore"
+        ],
+        "stats": {
+            "hp": 75,
+            "attack": 80,
+            "defense": 85,
+            "sp.atk": 110,
+            "sp.def": 90,
+            "speed": 50,
+            "total": 500
+        },
+        "evolution": [
+            "Oddish",
+            "Gloom",
+            "Vileplume"
+        ]
+    },
+    {
+        "name": "Paras",
+        "number": "046",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+        "color": "rgb(255,193,7)",
+        "type": [
+            "bug",
+            "grass"
+        ],
+        "height": "0'03\"",
+        "weight": "5.4 lbs",
+        "abilities": [
+            "effect-spore",
+            "dry-skin"
+        ],
+        "stats": {
+            "hp": 35,
+            "attack": 70,
+            "defense": 55,
+            "sp.atk": 45,
+            "sp.def": 55,
+            "speed": 25,
+            "total": 250
+        },
+        "evolution": [
+            "Paras",
+            "Parasect"
+        ]
+    },
+    {
+        "name" : "Parasect",
+        "number" : "047",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "bug",
+            "grass"
+        ],
+        "height" : "0'07\"",
+        "weight" : "29.5 lbs",
+        "abilities" : [
+            "effect-spore",
+            "dry-skin"
+        ],
+        "stats" : {
+            "hp" : 60,
+            "attack" : 95,
+            "defense" : 80,
+            "sp.atk" : 60,
+            "sp.def" : 80,
+            "speed" : 30,
+            "total" : 400
+        },
+        "evolution" : [
+            "Paras",
+            "Parasect"
+        ]
+    },
+    {
+        "name" : "Venonat",
+        "number" : "048",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "bug",
+            "poison"
+        ],
+        "height" : "0'03\"",
+        "weight" : "30.0 lbs",
+        "abilities" : [
+            "compound-eyes",
+            "tinted-lens"
+        ],
+        "stats" : {
+            "hp" : 60,
+            "attack" : 55,
+            "defense" : 50,
+            "sp.atk" : 40,
+            "sp.def" : 55,
+            "speed" : 45,
+            "total" : 300
+        },
+        "evolution" : [
+            "Venonat",
+            "Venomoth"
+        ]
+    },
+    {
+        "name" : "Venomoth",
+        "number" : "049",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "bug",
+            "poison"
+        ],
+        "height" : "0'07\"",
+        "weight" : "12.5 lbs",
+        "abilities" : [
+            "shield-dust",
+            "tinted-lens"
+        ],
+        "stats" : {
+            "hp" : 70,
+            "attack" : 65,
+            "defense" : 60,
+            "sp.atk" : 90,
+            "sp.def" : 75,
+            "speed" : 90,
+            "total" : 450
+        },
+        "evolution" : [
+            "Venonat",
+            "Venomoth"
+        ]
+    },
+    {
+        "name" : "Diglett",
+        "number" : "050",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "ground"
+        ],
+        "height" : "0'08\"",
+        "weight" : "1.8 lbs",
+        "abilities" : [
+            "sand-veil",
+            "sand-force"
+        ],
+        "stats" : {
+            "hp" : 10,
+            "attack" : 55,
+            "defense" : 25,
+            "sp.atk" : 35,
+            "sp.def" : 45,
+            "speed" : 95,
+            "total" : 235
+        },
+        "evolution" : [
+            "Diglett",
+            "Dugtrio"
+        ]
+    }
+ 
+    ]
+}
