@@ -1,0 +1,276 @@
+{
+    "pokemon" : [
+        {
+            "name" : "Chikorita",
+            "number" : "152",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "grass"
+            ],
+            "height": "2' 11\"",
+            "weight": "14.1 lbs",
+            "abilities": [
+                "Overgrow",
+                "Leaf Guard"
+            ],
+            "stats": {
+                "hp": 45,
+                "attack": 49,
+                "defense": 65,
+                "sp.atk": 49,
+                "sp.def": 65,
+                "speed": 45,
+                "total": 318
+            },
+            "evolution": [
+                "Chikorita",
+                "Bayleef",
+                "Meganium"
+
+            ]
+
+        },
+        {
+            "name" : "Bayleef",
+            "number" : "153",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "grass"
+            ],
+            "height": "3' 11\"",
+            "weight": "34.8 lbs",
+            "abilities": [
+                "Overgrow",
+                "Leaf Guard"
+            ],
+            "stats": {
+                "hp": 60,
+                "attack": 62,
+                "defense": 80,
+                "sp.atk": 63,
+                "sp.def": 80,
+                "speed": 60,
+                "total": 405
+            },
+            "evolution": [
+                "Chikorita",
+                "Bayleef",
+                "Meganium"
+
+            ]
+        },
+        {
+            "name" : "Meganium",
+            "number" : "154",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "grass"
+            ],
+            "height": "5' 11\"",
+            "weight": "221.6 lbs",
+            "abilities": [
+                "Overgrow",
+                "Leaf Guard"
+            ],
+            "stats": {
+                "hp": 80,
+                "attack": 82,
+                "defense": 100,
+                "sp.atk": 83,
+                "sp.def": 100,
+                "speed": 80,
+                "total": 525
+            },
+            "evolution": [
+                "Chikorita",
+                "Bayleef",
+                "Meganium"
+
+            ]
+        },
+        {
+            "name" : "Cyndaquil",
+            "number" : "155",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "fire"
+            ],
+            "height": "1' 08\"",
+            "weight": "17.4 lbs",
+            "abilities": [
+                "Blaze",
+                "Flash Fire"
+            ],
+            "stats": {
+                "hp": 39,
+                "attack": 52,
+                "defense": 43,
+                "sp.atk": 60,
+                "sp.def": 50,
+                "speed": 65,
+                "total": 309
+            },
+            "evolution": [
+                "Cyndaquil",
+                "Quilava",
+                "Typhlosion"
+
+            ]
+        },
+        {
+            "name" : "Quilava",
+            "number" : "156",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "fire"
+            ],
+            "height": "2' 11\"",
+            "weight": "41.9 lbs",
+            "abilities": [
+                "Blaze",
+                "Flash Fire"
+            ],
+            "stats": {
+                "hp": 58,
+                "attack": 64,
+                "defense": 58,
+                "sp.atk": 80,
+                "sp.def": 65,
+                "speed": 80,
+                "total": 405
+            },
+            "evolution": [
+                "Cyndaquil",
+                "Quilava",
+                "Typhlosion"
+
+            ]
+        },
+        {
+            "name" : "Typhlosion",
+            "number" : "157",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "fire"
+            ],
+            "height": "5' 07\"",
+            "weight": "175.3 lbs",
+            "abilities": [
+                "Blaze",
+                "Flash Fire"
+            ],
+            "stats": {
+                "hp": 78,
+                "attack": 84,
+                "defense": 78,
+                "sp.atk": 109,
+                "sp.def": 85,
+                "speed": 100,
+                "total": 534
+            },
+            "evolution": [
+                "Cyndaquil",
+                "Quilava",
+                "Typhlosion"
+
+            ]
+        },
+        {
+            "name" : "Totodile",
+            "number" : "158",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "water"
+            ],
+            "height": "2' 00\"",
+            "weight": "20.9 lbs",
+            "abilities": [
+                "Torrent",
+                "Sheer Force"
+            ],
+            "stats": {
+                "hp": 50,
+                "attack": 65,
+                "defense": 64,
+                "sp.atk": 44,
+                "sp.def": 48,
+                "speed": 43,
+                "total": 305
+            },
+            "evolution": [
+                "Totodile",
+                "Croconaw",
+                "Feraligatr"
+
+            ]
+        },
+        {
+            "name" : "Croconaw",
+            "number" : "159",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "water"
+            ],
+            "height": "3' 07\"",
+            "weight": "55.1 lbs",
+            "abilities": [
+                "Torrent",
+                "Sheer Force"
+            ],
+            "stats": {
+                "hp": 65,
+                "attack": 80,
+                "defense": 80,
+                "sp.atk": 59,
+                "sp.def": 63,
+                "speed": 58,
+                "total": 405
+            },
+            "evolution": [
+                "Totodile",
+                "Croconaw",
+                "Feraligatr"
+
+            ]
+        },
+        {
+            "name" : "Feraligatr",
+            "number" : "160",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "water"
+            ],
+            "height": "7' 07\"",
+            "weight": "195.8 lbs"
+            ,
+            "abilities": [
+                "Torrent",
+                "Sheer Force"
+            ],
+            "stats": {
+                "hp": 85,
+                "attack": 105,
+                "defense": 100,
+                "sp.atk": 79,
+                "sp.def": 83,
+                "speed": 78,
+                "total": 534
+            },
+            "evolution": [
+                "Totodile",
+                "Croconaw",
+                "Feraligatr"
+
+            ]
+        }
+    ]
+}
