@@ -12,4 +12,8 @@ It gives information about all Pokémon in the world that are contained in its d
 
 -> Different generations of Pokémons in different files.
 
+-> Completion Rate : 12.5% : Generation I
+
+-> Future Goals :  Till Generation VIII 
+
 ![My_project__1_-removebg-preview](https://user-images.githubusercontent.com/72195951/169100012-913f72c8-c2e3-42f8-b308-a24028649b4a.png)
