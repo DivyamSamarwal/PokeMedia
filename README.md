@@ -1,6 +1,8 @@
 
 # PokéMedia
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=30&color=5960FA&lines=PokéMedia)](https://git.io/typing-svg)
+
 -> Pokédex data in json format.
 
 -> Different generations of Pokémons in different files.
