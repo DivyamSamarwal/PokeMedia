@@ -2890,7 +2890,1467 @@
             "Voltorb",
             "Electrode"
         ]
-    }
- 
+    },
+    {
+        "name" : " Electrode",
+        "number" : "101",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "electric"
+        ],
+        "height" : "0'07\"",
+        "weight" : "66.6 lbs",
+        "abilities" : [
+            "soundproof",
+            "static"
+        ],
+        "stats" : {
+            "hp" : 60,
+            "attack" : 50,
+            "defense" : 70,
+            "sp.atk" : 80,
+            "sp.def" : 80,
+            "speed" : 150,
+            "total" : 455
+        },
+        "evolution" : [
+            "Voltorb",
+            "Electrode"
+        ]
+    },
+    {
+        "name" : " Exeggcute",
+        "number" : "102",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "grass",
+            "psychic"
+        ],
+        "height" : "0'04\"",
+        "weight" : "2.5 lbs",
+        "abilities" : [
+            "chlorophyll",
+            "harvest"
+        ],
+        "stats" : {
+            "hp" : 60,
+            "attack" : 40,
+            "defense" : 80,
+            "sp.atk" : 60,
+            "sp.def" : 45,
+            "speed" : 40,
+            "total" : 305
+        },
+        "evolution" : [
+            "Exeggcute",
+            "Exeggutor"
+        ]
+    },
+    {
+        "name" : " Exeggutor",
+        "number" : "103",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "grass",
+            "psychic"
+        ],
+        "height" : "3'11\"",
+        "weight" : "120.0 lbs",
+        "abilities" : [
+            "chlorophyll",
+            "harvest"
+        ],
+        "stats" : {
+            "hp" : 90,
+            "attack" : 95,
+            "defense" : 85,
+            "sp.atk" : 125,
+            "sp.def" : 75,
+            "speed" : 55,
+            "total" : 515
+        },
+        "evolution" : [
+            "Exeggcute",
+            "Exeggutor"
+        ]
+    },
+    {
+        "name" : " Cubone",
+        "number" : "104",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "ground"
+        ],
+        "height" : "0'08\"",
+        "weight" : "6.5 lbs",
+        "abilities" : [
+            "rock-head",
+            "lightning-rod"
+        ],
+        "stats" : {
+            "hp" : 50,
+            "attack" : 50,
+            "defense" : 95,
+            "sp.atk" : 40,
+            "sp.def" : 50,
+            "speed" : 35,
+            "total" : 305
+        },
+        "evolution" : [
+            "Cubone",
+            "Marowak"
+        ]
+    },
+    {
+        "name" : " Marowak",
+        "number" : "105",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "ground"
+        ],
+        "height" : "0'09\"",
+        "weight" : "45.0 lbs",
+        "abilities" : [
+            "rock-head",
+            "lightning-rod"
+        ],
+        "stats" : {
+            "hp" : 60,
+            "attack" : 80,
+            "defense" : 110,
+            "sp.atk" : 50,
+            "sp.def" : 80,
+            "speed" : 45,
+            "total" : 455
+        },
+        "evolution" : [
+            "Cubone",
+            "Marowak"
+        ]
+    },
+    {
+        "name" : " Hitmonlee",
+        "number" : "106",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "fighting"
+        ],
+        "height" : "1'08\"",
+        "weight" : "49.8 lbs",
+        "abilities" : [
+            "limber",
+            "reckless"
+        ],
+        "stats" : {
+            "hp" : 65,
+            "attack" : 120,
+            "defense" : 53,
+            "sp.atk" : 35,
+            "sp.def" : 110,
+            "speed" : 87,
+            "total" : 455
+        },
+        "evolution" : [
+            "Hitmonlee",
+            "Hitmonchan"
+        ]
+    },
+    {
+        "name" : " Hitmonchan",
+        "number" : "107",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "fighting"
+        ],
+        "height" : "1'08\"",
+        "weight" : "50.2 lbs",
+        "abilities" : [
+            "intimidate",
+            "reckless"
+        ],
+        "stats" : {
+            "hp" : 65,
+            "attack" : 105,
+            "defense" : 79,
+            "sp.atk" : 35,
+            "sp.def" : 110,
+            "speed" : 76,
+            "total" : 455
+        },
+        "evolution" : [
+            "Hitmonlee",
+            "Hitmonchan"
+        ]
+    },
+    {
+        "name" : " Lickitung",
+        "number" : "108",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal"
+        ],
+        "height" : "1'09\"",
+        "weight" : "65.5 lbs",
+        "abilities" : [
+            "lick",
+            "oblivious"
+        ],
+        "stats" : {
+            "hp" : 90,
+            "attack" : 55,
+            "defense" : 75,
+            "sp.atk" : 60,
+            "sp.def" : 75,
+            "speed" : 30,
+            "total" : 385
+        },
+        "evolution" : [
+            "Lickitung",
+            "Lickilicky"
+        ]
+            
+    },
+    {
+        "name" : " Koffing",
+        "number" : "109",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "poison"
+        ],
+        "height" : "0'41\"",
+        "weight" : "1.0 lbs",
+        "abilities" : [
+            "levitate"
+        ],
+        "stats" : {
+            "hp" : 40,
+            "attack" : 65,
+            "defense" : 95,
+            "sp.atk" : 60,
+            "sp.def" : 45,
+            "speed" : 35,
+            "total" : 305
+        },
+        "evolution" : [
+            "Koffing",
+            "Weezing"
+        ]
+    },
+    {
+        "name" : " Weezing",
+        "number" : "110",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "poison"
+        ],
+        "height" : "0'41\"",
+        "weight" : "9.5 lbs",
+        "abilities" : [
+            "levitate"
+        ],
+        "stats" : {
+            "hp" : 65,
+            "attack" : 90,
+            "defense" : 120,
+            "sp.atk" : 85,
+            "sp.def" : 70,
+            "speed" : 60,
+            "total" : 485
+        },
+        "evolution" : [
+            "Koffing",
+            "Weezing"
+        ]
+    },
+    {
+        "name" : " Rhyhorn",
+        "number" : "111",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "ground",
+            "rock"
+        ],
+        "height" : "0'41\"",
+        "weight" : "115.0 lbs",
+        "abilities" : [
+            "rock-head",
+            "lightning-rod"
+        ],
+        "stats" : {
+            "hp" : 80,
+            "attack" : 85,
+            "defense" : 95,
+            "sp.atk" : 30,
+            "sp.def" : 30,
+            "speed" : 25,
+            "total" : 345
+        },
+        "evolution" : [
+            "Rhyhorn",
+            "Rhydon"
+        ]
+    },
+    {
+        "name" : " Rhydon",
+        "number" : "112",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "ground",
+            "rock"
+        ],
+        "height" : "0'99\"",
+        "weight" : "120.0 lbs",
+        "abilities" : [
+            "rock-head",
+            "lightning-rod"
+        ],
+        "stats" : {
+            "hp" : 105,
+            "attack" : 130,
+            "defense" : 120,
+            "sp.atk" : 45,
+            "sp.def" : 45,
+            "speed" : 40,
+            "total" : 505
+        },
+        "evolution" : [
+            "Rhyhorn",
+            "Rhydon"
+        ]
+    },
+    {
+        "name" : " Chansey",
+        "number" : "113",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal"
+        ],
+        "height" : "1'09\"",
+        "weight" : "34.6 lbs",
+        "abilities" : [
+            "natural-cure",
+            "serene-grace"
+        ],
+        "stats" : {
+            "hp" : 250,
+            "attack" : 5,
+            "defense" : 5,
+            "sp.atk" : 15,
+            "sp.def" : 65,
+            "speed" : 110,
+            "total" : 405
+        },
+        "evolution" : [
+            "Chansey",
+            "Blissey"
+        ]
+    },
+    {
+        "name" : " Tangela",
+        "number" : "114",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "grass"
+        ],
+        "height" : "1'00\"",
+        "weight" : "35.0 lbs",
+        "abilities" : [
+            "chlorophyll",
+            "leaf-guard"
+        ],
+        "stats" : {
+            "hp" : 65,
+            "attack" : 55,
+            "defense" : 115,
+            "sp.atk" : 100,
+            "sp.def" : 40,
+            "speed" : 60,
+            "total" : 435
+        },
+        "evolution" : [
+            "Tangela",
+            "Tangrowth"
+        ]
+    },
+    {
+        "name" : " Kangaskhan",
+        "number" : "115",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal"
+        ],
+        "height" : "2'04\"",
+        "weight" : "80.0 lbs",
+        "abilities" : [
+            "early-bird",
+            "scrappy"
+        ],
+        "stats" : {
+            "hp" : 105,
+            "attack" : 95,
+            "defense" : 80,
+            "sp.atk" : 30,
+            "sp.def" : 90,
+            "speed" : 70,
+            "total" : 490
+        },
+        "evolution" : [
+            "Kangaskhan",
+            "Kangaskhan-mega"
+        ]
+    },
+    {
+        "name" : " Horsea",
+        "number" : "116",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water"
+        ],
+        "height" : "0'09\"",
+        "weight" : "8.0 lbs",
+        "abilities" : [
+            "swift-swim",
+            "sniper"
+        ],
+        "stats" : {
+            "hp" : 30,
+            "attack" : 40,
+            "defense" : 70,
+            "sp.atk" : 70,
+            "sp.def" : 25,
+            "speed" : 60,
+            "total" : 330
+        },
+        "evolution" : [
+            "Horsea",
+            "Seadra"
+        ]
+    },
+    {
+        "name" : " Seadra",
+        "number" : "117",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water"
+        ],
+        "height" : "0'09\"",
+        "weight" : "25.0 lbs",
+        "abilities" : [
+            "swift-swim",
+            "sniper"
+        ],
+        "stats" : {
+            "hp" : 55,
+            "attack" : 65,
+            "defense" : 95,
+            "sp.atk" : 95,
+            "sp.def" : 45,
+            "speed" : 85,
+            "total" : 485
+        },
+        "evolution" : [
+            "Horsea",
+            "Seadra"
+        ]
+            
+    },
+    {
+        "name" : " Goldeen",
+        "number" : "118",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water"
+        ],
+        "height" : "0'08\"",
+        "weight" : "15.0 lbs",
+        "abilities" : [
+            "swift-swim",
+            "rain-dish"
+        ],
+        "stats" : {
+            "hp" : 45,
+            "attack" : 67,
+            "defense" : 60,
+            "sp.atk" : 35,
+            "sp.def" : 50,
+            "speed" : 63,
+            "total" : 330
+        },
+        "evolution" : [
+            "Goldeen",
+            "Seaking"
+        ]
+    },
+    {
+        "name" : " Seaking",
+        "number" : "119",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water"
+        ],
+        "height" : "0'09\"",
+        "weight" : "39.0 lbs",
+        "abilities" : [
+            "swift-swim",
+            "rain-dish"
+        ],
+        "stats" : {
+            "hp" : 80,
+            "attack" : 92,
+            "defense" : 65,
+            "sp.atk" : 65,
+            "sp.def" : 80,
+            "speed" : 68,
+            "total" : 483
+        },
+        "evolution" : [
+            "Goldeen",
+            "Seaking"
+        ]
+    },
+    {
+        "name" : " Staryu",
+        "number" : "120",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water"
+        ],
+        "height" : "0'09\"",
+        "weight" : "34.5 lbs",
+        "abilities" : [
+            "illuminate",
+            "natural-cure"
+        ],
+        "stats" : {
+            "hp" : 30,
+            "attack" : 45,
+            "defense" : 55,
+            "sp.atk" : 70,
+            "sp.def" : 55,
+            "speed" : 85,
+            "total" : 340
+        },
+        "evolution" : [
+            "Staryu",
+            "Starmie"
+        ]
+    },
+    {
+        "name" : " Starmie",
+        "number" : "121",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water",
+            "psychic"
+        ],
+        "height" : "0'09\"",
+        "weight" : "80.0 lbs",
+        "abilities" : [
+            "illuminate",
+            "natural-cure"
+        ],
+        "stats" : {
+            "hp" : 60,
+            "attack" : 75,
+            "defense" : 85,
+            "sp.atk" : 100,
+            "sp.def" : 85,
+            "speed" : 115,
+            "total" : 520
+        },
+        "evolution" : [
+            "Staryu",
+            "Starmie"
+        ]
+    },
+    {
+        "name" : " Mr. Mime",
+        "number" : "122",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "psychic"
+        ],
+        "height" : "0'09\"",
+        "weight" : "54.5 lbs",
+        "abilities" : [
+            "soundproof",
+            "filter"
+        ],
+        "stats" : {
+            "hp" : 40,
+            "attack" : 45,
+            "defense" : 65,
+            "sp.atk" : 100,
+            "sp.def" : 120,
+            "speed" : 90,
+            "total" : 500
+        },
+        "evolution" : [
+            "Mr. Mime",
+            "Mime Jr."
+        ]
+    },
+    {
+        "name" : " Scyther",
+        "number" : "123",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "bug",
+            "flying"
+        ],
+        "height" : "0'07\"",
+        "weight" : "42.5 lbs",
+        "abilities" : [
+            "swarm",
+            "technician"
+        ],
+        "stats" : {
+            "hp" : 70,
+            "attack" : 110,
+            "defense" : 80,
+            "sp.atk" : 55,
+            "sp.def" : 80,
+            "speed" : 105,
+            "total" : 520
+        },
+        "evolution" : [
+            "Scyther",
+            "Scizor",
+            "Kleavor"
+        ]
+    },
+    {
+        "name" : " Jynx",
+        "number" : "124",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "ice",
+            "psychic"
+        ],
+        "height" : "0'09\"",
+        "weight" : "40.6 lbs",
+        "abilities" : [
+            "oblivious",
+            "forewarn"
+        ],
+        "stats" : {
+            "hp" : 65,
+            "attack" : 50,
+            "defense" : 35,
+            "sp.atk" : 115,
+            "sp.def" : 95,
+            "speed" : 95,
+            "total" : 490
+        },
+        "evolution" : [
+            "Jynx",
+            "Smoochum"
+        ]
+    },
+    {
+        "name" : " Electabuzz",
+        "number" : "125",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "electric"
+        ],
+        "height" : "0'07\"",
+        "weight" : "30.0 lbs",
+        "abilities" : [
+            "static",
+            "vital-spirit"
+        ],
+        "stats" : {
+            "hp" : 65,
+            "attack" : 83,
+            "defense" : 57,
+            "sp.atk" : 95,
+            "sp.def" : 85,
+            "speed" : 105,
+            "total" : 500
+        },
+        "evolution" : [
+            "Electabuzz",
+            "Elekid",
+            "Electivire"
+        ]
+
+    },
+    {
+        "name" : " Magmar",
+        "number" : "126",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "fire"
+        ],
+        "height" : "0'09\"",
+        "weight" : "44.5 lbs",
+        "abilities" : [
+            "flame-body",
+            "vital-spirit"
+        ],
+        "stats" : {
+            "hp" : 65,
+            "attack" : 95,
+            "defense" : 57,
+            "sp.atk" : 100,
+            "sp.def" : 85,
+            "speed" : 93,
+            "total" : 500
+        },
+        "evolution" : [
+            "Magmar",
+            "Magby",
+            "Magmortar"
+        ]
+
+    },
+    {
+        "name" : "Pinsir",
+        "number" : "127",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "bug"
+        ],
+        "height" : "0'07\"",
+        "weight" : "55.0 lbs",
+        "abilities" : [
+            "hyper-cutter",
+            "mold-breaker"
+        ],
+        "stats" : {
+            "hp" : 65,
+            "attack" : 125,
+            "defense" : 100,
+            "sp.atk" : 55,
+            "sp.def" : 70,
+            "speed" : 85,
+            "total" : 520
+        },
+        "evolution" : [
+            "Pinsir",
+            
+            "Mega Pinsir"
+        ]
+
+    },
+    {
+        "name" : " Tauros",
+        "number" : "128",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal"
+        ],
+        "height" : "0'07\"",
+        "weight" : "88.4 lbs",
+        "abilities" : [
+            "intimidate",
+            "sheer-force"
+        ],
+        "stats" : {
+            "hp" : 75,
+            "attack" : 100,
+            "defense" : 95,
+            "sp.atk" : 40,
+            "sp.def" : 70,
+            "speed" : 110,
+            "total" : 520
+        },
+        "evolution" : [
+            "Tauros"
+        ]
+    },
+    {
+        "name" : " Magikarp",
+        "number" : "129",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water"
+        ],
+        "height" : "0'04\"",
+        "weight" : "10.0 lbs",
+        "abilities" : [
+            "swift-swim",
+            "torrent"
+        ],
+        "stats" : {
+            "hp" : 20,
+            "attack" : 10,
+            "defense" : 55,
+            "sp.atk" : 15,
+            "sp.def" : 20,
+            "speed" : 80,
+            "total" : 200
+        },
+        "evolution" : [
+            "Magikarp",
+            "Gyarados"
+        ]
+    },
+    {
+        "name" : " Gyarados",
+        "number" : "130",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water",
+            "flying"
+        ],
+        "height" : "0'06\"",
+        "weight" : "235.0 lbs",
+        "abilities" : [
+            "intimidate",
+            "moxie"
+        ],
+        "stats" : {
+            "hp" : 95,
+            "attack" : 125,
+            "defense" : 79,
+            "sp.atk" : 60,
+            "sp.def" : 100,
+            "speed" : 81,
+            "total" : 580
+        },
+        "evolution" : [
+            "Magikarp",
+            "Gyarados"
+        ]
+    },
+    {
+        "name" : " Lapras",
+        "number" : "131",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water",
+            "ice"
+        ],
+        "height" : "0'08\"",
+        "weight" : "220.0 lbs",
+        "abilities" : [
+            "water-absorb",
+            "shell-armor"
+        ],
+        "stats" : {
+            "hp" : 130,
+            "attack" : 85,
+            "defense" : 80,
+            "sp.atk" : 85,
+            "sp.def" : 95,
+            "speed" : 60,
+            "total" : 580
+        },
+        "evolution" : [
+            "Lapras"
+        ]
+    },
+    {
+        "name" : "Ditto",
+        "number" : "132",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal"
+        ],
+        "height" : "0'01\"",
+        "weight" : "4.0 lbs",
+        "abilities" : [
+            "limber",
+            "imposter"
+        ],
+        "stats" : {
+            "hp" : 48,
+            "attack" : 48,
+            "defense" : 48,
+            "sp.atk" : 48,
+            "sp.def" : 48,
+            "speed" : 48,
+            "total" : 288
+        },
+        "evolution" : [
+            "Ditto"
+        ]
+    },
+    {
+        "name" : "Eevee",
+        "number" : "133",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal"
+        ],
+        "height" : "0'03\"",
+        "weight" : "6.5 lbs",
+        "abilities" : [
+            "run-away",
+            "adaptability",
+            "anticipation"
+        ],
+        "stats" : {
+            "hp" : 55,
+            "attack" : 55,
+            "defense" : 50,
+            "sp.atk" : 45,
+            "sp.def" : 65,
+            "speed" : 55,
+            "total" : 320
+        },
+        "evolution" : [
+            "Eevee",
+            "Vaporeon",
+            "Jolteon",
+            "Flareon",
+            "Espeon",
+            "Umbreon",
+            "Leafeon",
+            "Glaceon",
+            "Sylveon"
+        ]
+
+    },
+    {
+        "name" : "Vaporeon",
+        "number" : "134",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water"
+        ],
+        "height" : "0'08\"",
+        "weight" : "29.0 lbs",
+        "abilities" : [
+            "water-absorb",
+            "damp"
+        ],
+        "stats" : {
+            "hp" : 130,
+            "attack" : 65,
+            "defense" : 60,
+            "sp.atk" : 110,
+            "sp.def" : 95,
+            "speed" : 65,
+            "total" : 580
+        },
+        "evolution" : [
+            "Eevee"
+        ]
+
+    },
+    {
+        "name" : "Jolteon",
+        "number" : "135",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "electric"
+        ],
+        "height" : "0'08\"",
+        "weight" : "24.5 lbs",
+        "abilities" : [
+            "volt-absorb",
+            "lightning-rod"
+        ],
+        "stats" : {
+            "hp" : 65,
+            "attack" : 65,
+            "defense" : 60,
+            "sp.atk" : 110,
+            "sp.def" : 95,
+            "speed" : 130,
+            "total" : 580
+        },
+        "evolution" : [
+            "Eevee"
+        ]
+
+    },
+    {
+        "name" : "Flareon",
+        "number" : "136",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "fire"
+        ],
+        "height" : "0'08\"",
+        "weight" : "25.0 lbs",
+        "abilities" : [
+            "flash-fire",
+            "guts"
+        ],
+        "stats" : {
+            "hp" : 65,
+            "attack" : 130,
+            "defense" : 60,
+            "sp.atk" : 95,
+            "sp.def" : 110,
+            "speed" : 65,
+            "total" : 580
+        },
+        "evolution" : [
+            "Eevee"
+        ]
+
+    },
+    {
+        "name" : "Porygon",
+        "number" : "137",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal"
+        ],
+        "height" : "0'08\"",
+        "weight" : "36.5 lbs",
+        "abilities" : [
+            "trace",
+            "download"
+        ],
+        "stats" : {
+            "hp" : 65,
+            "attack" : 60,
+            "defense" : 70,
+            "sp.atk" : 85,
+            "sp.def" : 75,
+            "speed" : 40,
+            "total" : 405
+        },
+        "evolution" : [
+            "Porygon",
+            "Porygon2",
+            "Porygon-Z"
+
+        ]
+
+    },
+    {
+        "name" : "Omanyte",
+        "number" : "138",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "rock",
+            "water"
+        ],
+        "height" : "0'04\"",
+        "weight" : "7.5 lbs",
+        "abilities" : [
+            "swift-swim",
+            "shell-armor"
+        ],
+        "stats" : {
+            "hp" : 40,
+            "attack" : 45,
+            "defense" : 100,
+            "sp.atk" : 90,
+            "sp.def" : 55,
+            "speed" : 35,
+            "total" : 355
+        },
+        "evolution" : [
+            "Omanyte",
+            "Omastar"
+        ]
+    },
+    {
+        "name" : "Omastar",
+        "number" : "139",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "rock",
+            "water"
+        ],
+        "height" : "0'09\"",
+        "weight" : "35.0 lbs",
+        "abilities" : [
+            "swift-swim",
+            "shell-armor"
+        ],
+        "stats" : {
+            "hp" : 70,
+            "attack" : 65,
+            "defense" : 65,
+            "sp.atk" : 100,
+            "sp.def" : 70,
+            "speed" : 55,
+            "total" : 455
+        },
+        "evolution" : [
+            "Omanyte"
+        ]
+    },
+    {
+        "name" : "Kabuto",
+        "number" : "140",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "rock",
+            "water"
+        ],
+        "height" : "0'05\"",
+        "weight" : "11.5 lbs",
+        "abilities" : [
+            "battle-armor",
+            "swift-swim"
+        ],
+        "stats" : {
+            "hp" : 45,
+            "attack" : 80,
+            "defense" : 100,
+            "sp.atk" : 70,
+            "sp.def" : 80,
+            "speed" : 30,
+            "total" : 395
+        },
+        "evolution" : [
+            "Kabuto",
+            "Kabutops"
+        ]
+    },
+    {
+        "name" : "Kabutops",
+        "number" : "141",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "rock",
+            "water"
+        ],
+        "height" : "0'09\"",
+        "weight" : "40.5 lbs",
+        "abilities" : [
+            "battle-armor",
+            "swift-swim"
+        ],
+        "stats" : {
+            "hp" : 60,
+            "attack" : 115,
+            "defense" : 105,
+            "sp.atk" : 70,
+            "sp.def" : 85,
+            "speed" : 90,
+            "total" : 505
+        },
+        "evolution" : [
+            "Kabuto"
+        ]
+    },
+    {
+        "name" : "Aerodactyl",
+        "number" : "142",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "rock",
+            "flying"
+        ],
+        "height" : "0'58\"",
+        "weight" : "59.0 lbs",
+        "abilities" : [
+            "pressure",
+            "rock-head"
+        ],
+        "stats" : {
+            "hp" : 80,
+            "attack" : 105,
+            "defense" : 65,
+            "sp.atk" : 60,
+            "sp.def" : 75,
+            "speed" : 130,
+            "total" : 500
+        },
+        "evolution" : [
+            "Aerodactyl"
+        ]
+    },
+    {
+        "name" : "Snorlax",
+        "number" : "143",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal"
+        ],
+        "height" : "3'11\"",
+        "weight" : "460.0 lbs",
+        "abilities" : [
+            "immunity",
+            "thick-fat"
+        ],
+        "stats" : {
+            "hp" : 160,
+            "attack" : 110,
+            "defense" : 65,
+            "sp.atk" : 65,
+            "sp.def" : 110,
+            "speed" : 30,
+            "total" : 500
+        },
+        "evolution" : [
+            "Snorlax",
+            "Munchlax"
+        ]
+
+    },
+    {
+        "name" : "Articuno",
+        "number" : "144",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "ice",
+            "flying"
+        ],
+        "height" : "5'07\"",
+        "weight" : "155.0 lbs",
+        "abilities" : [
+            "pressure",
+            "snow-cloak"
+        ],
+        "stats" : {
+            "hp" : 90,
+            "attack" : 85,
+            "defense" : 100,
+            "sp.atk" : 95,
+            "sp.def" : 125,
+            "speed" : 85,
+            "total" : 580
+        },
+        "evolution" : [
+            "Articuno"
+        ]
+
+    },
+    {
+        "name" : "Zapdos",
+        "number" : "145",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "electric",
+            "flying"
+        ],
+        "height" : "5'07\"",
+        "weight" : "116.0 lbs",
+        "abilities" : [
+            "pressure",
+            "lightning-rod"
+        ],
+        "stats" : {
+            "hp" : 90,
+            "attack" : 90,
+            "defense" : 85,
+            "sp.atk" : 125,
+            "sp.def" : 90,
+            "speed" : 100,
+            "total" : 580
+        },
+        "evolution" : [
+            "Zapdos"
+        ]
+
+    },
+    {
+        "name" : "Moltres",
+        "number" : "146",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "fire",
+            "flying"
+        ],
+        "height" : "5'07\"",
+        "weight" : "132.0 lbs",
+        "abilities" : [
+            "pressure",
+            "flame-body"
+        ],
+        "stats" : {
+            "hp" : 90,
+            "attack" : 100,
+            "defense" : 90,
+            "sp.atk" : 125,
+            "sp.def" : 85,
+            "speed" : 90,
+            "total" : 580
+        },
+        "evolution" : [
+            "Moltres"
+        ]
+    },
+    {
+        "name" : "Dratini",
+        "number" : "147",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "dragon"
+        ],
+        "height" : "1'04\"",
+        "weight" : "3.3 lbs",
+        "abilities" : [
+            "shed-skin",
+            "hydration"
+        ],
+        "stats" : {
+            "hp" : 41,
+            "attack" : 64,
+            "defense" : 45,
+            "sp.atk" : 50,
+            "sp.def" : 50,
+            "speed" : 50,
+            "total" : 309
+        },
+        "evolution" : [
+            "Dratini",
+            "Dragonair",
+            "Dragonite"
+        ]
+    },
+    {
+        "name" : "Dragonair",
+        "number" : "148",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "dragon"
+        ],
+        "height" : "3'07\"",
+        "weight" : "16.5 lbs",
+        "abilities" : [
+            "shed-skin",
+            "hydration"
+        ],
+        "stats" : {
+            "hp" : 61,
+            "attack" : 84,
+            "defense" : 65,
+            "sp.atk" : 70,
+            "sp.def" : 70,
+            "speed" : 70,
+            "total" : 405
+        },
+        "evolution" : [
+            "Dratini",
+            "Dragonair",
+            "Dragonite"
+        ]
+    },
+    {
+        "name" : "Dragonite",
+        "number" : "149",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "dragon",
+            "flying"
+        ],
+        "height" : "4'07\"",
+        "weight" : "463.0 lbs",
+        "abilities" : [
+            "inner-focus",
+            "multiscale"
+        ],
+        "stats" : {
+            "hp" : 91,
+            "attack" : 134,
+            "defense" : 95,
+            "sp.atk" : 100,
+            "sp.def" : 100,
+            "speed" : 80,
+            "total" : 600
+        },
+        "evolution" : [
+            "Dratini",
+            "Dragonair",
+            "Dragonite"
+        ]
+    },
+    {
+        "name" : "Mewtwo",
+        "number" : "150",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "psychic"
+        ],
+        "height" : "2'04\"",
+        "weight" : "122.0 lbs",
+        "abilities" : [
+            "pressure",
+            "unnerve"
+        ],
+        "stats" : {
+            "hp" : 106,
+            "attack" : 110,
+            "defense" : 90,
+            "sp.atk" : 154,
+            "sp.def" : 90,
+            "speed" : 130,
+            "total" : 600
+        },
+        "evolution" : [
+            "Mewtwo"
+        ]
+    },
+    {
+        "name" : "Mew",
+        "number" : "151",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "psychic"
+        ],
+        "height" : "0'09\"",
+        "weight" : "4.0 lbs",
+        "abilities" : [
+            "synchronize",
+            "serene-grace"
+        ],
+        "stats" : {
+            "hp" : 100,
+            "attack" : 100,
+            "defense" : 100,
+            "sp.atk" : 100,
+            "sp.def" : 100,
+            "speed" : 100,
+            "total" : 600
+        },
+        "evolution" : [
+            "Mewtwo"
+        ]
+                
+    }     
     ]
 }
