@@ -2174,6 +2174,722 @@
             "Graveler",
             "Golem"
         ]
+    },
+    {
+        "name" : "Golem",
+        "number" : "076",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "rock",
+            "ground"
+        ],
+        "height" : "0'09\"",
+        "weight" : "300.0 lbs",
+        "abilities" : [
+            "sturdy",
+            "sand-veil"
+        ],
+        "stats" : {
+            "hp" : 80,
+            "attack" : 120,
+            "defense" : 130,
+            "sp.atk" : 55,
+            "sp.def" : 65,
+            "speed" : 45,
+            "total" : 525
+        },
+        "evolution" : [
+            "Geodude",
+            "Graveler",
+            "Golem"
+        ]
+    },
+    {
+        "name" : "Ponyta",
+        "number" : "077",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "fire"
+        ],
+        "height" : "0'07\"",
+        "weight" : "30.0 lbs",
+        "abilities" : [
+            "run-away",
+            "flame-body"
+        ],
+        "stats" : {
+            "hp" : 50,
+            "attack" : 85,
+            "defense" : 55,
+            "sp.atk" : 65,
+            "sp.def" : 65,
+            "speed" : 90,
+            "total" : 385
+        },
+        "evolution" : [
+            "Ponyta",
+            "Rapidash"
+        ]
+    },
+    {
+        "name" : "Rapidash",
+        "number" : "078",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "fire"
+        ],
+        "height" : "0'08\"",
+        "weight" : "95.0 lbs",
+        "abilities" : [
+            "run-away",
+            "flame-body"
+        ],
+        "stats" : {
+            "hp" : 65,
+            "attack" : 100,
+            "defense" : 70,
+            "sp.atk" : 80,
+            "sp.def" : 80,
+            "speed" : 105,
+            "total" : 490
+        },
+        "evolution" : [
+            "Ponyta",
+            "Rapidash"
+        ]
+    },
+    {
+        "name" : "Slowpoke",
+        "number" : "079",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water",
+            "psychic"
+        ],
+        "height" : "0'07\"",
+        "weight" : "36.0 lbs",
+        "abilities" : [
+            "oblivious",
+            "own-tempo"
+        ],
+        "stats" : {
+            "hp" : 90,
+            "attack" : 65,
+            "defense" : 65,
+            "sp.atk" : 40,
+            "sp.def" : 40,
+            "speed" : 15,
+            "total" : 330
+        },
+        "evolution" : [
+            "Slowpoke",
+            "Slowbro"
+        ]
+    },
+    {
+        "name" : "Slowbro",
+        "number" : "080",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water",
+            "psychic"
+        ],
+        "height" : "0'07\"",
+        "weight" : "78.5 lbs",
+        "abilities" : [
+            "oblivious",
+            "own-tempo"
+        ],
+        "stats" : {
+            "hp" : 95,
+            "attack" : 75,
+            "defense" : 110,
+            "sp.atk" : 100,
+            "sp.def" : 80,
+            "speed" : 30,
+            "total" : 490
+        },
+        "evolution" : [
+            "Slowpoke",
+            "Slowbro"
+        ]
+    },
+    {
+        "name" : "Magnemite",
+        "number" : "081",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "steel",
+            "electric"
+        ],
+        "height" : "0'04\"",
+        "weight" : "13.0 lbs",
+        "abilities" : [
+            "magnet-pull",
+            "sturdy"
+        ],
+        "stats" : {
+            "hp" : 50,
+            "attack" : 40,
+            "defense" : 50,
+            "sp.atk" : 40,
+            "sp.def" : 50,
+            "speed" : 70,
+            "total" : 300
+        },
+        "evolution" : [
+            "Magnemite",
+            "Magneton"
+        ]
+    },
+    {
+        "name" : "Magneton",
+        "number" : "082",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "steel",
+            "electric"
+        ],
+        "height" : "0'06\"",
+        "weight" : "60.0 lbs",
+        "abilities" : [
+            "magnet-pull",
+            "sturdy"
+        ],
+        "stats" : {
+            "hp" : 60,
+            "attack" : 50,
+            "defense" : 70,
+            "sp.atk" : 50,
+            "sp.def" : 70,
+            "speed" : 95,
+            "total" : 420
+        },
+        "evolution" : [
+            "Magnemite",
+            "Magneton"
+        ]
+    },
+    {
+        "name" : "Farfetch'd",
+        "number" : "083",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal",
+            "flying"
+        ],
+        "height" : "0'08\"",
+        "weight" : "15.0 lbs",
+        "abilities" : [
+            "keen-eye",
+            "defiant"
+        ],
+        "stats" : {
+            "hp" : 52,
+            "attack" : 90,
+            "defense" : 55,
+            "sp.atk" : 58,
+            "sp.def" : 62,
+            "speed" : 60,
+            "total" : 350
+        },
+        "evolution" : [
+            "Farfetch'd",
+            "Sirfetch'd"
+        ]
+    },
+    {
+        "name" : "Doduo",
+        "number" : "084",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal",
+            "flying"
+        ],
+        "height" : "0'08\"",
+        "weight" : "39.2 lbs",
+        "abilities" : [
+            "run-away",
+            "early-bird"
+        ],
+        "stats" : {
+            "hp" : 35,
+            "attack" : 75,
+            "defense" : 35,
+            "sp.atk" : 47,
+            "sp.def" : 52,
+            "speed" : 50,
+            "total" : 300
+        },
+        "evolution" : [
+            "Doduo",
+            "Dodrio"
+        ]
+    },
+    {
+        "name" : "Dodrio",
+        "number" : "085",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "normal",
+            "flying"
+        ],
+        "height" : "0'08\"",
+        "weight" : "85.2 lbs",
+        "abilities" : [
+            "run-away",
+            "early-bird"
+        ],
+        "stats" : {
+            "hp" : 60,
+            "attack" : 110,
+            "defense" : 60,
+            "sp.atk" : 70,
+            "sp.def" : 80,
+            "speed" : 70,
+            "total" : 460
+        },
+        "evolution" : [
+            "Doduo",
+            "Dodrio"
+        ]
+    },
+    {
+        "name" : "Seel",
+        "number" : "086",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water"
+        ],
+        "height" : "0'09\"",
+        "weight" : "90.0 lbs",
+        "abilities" : [
+            "thick-fat",
+            "hydration"
+        ],
+
+        "stats" : {
+            "hp" : 65,
+            "attack" : 45,
+            "defense" : 55,
+            "sp.atk" : 45,
+            "sp.def" : 70,
+            "speed" : 45,
+            "total" : 330
+        },
+        "evolution" : [
+            "Seel",
+            "Dewgong"
+        ]
+    },
+    {
+        "name" : "Dewgong",
+        "number" : "087",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water",
+            "ice"
+        ],
+        "height" : "0'09\"",
+        "weight" : "120.0 lbs",
+        "abilities" : [
+            "thick-fat",
+            "hydration"
+        ],
+        "stats" : {
+            "hp" : 90,
+            "attack" : 65,
+            "defense" : 95,
+            "sp.atk" : 75,
+            "sp.def" : 110,
+            "speed" : 65,
+            "total" : 490
+        },
+        "evolution" : [
+            "Seel",
+            "Dewgong"
+        ]
+    },
+    {
+        "name" : " Grimer",
+        "number" : "088",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "poison"
+        ],
+        "height" : "0'09\"",
+        "weight" : "30.0 lbs",
+        "abilities" : [
+            "stench",
+            "poison-touch"
+        ],
+        "stats" : {
+            "hp" : 30,
+            "attack" : 35,
+            "defense" : 30,
+            "sp.atk" : 50,
+            "sp.def" : 70,
+            "speed" : 55,
+            "total" : 305
+        },
+        "evolution" : [
+            "Grimer",
+            "Muk"
+        ]
+    },
+    {
+        "name" : " Muk",
+        "number" : "089",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "poison"
+        ],
+        "height" : "0'09\"",
+        "weight" : "30.0 lbs",
+        "abilities" : [
+            "stench",
+            "poison-touch"
+        ],
+        "stats" : {
+            "hp" : 55,
+            "attack" : 85,
+            "defense" : 50,
+            "sp.atk" : 100,
+            "sp.def" : 80,
+            "speed" : 95,
+            "total" : 505
+        },
+        "evolution" : [
+            "Grimer",
+            "Muk"
+        ]
+    },
+    {
+        "name" : " Shellder",
+        "number" : "090",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water"
+        ],
+        "height" : "0'04\"",
+        "weight" : "4.0 lbs",
+        "abilities" : [
+            "shell-armor",
+            "skill-link"
+        ],
+        "stats" : {
+            "hp" : 30,
+            "attack" : 65,
+            "defense" : 100,
+            "sp.atk" : 45,
+            "sp.def" : 25,
+            "speed" : 40,
+            "total" : 300
+        },
+        "evolution" : [
+            "Shellder",
+            "Cloyster"
+        ]
+    },
+    {
+        "name" : " Cloyster",
+        "number" : "091",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water",
+            "ice"
+        ],
+        "height" : "0'09\"",
+        "weight" : "132.5 lbs",
+        "abilities" : [
+            "shell-armor",
+            "skill-link"
+        ],
+        "stats" : {
+            "hp" : 50,
+            "attack" : 95,
+            "defense" : 180,
+            "sp.atk" : 85,
+            "sp.def" : 45,
+            "speed" : 70,
+            "total" : 540
+        },
+        "evolution" : [
+            "Shellder",
+            "Cloyster"
+        ]
+    },
+    {
+        "name" : " Gastly",
+        "number" : "092",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "ghost",
+            "poison"
+        ],
+        "height" : "0'11\"",
+        "weight" : "0.1 lbs",
+        "abilities" : [
+            "levitate"
+        ],
+        "stats" : {
+            "hp" : 30,
+            "attack" : 35,
+            "defense" : 30,
+            "sp.atk" : 100,
+            "sp.def" : 35,
+            "speed" : 80,
+            "total" : 310
+        },
+        "evolution" : [
+            "Gastly",
+            "Haunter",
+            "Gengar"
+        ]
+    },
+    {
+        "name" : " Haunter",
+        "number" : "093",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "ghost",
+            "poison"
+        ],
+        "height" : "0'09\"",
+        "weight" : "1.3 lbs",
+        "abilities" : [
+            "levitate"
+        ],
+        "stats" : {
+            "hp" : 45,
+            "attack" : 50,
+            "defense" : 45,
+            "sp.atk" : 115,
+            "sp.def" : 55,
+            "speed" : 95,
+            "total" : 405
+        },
+        "evolution" : [
+            "Gastly",
+            "Haunter",
+            "Gengar"
+        ]
+    },
+    {
+        "name" : " Gengar",
+        "number" : "094",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "ghost",
+            "poison"
+        ],
+        "height" : "0'09\"",
+        "weight" : "40.5 lbs",
+        "abilities" : [
+            "cursed-body"
+        ],
+        "stats" : {
+            "hp" : 60,
+            "attack" : 65,
+            "defense" : 60,
+            "sp.atk" : 130,
+            "sp.def" : 75,
+            "speed" : 110,
+            "total" : 500
+        },
+        "evolution" : [
+            "Gastly",
+            "Haunter",
+            "Gengar"
+        ]
+    },
+    {
+        "name" : " Onix",
+        "number" : "095",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "rock",
+            "ground"
+        ],
+        "height" : "0'88\"",
+        "weight" : "210.0 lbs",
+        "abilities" : [
+            "rock-head",
+            "sturdy"
+        ],
+        "stats" : {
+            "hp" : 35,
+            "attack" : 45,
+            "defense" : 160,
+            "sp.atk" : 30,
+            "sp.def" : 45,
+            "speed" : 70,
+            "total" : 385
+        },
+        "evolution" : [
+            "Onix",
+            "Steelix"
+        ]
+    },
+    {
+        "name" : " Drowzee",
+        "number" : "096",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "psychic"
+        ],
+        "height" : "0'08\"",
+        "weight" : "32.4 lbs",
+        "abilities" : [
+            "insomnia",
+            "forewarn"
+        ],
+        "stats" : {
+            "hp" : 60,
+            "attack" : 48,
+            "defense" : 45,
+            "sp.atk" : 43,
+            "sp.def" : 90,
+            "speed" : 42,
+            "total" : 328
+        },
+        "evolution" : [
+            "Drowzee",
+            "Hypno"
+        ]
+    },
+    {
+        "name" : " Hypno",
+        "number" : "097",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "psychic"
+        ],
+        "height" : "0'16\"",
+        "weight" : "75.6 lbs",
+        "abilities" : [
+            "insomnia",
+            "forewarn"
+        ],
+        "stats" : {
+            "hp" : 85,
+            "attack" : 73,
+            "defense" : 70,
+            "sp.atk" : 73,
+            "sp.def" : 115,
+            "speed" : 67,
+            "total" : 483
+        },
+        "evolution" : [
+            "Drowzee",
+            "Hypno"
+        ]
+    },
+    {
+        "name" : " Krabby",
+        "number" : "098",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water"
+        ],
+        "height" : "0'04\"",
+        "weight" : "6.4 lbs",
+        "abilities" : [
+            "sheer-force",
+            "adrenaline-boost"
+        ],
+        "stats" : {
+            "hp" : 45,
+            "attack" : 85,
+            "defense" : 40,
+            "sp.atk" : 30,
+            "sp.def" : 45,
+            "speed" : 75,
+            "total" : 305
+        },
+        "evolution" : [
+            "Krabby",
+            "Kingler"
+        ]
+    },
+    {
+        "name" : " Kingler",
+        "number" : "099",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "water"
+        ],
+        "height" : "0'09\"",
+        "weight" : "60.0 lbs",
+        "abilities" : [
+            "sheer-force",
+            "adrenaline-boost"
+        ],
+        "stats" : {
+            "hp" : 55,
+            "attack" : 130,
+            "defense" : 115,
+            "sp.atk" : 70,
+            "sp.def" : 55,
+            "speed" : 85,
+            "total" : 485
+        },
+        "evolution" : [
+            "Krabby",
+            "Kingler"
+        ]
+    },
+    {
+        "name" : " Voltorb",
+        "number" : "100",
+        "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+        "color" : "rgb(255,193,7)",
+        "type" : [
+            "electric"
+        ],
+        "height" : "0'04\"",
+        "weight" : "10.4 lbs",
+        "abilities" : [
+            "soundproof",
+            "static"
+        ],
+        "stats" : {
+            "hp" : 40,
+            "attack" : 30,
+            "defense" : 50,
+            "sp.atk" : 55,
+            "sp.def" : 55,
+            "speed" : 100,
+            "total" : 305
+        },
+        "evolution" : [
+            "Voltorb",
+            "Electrode"
+        ]
     }
  
     ]
