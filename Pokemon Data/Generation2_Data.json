@@ -722,6 +722,899 @@
                 "Togekiss"
 
             ]
-        }
+        },
+        {
+            "name" : "Togetic",
+            "number" : "176",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "fairy",
+                "flying"
+            ],
+            "height": "2' 00\"",
+            "weight": "7.1 lbs",
+            "abilities": [
+                "Hustle",
+                "Serene Grace"
+            ],
+            "stats": {
+                "hp": 55,
+                "attack": 40,
+                "defense": 85,
+                "sp.atk": 80,
+                "sp.def": 105,
+                "speed": 40,
+                "total": 420
+            },
+            "evolution": [
+                "Togepi",
+                "Togetic",
+                "Togekiss"
+
+            ]
+        },
+        {
+            "name" : "Natu",
+            "number" : "177",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "psychic",
+                "flying"
+            ],
+            "height": "0' 08\"",
+            "weight": "4.4 lbs",
+            "abilities": [
+                "Synchronize",
+                "Early Bird"
+            ],
+            "stats": {
+                "hp": 40,
+                "attack": 50,
+                "defense": 45,
+                "sp.atk": 70,
+                "sp.def": 45,
+                "speed": 70,
+                "total": 310
+            },
+            "evolution": [
+                "Natu",
+                "Xatu"
+
+            ]
+        },
+        {
+            "name" : "Xatu",
+            "number" : "178",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "psychic",
+                "flying"
+            ],
+            "height": "4' 11\"",
+            "weight": "33.1 lbs",
+            "abilities": [
+                "Synchronize",
+                "Early Bird"
+            ],
+            "stats": {
+                "hp": 65,
+                "attack": 75,
+                "defense": 70,
+                "sp.atk": 95,
+                "sp.def": 70,
+                "speed": 95,
+                "total": 460
+            },
+            "evolution": [
+                "Natu",
+                "Xatu"
+
+            ]
+        },
+        {
+            "name" : "Mareep",
+            "number" : "179",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "electric"
+            ],
+            "height": "2' 00\"",
+            "weight": "17.2 lbs",
+            "abilities": [
+                "Static",
+                "Plus"
+            ],
+            "stats": {
+                "hp": 55,
+                "attack": 40,
+                "defense": 40,
+                "sp.atk": 65,
+                "sp.def": 45,
+                "speed": 35,
+                "total": 285
+            },
+            "evolution": [
+                "Mareep",
+                "Flaaffy",
+                "Ampharos"
+
+            ]
+
+        },
+        {
+            "name" : "Flaaffy",
+            "number" : "180",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "electric"
+            ],
+            "height": "2' 07\"",
+            "weight": "29.3 lbs",
+            "abilities": [
+                "Static",
+                "Plus"
+            ],
+            "stats": {
+                "hp": 70,
+                "attack": 55,
+                "defense": 55,
+                "sp.atk": 80,
+                "sp.def": 60,
+                "speed": 45,
+                "total": 365
+            },
+            "evolution": [
+                "Mareep",
+                "Flaaffy",
+                "Ampharos"
+
+            ]
+        },
+        {
+            "name" : "Ampharos",
+            "number" : "181",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "electric"
+            ],
+            "height": "4' 07\"",
+            "weight": "135.6 lbs",
+            "abilities": [
+                "Static",
+                "Plus"
+            ],
+            "stats": {
+                "hp": 90,
+                "attack": 75,
+                "defense": 85,
+                "sp.atk": 115,
+                "sp.def": 90,
+                "speed": 55,
+                "total": 505
+            },
+            "evolution": [
+                "Mareep",
+                "Flaaffy",
+                "Ampharos"
+
+            ]
+        },
+        {
+            "name" : "Bellossom",
+            "number" : "182",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "grass"
+            ],
+            "height": "1' 04\"",
+            "weight": "12.8 lbs",
+            "abilities": [
+                "Chlorophyll",
+                "Healer"
+            ],
+            "stats": {
+                "hp": 75,
+                "attack": 80,
+                "defense": 95,
+                "sp.atk": 90,
+                "sp.def": 100,
+                "speed": 50,
+                "total": 490
+            },
+            "evolution": [
+                "Oddish",
+                "Gloom"
+
+            ]
+        },
+        {
+            "name" : "Marill",
+            "number" : "183",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "water",
+                "fairy"
+            ],
+            "height": "1' 04\"",
+            "weight": "18.7 lbs",
+            "abilities": [
+                "Huge Power",
+                "Sap Sipper"
+            ],
+            "stats": {
+                "hp": 70,
+                "attack": 20,
+                "defense": 50,
+                "sp.atk": 60,
+                "sp.def": 120,
+                "speed": 40,
+                "total": 340
+            },
+            "evolution": [
+                "Azurill",
+                "Marill",
+                "Azumarill"
+
+            ]
+
+
+        },
+        {
+            "name" : "Azumarill",
+            "number" : "184",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "water",
+                "fairy"
+            ],
+            "height": "2' 07\"",
+            "weight": "62.8 lbs",
+            "abilities": [
+                "Huge Power",
+                "Sap Sipper"
+            ],
+            "stats": {
+                "hp": 100,
+                "attack": 50,
+                "defense": 80,
+                "sp.atk": 70,
+                "sp.def": 130,
+                "speed": 60,
+                "total": 490
+            },
+            "evolution": [
+                "Azurill",
+                "Marill",
+                "Azumarill"
+
+            ]
+        },
+        {
+            "name" : "Sudowoodo",
+            "number" : "185",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "rock"
+            ],
+            "height": "3' 11\"",
+            "weight": "83.8 lbs",
+            "abilities": [
+                "Sturdy",
+                "Rock Head"
+            ],
+            "stats": {
+                "hp": 70,
+                "attack": 100,
+                "defense": 115,
+                "sp.atk": 45,
+                "sp.def": 45,
+                "speed": 35,
+                "total": 455
+            },
+            "evolution": [
+                "Sudowoodo",
+                "Bonsly"
+
+            ]
+
+        },
+        {
+            "name" : "Politoed",
+            "number" : "186",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "water"
+            ],
+            "height": "3' 07\"",
+            "weight": "74.7 lbs",
+            "abilities": [
+                "Water Absorb",
+                "Damp"
+            ],
+            "stats": {
+                "hp": 90,
+                "attack": 75,
+                "defense": 75,
+                "sp.atk": 70,
+                "sp.def": 70,
+                "speed": 40,
+                "total": 455
+            },
+            "evolution": [
+                "Poliwhirl",
+                "Poliwag"
+
+            ]
+        },
+        {
+            "name" : "Hoppip",
+            "number" : "187",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "grass",
+                "flying"
+            ],
+            "height": "1' 04\"",
+            "weight": "1.1 lbs",
+            "abilities": [
+                "Chlorophyll",
+                "Leaf Guard"
+            ],
+            "stats": {
+                "hp": 50,
+                "attack": 45,
+                "defense": 40,
+                "sp.atk": 55,
+                "sp.def": 40,
+                "speed": 60,
+                "total": 295
+            },
+            "evolution": [
+                "Hoppip",
+                "Skiploom",
+                "Jumpluff"
+
+            ]
+        },
+        {
+            "name" : "Skiploom",
+            "number" : "188",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "grass",
+                "flying"
+            ],
+            "height": "2' 00\"",
+            "weight": "2.2 lbs",
+            "abilities": [
+                "Chlorophyll",
+                "Leaf Guard"
+            ],
+            "stats": {
+                "hp": 55,
+                "attack": 45,
+                "defense": 50,
+                "sp.atk": 65,
+                "sp.def": 50,
+                "speed": 90,
+                "total": 355
+            },
+            "evolution": [
+                "Hoppip",
+                "Skiploom",
+                "Jumpluff"
+
+            ]
+        },
+        {
+            "name" : "Jumpluff",
+            "number" : "189",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "grass",
+                "flying"
+            ],
+            "height": "2' 07\"",
+            "weight": "6.6 lbs",
+            "abilities": [
+                "Chlorophyll",
+                "Leaf Guard"
+            ],
+            "stats": {
+                "hp": 75,
+                "attack": 55,
+                "defense": 70,
+                "sp.atk": 95,
+                "sp.def": 90,
+                "speed": 70,
+                "total": 455
+            },
+            "evolution": [
+                "Hoppip",
+                "Skiploom",
+                "Jumpluff"
+
+            ]
+        },
+        {
+            "name" : "Aipom",
+            "number" : "190",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "normal"
+            ],
+            "height": "2' 07\"",
+            "weight": "25.4 lbs",
+            "abilities": [
+                "Run Away",
+                "Pickup"
+            ],
+            "stats": {
+                "hp": 55,
+                "attack": 70,
+                "defense": 55,
+                "sp.atk": 40,
+                "sp.def": 55,
+                "speed": 85,
+                "total": 355
+            },
+            "evolution": [
+                "Aipom",
+                "Ambipom"
+
+            ]
+
+        },
+        {
+            "name" : "Sunkern",
+            "number" : "191",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "grass"
+            ],
+            "height": "1' 00\"",
+            "weight": "4.0 lbs",
+            "abilities": [
+                "Chlorophyll",
+                "Solar Power"
+            ],
+            "stats": {
+                "hp": 30,
+                "attack": 30,
+                "defense": 30,
+                "sp.atk": 30,
+                "sp.def": 30,
+                "speed": 30,
+                "total": 195
+            },
+            "evolution": [
+                "Sunkern",
+                "Sunflora"
+
+            ]
+        },
+        {
+            "name" : "Sunflora",
+            "number" : "192",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "grass"
+            ],
+            "height": "2' 07\"",
+            "weight": "18.7 lbs",
+            "abilities": [
+                "Chlorophyll",
+                "Solar Power"
+            ],
+            "stats": {
+                "hp": 75,
+                "attack": 75,
+                "defense": 55,
+                "sp.atk": 105,
+                "sp.def": 85,
+                "speed": 30,
+                "total": 455
+            },
+            "evolution": [
+                "Sunkern",
+                "Sunflora"
+
+            ]
+        },
+        {
+            "name" : "Yanma",
+            "number" : "193",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "bug",
+                "flying"
+            ],
+            "height": "3' 11\"",
+            "weight": "83.8 lbs",
+            "abilities": [
+                "Speed Boost",
+                "Compound Eyes"
+            ],
+            "stats": {
+                "hp": 65,
+                "attack": 65,
+                "defense": 45,
+                "sp.atk": 75,
+                "sp.def": 45,
+                "speed": 95,
+                "total": 395
+            },
+            "evolution": [
+                "Yanma",
+                "Yanmega"
+
+            ]
+        },
+        {
+            "name" : "Wooper",
+            "number" : "194",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "water",
+                "ground"
+            ],
+            "height": "1' 04\"",
+            "weight": "18.7 lbs",
+            "abilities": [
+                "Damp",
+                "Water Absorb"
+            ],
+            "stats": {
+                "hp": 55,
+                "attack": 45,
+                "defense": 45,
+                "sp.atk": 25,
+                "sp.def": 25,
+                "speed": 15,
+                "total": 235
+            },
+            "evolution": [
+                "Wooper",
+                "Quagsire"
+
+            ]            
+        },
+        {
+            "name" : "Quagsire",
+            "number" : "195",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "water",
+                "ground"
+            ],
+            "height": "4' 07\"",
+            "weight": "165.3 lbs",
+            "abilities": [
+                "Damp",
+                "Water Absorb"
+            ],
+            "stats": {
+                "hp": 95,
+                "attack": 85,
+                "defense": 85,
+                "sp.atk": 65,
+                "sp.def": 65,
+                "speed": 35,
+                "total": 475
+            },
+            "evolution": [
+                "Wooper",
+                "Quagsire"
+
+            ]
+        },
+        {
+            "name" : "Espeon",
+            "number" : "196",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "psychic"
+            ],
+            "height": "2' 11\"",
+            "weight": "58.4 lbs",
+            "abilities": [
+                "Synchronize",
+                "Magic Bounce"
+            ],
+            "stats": {
+                "hp": 65,
+                "attack": 65,
+                "defense": 60,
+                "sp.atk": 130,
+                "sp.def": 95,
+                "speed": 110,
+                "total": 540
+            },
+            "evolution": [
+                "Eevee",
+                "Espeon"
+
+            ]
+
+        },
+        {
+            "name" : "Umbreon",
+            "number" : "197",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "dark"
+            ],
+            "height": "3' 03\"",
+            "weight": "59.5 lbs",
+            "abilities": [
+                "Synchronize"
+            ],
+            "stats": {
+                "hp": 95,
+                "attack": 65,
+                "defense": 110,
+                "sp.atk": 60,
+                "sp.def": 130,
+                "speed": 65,
+                "total": 540
+            },
+            "evolution": [
+                "Eevee",
+                "Umbreon"
+
+            ]
+
+        },
+        {
+            "name" : "Murkrow",
+            "number" : "198",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "dark",
+                "flying"
+            ],
+            "height": "1' 08\"",
+            "weight": "4.6 lbs",
+            "abilities": [
+                "Insomnia",
+                "Super Luck"
+            ],
+            "stats": {
+                "hp": 60,
+                "attack": 85,
+                "defense": 42,
+                "sp.atk": 85,
+                "sp.def": 42,
+                "speed": 91,
+                "total": 495
+            },
+            "evolution": [
+                "Murkrow",
+                "Honchkrow"
+
+            ]
+            
+        },
+        {
+            "name" : "Slowking",
+            "number" : "199",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "water",
+                "psychic"
+            ],
+            "height": "6' 07\"",
+            "weight": "175.3 lbs",
+            "abilities": [
+                "Oblivious",
+                "Own Tempo"
+            ],
+            "stats": {
+                "hp": 95,
+                "attack": 75,
+                "defense": 80,
+                "sp.atk": 100,
+                "sp.def": 110,
+                "speed": 30,
+                "total": 540
+            },
+            "evolution": [
+                "Slowpoke",
+                "Slowbro"
+
+            ]
+        },
+        {
+            "name" : "Misdreavus",
+            "number" : "200",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "ghost"
+            ],
+            "height": "2' 04\"",
+            "weight": "2.2 lbs",
+            "abilities": [
+                "Levitate"
+            ],
+            "stats": {
+                "hp": 60,
+                "attack": 60,
+                "defense": 60,
+                "sp.atk": 85,
+                "sp.def": 85,
+                "speed": 85,
+                "total": 435
+            },
+            "evolution": [
+                "Misdreavus",
+                "Mismagius"
+
+            ]
+        },
+        {
+            "name" : "Unown",
+            "number" : "201",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "psychic"
+            ],
+            "height": "1' 08\"",
+            "weight": "11.0 lbs",
+            "abilities": [
+                "Levitate"
+            ],
+            "stats": {
+                "hp": 48,
+                "attack": 72,
+                "defense": 48,
+                "sp.atk": 72,
+                "sp.def": 48,
+                "speed": 48,
+                "total": 324
+            },
+            "evolution": [
+                "Unown"
+            ]
+
+        },
+        {
+            "name" : "Wobbuffet",
+            "number" : "202",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "psychic"
+            ],
+            "height": "4' 03\"",
+            "weight": "62.8 lbs",
+            "abilities": [
+                "Shadow Tag"
+            ],
+            "stats": {
+                "hp": 190,
+                "attack": 33,
+                "defense": 58,
+                "sp.atk": 33,
+                "sp.def": 58,
+                "speed": 33,
+                "total": 330
+            },
+            "evolution": [
+                "Wobbuffet",
+                "Wynaut"
+            ]
+        },
+        {
+            "name" : "Girafarig",
+            "number" : "203",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png",
+            "color": "rgb(255,193,7)",
+            "type": [
+                "normal",
+                "psychic"
+            ],
+            "height": "4' 11\"",
+            "weight": "91.5 lbs",
+            "abilities": [
+                "Inner Focus",
+                "Early Bird"
+            ],
+            "stats": {
+                "hp": 70,
+                "attack": 80,
+                "defense": 65,
+                "sp.atk": 90,
+                "sp.def": 65,
+                "speed": 85,
+                "total": 455
+            },
+            "evolution": [
+                "Girafarig"
+            ]
+
+        },
+        {
+            "name" : "Pineco",
+            "number" : "204",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "bug"
+            ],
+            "height": "2' 00\"",
+            "weight": "15.9 lbs",
+            "abilities": [
+                "Sturdy",
+                "Overcoat"
+            ],
+            "stats": {
+                "hp": 50,
+                "attack": 65,
+                "defense": 90,
+                "sp.atk": 35,
+                "sp.def": 35,
+                "speed": 15,
+                "total": 305
+            },
+            "evolution": [
+                "Pineco",
+                "Forretress"
+            ]
+        },
+        {
+            "name" : "Forretress",
+            "number" : "205",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "bug",
+                "steel"
+            ],
+            "height": "3' 11\"",
+            "weight": "277.3 lbs",
+            "abilities": [
+                "Sturdy",
+                "Overcoat"
+            ],
+            "stats": {
+                "hp": 75,
+                "attack": 90,
+                "defense": 140,
+                "sp.atk": 60,
+                "sp.def": 60,
+                "speed": 40,
+                "total": 465
+            },
+            "evolution": [
+                "Pineco",
+                "Forretress"
+            ]
+        }        
     ]
 }
