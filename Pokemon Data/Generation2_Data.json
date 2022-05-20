@@ -1615,6 +1615,785 @@
                 "Pineco",
                 "Forretress"
             ]
-        }        
+        },
+        {
+            "name" : "Dunsparce",
+            "number" : "206",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/206.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "normal"
+            ],
+            "height": "4' 11\"",
+            "weight": "30.9 lbs",
+            "abilities": [
+                "Serene Grace",
+                "Run Away"
+            ],
+            "stats": {
+                "hp": 100,
+                "attack": 70,
+                "defense": 70,
+                "sp.atk": 45,
+                "sp.def": 85,
+                "speed": 65,
+                "total": 455
+            },
+            "evolution": [
+                "Dunsparce"
+            ]
+        },
+        {
+            "name" : "Gligar",
+            "number" : "207",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "ground",
+                "flying"
+            ],
+            "height": "3' 07\"",
+            "weight": "142.9 lbs",
+            "abilities": [
+                "Hyper Cutter",
+                "Sand Veil"
+            ],
+            "stats": {
+                "hp": 65,
+                "attack": 75,
+                "defense": 105,
+                "sp.atk": 35,
+                "sp.def": 65,
+                "speed": 85,
+                "total": 435
+            },
+            "evolution": [
+                "Gligar",
+                "Gliscor"
+            ]
+
+        },
+        {
+            "name" : "Steelix",
+            "number" : "208",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "steel",
+                "ground"
+            ],
+            "height": "30' 02\"",
+            "weight": "881.8 lbs",
+            "abilities": [
+                "Rock Head",
+                "Sturdy"
+            ],
+            "stats": {
+                "hp": 75,
+                "attack": 85,
+                "defense": 200,
+                "sp.atk": 55,
+                "sp.def": 65,
+                "speed": 30,
+                "total": 530
+            },
+            "evolution": [
+                "Onix",
+                "Steelix"
+            ]
+
+        },
+        {
+            "name" : "Snubbull",
+            "number" : "209",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "fairy"
+            ],
+            "height": "2' 00\"",
+            "weight": "17.2 lbs",
+            "abilities": [
+                "Intimidate",
+                "Run Away"
+            ],
+            "stats": {
+                "hp": 60,
+                "attack": 80,
+                "defense": 50,
+                "sp.atk": 40,
+                "sp.def": 40,
+                "speed": 30,
+                "total": 310
+            },
+            "evolution": [
+                "Snubbull",
+                "Granbull"
+            ]
+        },
+        {
+            "name" : "Granbull",
+            "number" : "210",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "fairy"
+            ],
+            "height": "4' 07\"",
+            "weight": "107.4 lbs",
+            "abilities": [
+                "Intimidate",
+                "Quick Feet"
+            ],
+            "stats": {
+                "hp": 90,
+                "attack": 120,
+                "defense": 75,
+                "sp.atk": 60,
+                "sp.def": 60,
+                "speed": 45,
+                "total": 460
+            },
+            "evolution": [
+                "Snubbull",
+                "Granbull"
+            ]
+        },
+        {
+            "name" : "Qwilfish",
+            "number" : "211",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "water",
+                "poison"
+            ],
+            "height": "1' 08\"",
+            "weight": "8.6 lbs",
+            "abilities": [
+                "Poison Point",
+                "Swift Swim"
+            ],
+            "stats": {
+                "hp": 65,
+                "attack": 95,
+                "defense": 75,
+                "sp.atk": 40,
+                "sp.def": 80,
+                "speed": 70,
+                "total": 395
+            },
+            "evolution": [
+                "Qwilfish"
+            ]
+        },
+        {
+            "name" : "Scizor",
+            "number" : "212",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "bug",
+                "steel"
+            ],
+            "height": "3' 03\"",
+            "weight": "129.2 lbs",
+            "abilities": [
+                "Swarm",
+                "Technician"
+            ],
+            "stats": {
+                "hp": 70,
+                "attack": 130,
+                "defense": 100,
+                "sp.atk": 55,
+                "sp.def": 80,
+                "speed": 65,
+                "total": 520
+            },
+            "evolution": [
+                "Scyther",
+                "Scizor"
+            ]
+
+        },
+        {
+            "name" : "Shuckle",
+            "number" : "213",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "bug",
+                "rock"
+            ],
+            "height": "2'00\"",
+            "weight": "45.2 lbs",
+            "abilities": [
+                "Sturdy",
+                "Gluttony"
+            ],
+            "stats": {
+                "hp": 20,
+                "attack": 10,
+                "defense": 230,
+                "sp.atk": 10,
+                "sp.def": 230,
+                "speed": 5,
+                "total": 330
+            },
+            "evolution": [
+                "Shuckle"
+            ]
+        },
+        {
+            "name" : "Heracross",
+            "number" : "214",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "bug",
+                "fighting"
+            ],
+            "height": "4'11\"",
+            "weight": "119.0 lbs",
+            "abilities": [
+                "Swarm",
+                "Guts"
+            ],
+            "stats": {
+                "hp": 80,
+                "attack": 125,
+                "defense": 75,
+                "sp.atk": 40,
+                "sp.def": 95,
+                "speed": 85,
+                "total": 490
+            },
+            "evolution": [
+                "Heracross"
+            ]
+        },
+        {
+            "name" : "Sneasel",
+            "number" : "215",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "dark",
+                "ice"
+            ],
+            "height": "2'11\"",
+            "weight": "61.7 lbs",
+            "abilities": [
+                "Inner Focus",
+                "Keen Eye"
+            ],
+            "stats": {
+                "hp": 55,
+                "attack": 95,
+                "defense": 55,
+                "sp.atk": 35,
+                "sp.def": 75,
+                "speed": 115,
+                "total": 405
+            },
+            "evolution": [
+                "Sneasel",
+                "Weavile"
+            ]
+
+        },
+        {
+            "name" : "Teddiursa",
+            "number" : "216",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "normal"
+            ],
+            "height": "2'00\"",
+            "weight": "19.4 lbs",
+            "abilities": [
+                "Pickup",
+                "Quick Feet"
+            ],
+            "stats": {
+                "hp": 60,
+                "attack": 80,
+                "defense": 50,
+                "sp.atk": 40,
+                "sp.def": 40,
+                "speed": 30,
+                "total": 300
+            },
+            "evolution": [
+                "Teddiursa",
+                "Ursaring",
+                "Ursaluna"
+            ]
+        },
+        {
+            "name" : "Ursaring",
+            "number" : "217",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "normal"
+            ],
+            "height": "5'11\"",
+            "weight": "277.3 lbs",
+            "abilities": [
+                "Guts",
+                "Quick Feet"
+            ],
+            "stats": {
+                "hp": 90,
+                "attack": 130,
+                "defense": 75,
+                "sp.atk": 55,
+                "sp.def": 65,
+                "speed": 55,
+                "total": 490
+            },
+            "evolution": [
+                "Teddiursa",
+                "Ursaring",
+                "Ursaluna"
+            ]
+
+        },
+        {
+            "name" : "Slugma",
+            "number" : "218",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "fire"
+            ],
+            "height": "2'04\"",
+            "weight": "77.2 lbs",
+            "abilities": [
+                "Magma Armor",
+                "Flame Body"
+            ],
+            "stats": {
+                "hp": 40,
+                "attack": 40,
+                "defense": 55,
+                "sp.atk": 65,
+                "sp.def": 45,
+                "speed": 35,
+                "total": 305
+            },
+            "evolution": [
+                "Slugma",
+                "Magcargo"
+            ]
+        },
+        {
+            "name" : "Magcargo",
+            "number" : "219",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "fire",
+                "rock"
+            ],
+            "height": "2'07\"",
+            "weight": "121.3 lbs",
+            "abilities": [
+                "Magma Armor",
+                "Flame Body"
+            ],
+            "stats": {
+                "hp": 60,
+                "attack": 50,
+                "defense": 70,
+                "sp.atk": 85,
+                "sp.def": 70,
+                "speed": 45,
+                "total": 405
+            },
+            "evolution": [
+                "Slugma",
+                "Magcargo"
+            ]
+
+        },
+        {
+            "name" : "Swinub",
+            "number" : "220",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "ice",
+                "ground"
+            ],
+            "height": "1'04\"",
+            "weight": "14.3 lbs",
+            "abilities": [
+                "Oblivious",
+                "Snow Cloak"
+            ],
+            "stats": {
+                "hp": 50,
+                "attack": 50,
+                "defense": 40,
+                "sp.atk": 30,
+                "sp.def": 30,
+                "speed": 50,
+                "total": 300
+            },
+            "evolution": [
+                "Swinub",
+                "Piloswine",
+                "Mamoswine"
+            ]
+        },
+        {
+            "name" : "Piloswine",
+            "number" : "221",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "ice",
+                "ground"
+            ],
+            "height": "3'07\"",
+            "weight": "123.0 lbs",
+            "abilities": [
+                "Oblivious",
+                "Snow Cloak"
+            ],
+            "stats": {
+                "hp": 100,
+                "attack": 100,
+                "defense": 80,
+                "sp.atk": 60,
+                "sp.def": 50,
+                "speed": 70,
+                "total": 490
+            },
+            "evolution": [
+                "Swinub",
+                "Piloswine",
+                "Mamoswine"
+            ]
+        },
+        {
+            "name" : "Corsola",
+            "number" : "222",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "water",
+                "rock"
+            ],
+            "height": "2'00\"",
+            "weight": "11.0 lbs",
+            "abilities": [
+                "Hustle",
+                "Natural Cure"
+            ],
+            "stats": {
+                "hp": 65,
+                "attack": 95,
+                "defense": 85,
+                "sp.atk": 55,
+                "sp.def": 65,
+                "speed": 35,
+                "total": 395
+            },
+            "evolution": [
+                "Corsola",
+                "Corsolux"
+            ]
+        },
+        {
+            "name" : "Remoraid",
+            "number" : "223",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png",
+            "color" : "rgb(255,193,7)", 
+            "type": [
+                "water"
+            ],
+            "height": "2'00\"",
+            "weight": "26.5 lbs",
+            "abilities": [
+                "Hustle",
+                "Sniper"
+            ],
+            "stats": {
+                "hp": 35,
+                "attack": 65,
+                "defense": 35,
+                "sp.atk": 65,
+                "sp.def": 35,
+                "speed": 65,
+                "total": 295
+            },
+            "evolution": [
+                "Remoraid",
+                "Octillery"
+            ]
+        },
+        {
+            "name" : "Octillery",
+            "number" : "224",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "water"
+            ],
+            "height": "2'11\"",
+            "weight": "62.8 lbs",
+            "abilities": [
+                "Suction Cups",
+                "Sniper"
+            ],
+            "stats": {
+                "hp": 75,
+                "attack": 105,
+                "defense": 75,
+                "sp.atk": 105,
+                "sp.def": 75,
+                "speed": 45,
+                "total": 495
+            },
+            "evolution": [
+                "Remoraid",
+                "Octillery"
+            ]
+        },
+        {
+            "name" : "Delibird",
+            "number" : "225",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/225.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "ice",
+                "flying"
+            ],
+            "height": "2'11\"",
+            "weight": "35.3 lbs",
+            "abilities": [
+                "Vital Spirit",
+                "Hustle"
+            ],
+            "stats": {
+                "hp": 45,
+                "attack": 55,
+                "defense": 45,
+                "sp.atk": 65,
+                "sp.def": 45,
+                "speed": 75,
+                "total": 345
+            },
+            "evolution": [
+                "Delibird"
+            ]
+        },
+        {
+            "name" : "Mantine",
+            "number" : "226",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "water",
+                "flying"
+            ],
+            "height": "6'11\"",
+            "weight": "485.0 lbs",
+            "abilities": [
+                "Swift Swim",
+                "Water Absorb"
+            ],
+            "stats": {
+                "hp": 85,
+                "attack": 40,
+                "defense": 70,
+                "sp.atk": 80,
+                "sp.def": 140,
+                "speed": 70,
+                "total": 535
+            },
+            "evolution": [
+                "Mantine",
+                "Mantyke"
+            ]
+
+        },
+        {
+            "name" : "Skarmory",
+            "number" : "227",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "steel",
+                "flying"
+            ],
+            "height": "5'07\"",
+            "weight": "111.3 lbs",
+            "abilities": [
+                "Keen Eye",
+                "Sturdy"
+            ],
+            "stats": {
+                "hp": 65,
+                "attack": 80,
+                "defense": 140,
+                "sp.atk": 40,
+                "sp.def": 70,
+                "speed": 70,
+                "total": 495
+            },
+            "evolution": [
+                "Skarmory"
+            ]
+        },
+        {
+            "name" : "Houndour",
+            "number" : "228",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/228.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "dark",
+                "fire"
+            ],
+            "height": "2'00\"",
+            "weight": "23.8 lbs",
+            "abilities": [
+                "Early Bird",
+                "Flash Fire"
+            ],
+            "stats": {
+                "hp": 45,
+                "attack": 60,
+                "defense": 30,
+                "sp.atk": 80,
+                "sp.def": 50,
+                "speed": 65,
+                "total": 305
+            },
+            "evolution": [
+                "Houndour",
+                "Houndoom"
+            ]
+        },
+        {
+            "name" : "Houndoom",
+            "number" : "229",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "dark",
+                "fire"
+            ],
+            "height": "4'07\"",
+            "weight": "77.2 lbs",
+            "abilities": [
+                "Early Bird",
+                "Flash Fire"
+            ],
+            "stats": {
+                "hp": 75,
+                "attack": 90,
+                "defense": 50,
+                "sp.atk": 110,
+                "sp.def": 80,
+                "speed": 95,
+                "total": 505
+            },  "evolution": [
+                "Houndour",
+                "Houndoom"
+            ]
+        },
+        {
+            "name" : "Kingdra",
+            "number" : "230",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "water",
+                "dragon"
+            ],
+            "height": "5'11\"",
+            "weight": "335.1 lbs",
+            "abilities": [
+                "Swift Swim",
+                "Sniper"
+            ],
+            "stats": {
+                "hp": 75,
+                "attack": 95,
+                "defense": 95,
+                "sp.atk": 95,
+                "sp.def": 95,
+                "speed": 85,
+                "total": 515
+            },
+            "evolution": [
+                "Horsea",
+                "Seadra",
+                "Kingdra"
+            ]
+        },
+        {
+            "name" : "Phanpy",
+            "number" : "231",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "ground"
+            ],
+            "height": "1'00\"",
+            "weight": "73.9 lbs",
+            "abilities": [
+                "Pickup",
+                "Sand Veil"
+            ],
+            "stats": {
+                "hp": 90,
+                "attack": 60,
+                "defense": 60,
+                "sp.atk": 40,
+                "sp.def": 40,
+                "speed": 40,
+                "total": 330
+            },
+            "evolution": [
+                "Phanpy",
+                "Donphan"
+            ]
+        },
+        {
+            "name" : "Donphan",
+            "number" : "232",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "ground"
+            ],
+            "height": "3'07\"",
+            "weight": "264.6 lbs",
+            "abilities": [
+                "Sturdy",
+                "Sand Veil"
+            ],
+            "stats": {
+                "hp": 90,
+                "attack": 120,
+                "defense": 120,
+                "sp.atk": 60,
+                "sp.def": 60,
+                "speed": 50,
+                "total": 490
+            },
+            "evolution": [
+                "Phanpy",
+                "Donphan"
+            ]
+        }
+
     ]
 }
