@@ -2393,7 +2393,35 @@
                 "Phanpy",
                 "Donphan"
             ]
+        },
+        {
+            "name" : "Porygon2",
+            "number" : "233",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "normal"
+            ],
+            "height": "2'00\"",
+            "weight": "71.7 lbs",
+            "abilities": [
+                "Trace",
+                "Download"
+            ],
+            "stats": {
+                "hp": 85,
+                "attack": 80,
+                "defense": 90,
+                "sp.atk": 105,
+                "sp.def": 95,
+                "speed": 60,
+                "total": 525
+            },
+            "evolution": [
+                "Porygon",
+                "Porygon2",
+                "Porygon-Z"
+            ]
         }
-
     ]
 }
