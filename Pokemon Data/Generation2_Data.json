@@ -2422,6 +2422,35 @@
                 "Porygon2",
                 "Porygon-Z"
             ]
+        },
+        {
+            "name" : "Stantler",
+            "number" : "234",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "normal"
+            ],
+            "height": "4'07\"",
+            "weight": "157 lbs",
+            "abilities": [
+                "Intimidate",
+                "Frisk"
+            ],
+            "stats": {
+                "hp": 73,
+                "attack": 95,
+                "defense": 62,
+                "sp.atk": 85,
+                "sp.def": 65,
+                "speed": 85,
+                "total": 495
+            },
+            "evolution": [
+                "Stantler",
+                "Wyrdeer"
+            ]
+
         }
     ]
 }
