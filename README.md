@@ -7,7 +7,7 @@
 
 -> Different generations of Pokémons in different files.
 
--> Completion Rate : 12.5% : Generation I
+-> Completion Rate : 25% : Generation I & II
 
 -> Future Goals :  Till Generation VIII 
 

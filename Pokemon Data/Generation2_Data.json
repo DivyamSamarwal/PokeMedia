@@ -2451,6 +2451,504 @@
                 "Wyrdeer"
             ]
 
+        },
+        {
+            "name" : "Smeargle",
+            "number" : "235",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "normal"
+            ],
+            "height": "3'11\"",
+            "weight": "127.9 lbs",
+            "abilities": [
+                "Own Tempo",
+                "Technician"
+            ],
+            "stats": {
+                "hp": 55,
+                "attack": 20,
+                "defense": 35,
+                "sp.atk": 20,
+                "sp.def": 45,
+                "speed": 75,
+                "total": 310
+            },
+            "evolution": [
+                "Smeargle"
+            ]
+        },
+        {
+            "name" : "Tyrogue",
+            "number" : "236",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "fighting"
+            ],
+            "height": "2'04\"",
+            "weight": "46.3 lbs",
+            "abilities": [
+                "Guts",
+                "Steadfast"
+            ],
+            "stats": {
+                "hp": 35,
+                "attack": 35,
+                "defense": 35,
+                "sp.atk": 35,
+                "sp.def": 35,
+                "speed": 35,
+                "total": 210
+            },
+            "evolution" :[
+                "Tyrogue",
+                "Hitmonlee",
+                "Hitmonchan",
+                "Hitmontop"
+
+            ]
+
+        },
+        {
+            "name" : "Hitmontop",
+            "number" : "237",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "fighting"
+            ],
+            "height": "4'07\"",
+            "weight": "105.8 lbs",
+            "abilities": [
+                "Intimidate",
+                "Technician"
+            ],
+            "stats": {
+                "hp": 50,
+                "attack": 95,
+                "defense": 95,
+                "sp.atk": 35,
+                "sp.def": 110,
+                "speed": 70,
+                "total": 490
+            },
+            "evolution": [
+                "Tyrogue",
+                "Hitmontop"
+            ]
+
+        },
+        {
+            "name" : "Smoochum",
+            "number" : "238",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "ice",
+                "psychic"
+            ],
+            "height": "1'04\"",
+            "weight": "13.2 lbs",
+            "abilities": [
+                "Oblivious",
+                "Forewarn"
+            ],
+            "stats": {
+                "hp": 45,
+                "attack": 30,
+                "defense": 15,
+                "sp.atk": 85,
+                "sp.def": 65,
+                "speed": 65,
+                "total": 305
+            },
+            "evolution": [
+                "Smoochum",
+                "Jynx"
+            ]
+
+        },
+        {
+            "name" : "Elekid",
+            "number" : "239",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "electric"
+            ],
+            "height": "2'00\"",
+            "weight": "51.8 lbs",
+            "abilities": [
+                "Static",
+                "Vital Spirit"
+            ],
+            "stats": {
+                "hp": 45,
+                "attack": 63,
+                "defense": 37,
+                "sp.atk": 65,
+                "sp.def": 55,
+                "speed": 95,
+                "total": 330
+            },
+            "evolution": [
+                "Elekid",
+                "Electabuzz",
+                "Electivire"
+            ]
+
+        },
+        {
+            "name" : "Magby",
+            "number" : "240",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "fire"
+            ],
+            "height": "2'04\"",
+            "weight": "47.2 lbs",
+            "abilities": [
+                "Flame Body",
+                "Vital Spirit"
+            ],
+            "stats": {
+                "hp": 45,
+                "attack": 75,
+                "defense": 37,
+                "sp.atk": 70,
+                "sp.def": 55,
+                "speed": 83,
+                "total": 330
+            },
+            "evolution": [
+                "Magby",
+                "Magmar",
+                "Magmortar"
+            ]
+
+        },
+        {
+            "name" : "Miltank",
+            "number" : "241",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "normal"
+            ],
+            "height": "3'11\"",
+            "weight": "166.4 lbs",
+            "abilities": [
+                "Thick Fat",
+                "Scrappy"
+            ],
+            "stats": {
+                "hp": 95,
+                "attack": 80,
+                "defense": 105,
+                "sp.atk": 40,
+                "sp.def": 70,
+                "speed": 100,
+                "total": 485
+            },
+            "evolution": [
+                "Miltank"
+            ]
+            
+        },
+        {
+            "name" : "Blissey",
+            "number" : "242",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "normal"
+            ],
+            "height": "4'11\"",
+            "weight": "103.2 lbs",
+            "abilities": [
+                "Natural Cure",
+                "Serene Grace"
+            ],
+            "stats": {
+                "hp": 255,
+                "attack": 10,
+                "defense": 10,
+                "sp.atk": 75,
+                "sp.def": 135,
+                "speed": 55,
+                "total": 535
+            },
+            "evolution": [
+                "Happiny",
+                "Chansey",
+                "Blissey"
+            ]
+
+        },
+        {
+            "name" : "Raikou",
+            "number" : "243",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "electric"
+            ],
+            "height": "6'03\"",
+            "weight": "392.4 lbs",
+            "abilities": [
+                "Pressure",
+                "Inner Focus"
+            ],
+            "stats": {
+                "hp": 90,
+                "attack": 85,
+                "defense": 75,
+                "sp.atk": 115,
+                "sp.def": 100,
+                "speed": 115,
+                "total": 600
+            },
+            "evolution": [
+                "Raikou"
+            ]
+
+        },
+        {
+            "name" : "Entei",
+            "number" : "244",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "fire"
+            ],
+            "height": "6'11\"",
+            "weight": "436.5 lbs",
+            "abilities": [
+                "Pressure",
+                "Inner Focus"
+            ],
+            "stats": {
+                "hp": 115,
+                "attack": 115,
+                "defense": 85,
+                "sp.atk": 90,
+                "sp.def": 75,
+                "speed": 100,
+                "total": 600
+            },
+            "evolution": [
+                "Entei"
+            ]
+
+        },
+        {
+            "name" : "Suicune",
+            "number" : "245",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "water"
+            ],
+            "height": "6'07\"",
+            "weight": "412.3 lbs",
+            "abilities": [
+                "Pressure",
+                "Inner Focus"
+            ],
+            "stats": {
+                "hp": 100,
+                "attack": 75,
+                "defense": 115,
+                "sp.atk": 90,
+                "sp.def": 115,
+                "speed": 85,
+                "total": 600
+            },
+            "evolution": [
+                "Suicune"
+            ]
+        },
+        {
+            "name" : "Larvitar",
+            "number" : "246",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/246.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "rock",
+                "ground"
+            ],
+            "height": "2'00\"",
+            "weight": "158.7 lbs",
+            "abilities": [
+                "Guts",
+                "Sand Veil"
+            ],
+            "stats": {
+                "hp": 50,
+                "attack": 64,
+                "defense": 50,
+                "sp.atk": 38,
+                "sp.def": 38,
+                "speed": 31,
+                "total": 285
+            },
+            "evolution": [
+                "Larvitar",
+                "Pupitar",
+                "Tyranitar"
+            ]
+
+        },
+        {
+            "name" : "Pupitar",
+            "number" : "247",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "rock",
+                "ground"
+            ],
+            "height": "3'11\"",
+            "weight": "335.1 lbs",
+            "abilities": [
+                "Shed Skin",
+                "Sand Veil"
+            ],
+            "stats": {
+                "hp": 70,
+                "attack": 84,
+                "defense": 70,
+                "sp.atk": 58,
+                "sp.def": 58,
+                "speed": 71,
+                "total": 405
+            },
+            "evolution": [
+                "Larvitar",
+                "Pupitar",
+                "Tyranitar"
+            ]
+
+        },
+        {
+            "name" : "Tyranitar",
+            "number" : "248",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "rock",
+                "dark"
+            ],
+            "height": "6'07\"",
+            "weight": "445.3 lbs",
+            "abilities": [
+                "Sand Stream",
+                "Sand Veil"
+            ],
+            "stats": {
+                "hp": 100,
+                "attack": 134,
+                "defense": 110,
+                "sp.atk": 100,
+                "sp.def": 100,
+                "speed": 61,
+                "total": 515
+            },
+            "evolution": [
+                "Larvitar",
+                "Pupitar",
+                "Tyranitar"
+            ]
+
+        },
+        {
+            "name" : "Lugia",
+            "number" : "249",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "psychic",
+                "flying"
+            ],
+            "height": "17'01\"",
+            "weight": "476.2 lbs",
+            "abilities": [
+                "Pressure",
+                "Multiscale"
+            ],
+            "stats": {
+                "hp": 106,
+                "attack": 90,
+                "defense": 130,
+                "sp.atk": 90,
+                "sp.def": 154,
+                "speed": 110,
+                "total": 600
+            },
+            "evolution": [
+                "Lugia"
+            ]
+
+        },
+        {
+            "name" : "Ho-Oh",
+            "number" : "250",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "fire",
+                "flying"
+            ],
+            "height": "12'06\"",
+            "weight": "438.7 lbs",
+            "abilities": [
+                "Pressure",
+                "Regenerator"
+            ],
+            "stats": {
+                "hp": 106,
+                "attack": 130,
+                "defense": 90,
+                "sp.atk": 110,
+                "sp.def": 154,
+                "speed": 90,
+                "total": 600
+            },
+            "evolution": [
+                "Ho-Oh"
+            ]
+        },
+        {
+            "name" : "Celebi",
+            "number" : "251",
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png",
+            "color" : "rgb(255,193,7)",
+            "type": [
+                "psychic",
+                "grass"
+            ],
+            "height": "2'00\"",
+            "weight": "11.0 lbs",
+            "abilities": [
+                "Natural Cure",
+                "Serene Grace"
+            ],
+            "stats": {
+                "hp": 100,
+                "attack": 100,
+                "defense": 100,
+                "sp.atk": 100,
+                "sp.def": 100,
+                "speed": 100,
+                "total": 600
+            },
+            "evolution": [
+                "Celebi"
+            ]
+
         }
     ]
 }
