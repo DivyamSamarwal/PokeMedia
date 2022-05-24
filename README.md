@@ -11,7 +11,7 @@
 
 -> Future Goals :  Till Generation VIII 
 
-![My_project__1_-removebg-preview](https://user-images.githubusercontent.com/72195951/169100012-913f72c8-c2e3-42f8-b308-a24028649b4a.png)
+![Pokemedia](https://user-images.githubusercontent.com/72195951/169953947-6c152073-7410-419e-b457-87da11487d5d.png)
 
 # Pokédex
 The Pokédex (Japanese: ポケモン図鑑 illustrated Pokémon encyclopedia) is an invaluable tool to Trainers in the Pokémon world. 
