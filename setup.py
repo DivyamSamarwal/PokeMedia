@@ -5,5 +5,5 @@ setup(
     description='A Pokedex',
     author='Divyam Samarwal',
     license='MIT',
-    packages=['pokemedia']
+    packages=['Pokemon_Data']
 )
