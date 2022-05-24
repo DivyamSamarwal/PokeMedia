@@ -1,4 +1,6 @@
-{
+import json
+
+pokemon_gen2_data ={
     "pokemon" : [
         {
             "name" : "Chikorita",
@@ -2952,3 +2954,5 @@
         }
     ]
 }
+
+pokemon2= json.loads(pokemon_gen2_data)
