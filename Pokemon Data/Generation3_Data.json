@@ -1,0 +1,644 @@
+{
+   "pokemon" :  [
+       {
+           "name" : "Treecko",
+           "number" : "252",
+           "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png",
+           "color" : "rgb(255, 196, 196)",
+           "type" : [
+                "grass"
+              
+           ],
+           "height" : "1' 08\"",
+           "weight" : "11.0 lbs",
+           "abilities" : [
+               "Overgrow",
+               "Chlorophyll"
+           ],
+           "stats" : {
+               "hp" : 50,
+               "attack" : 49,
+               "defense" : 65,
+               "sp.atk" : 49,
+               "sp.def" : 65,
+               "speed" : 45,
+               "total" : 318
+           },
+            "evolution" : [
+                "Treecko",
+                "Grovyle",
+                "Sceptile"
+              ]
+       },
+       {
+           "name" : "Grovyle",
+           "number" : "253",
+           "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/253.png",
+           "color" : "rgb(255, 196, 196)",
+           "type" : [
+                "grass"             
+           ],
+           "height" : "2' 11\"",
+           "weight" : "47.6 lbs",
+           "abilities" : [
+               "Overgrow",
+               "Chlorophyll"
+           ],
+           "stats" : {
+            "hp" : 60,
+            "attack" : 79,
+            "defense" : 85,
+            "sp.atk" : 79,
+            "sp.def" : 85,
+            "speed" : 60,
+            "total" : 405
+           },
+            "evolution" : [
+                "Treecko",
+                "Grovyle",
+                "Sceptile"
+              ]
+         },
+         {
+             "name" : "Sceptile",
+             "number" : "254",
+             "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png",
+             "color" : "rgb(255, 196, 196)",
+             "type" : [
+                  "grass"             
+             ],
+             "height" : "5' 07\"",
+             "weight" : "115.1 lbs",
+             "abilities" : [
+                 "Overgrow",
+                 "Chlorophyll"
+             ],
+             "stats" : {
+                "hp" : 70,
+                "attack" : 85,
+                "defense" : 65,
+                "sp.atk" : 105,
+                "sp.def" : 85,
+                "speed" : 120,
+                "total" : 530
+             },
+              "evolution" : [
+                  "Treecko",
+                  "Grovyle",
+                  "Sceptile"
+                ]
+        },
+        {
+            "name" : "Torchic",
+            "number" : "255",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "fire"             
+            ],
+            "height" : "1' 04\"",
+            "weight" : "5.5 lbs",
+            "abilities" : [
+                "Blaze",
+                "Speed Boost"
+            ],
+            "stats" : {
+                "hp" : 45,
+                "attack" : 60,
+                "defense" : 40,
+                "sp.atk" : 70,
+                "sp.def" : 50,
+                "speed" : 45,
+                "total" : 300
+            },
+             "evolution" : [
+                 "Torchic",
+                 "Combusken",
+                 "Blaziken"
+               ]
+        },
+        {
+            "name" : "Combusken",
+            "number" : "256",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/256.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "fire",
+                 "fighting"             
+            ],
+            "height" : "2' 11\"",
+            "weight" : "43.0 lbs",
+            "abilities" : [
+                "Blaze",
+                "Speed Boost"
+            ],
+            "stats" : {
+                "hp" : 60,
+                "attack" : 85,
+                "defense" : 60,
+                "sp.atk" : 85,
+                "sp.def" : 60,
+                "speed" : 55,
+                "total" : 405
+            },
+             "evolution" : [
+                 "Torchic",
+                 "Combusken",
+                 "Blaziken"
+               ]
+        },
+        {
+            "name" : "Blaziken",
+            "number" : "257",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "fire",
+                 "fighting"             
+            ],
+            "height" : "6' 03\"",
+            "weight" : "114.6 lbs",
+            "abilities" : [
+                "Blaze",
+                "Speed Boost"
+            ],
+            "stats" : {
+                "hp" : 70,
+                "attack" : 115,
+                "defense" : 70,
+                "sp.atk" : 115,
+                "sp.def" : 70,
+                "speed" : 80,
+                "total" : 530
+            },
+             "evolution" : [
+                 "Torchic",
+                 "Combusken",
+                 "Blaziken"
+               ]
+
+        },
+        {
+            "name" : "Mudkip",
+            "number" : "258",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "water"             
+            ],
+            "height" : "1' 04\"",
+            "weight" : "16.8 lbs",
+            "abilities" : [
+                "Torrent",
+                "Damp"
+            ],
+            "stats" : {
+                "hp" : 50,
+                "attack" : 70,
+                "defense" : 50,
+                "sp.atk" : 50,
+                "sp.def" : 50,
+                "speed" : 40,
+                "total" : 300
+            },
+             "evolution" : [
+                 "Mudkip",
+                 "Marshtomp",
+                 "Swampert"
+               ]
+
+        },
+        {
+            "name" : "Marshtomp",
+            "number" : "259",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/259.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "water",
+                 "ground"             
+            ],
+            "height" : "2' 04\"",
+            "weight" : "61.7 lbs",
+            "abilities" : [
+                "Torrent",
+                "Damp"
+            ],
+            "stats" : {
+                "hp" : 70,
+                "attack" : 85,
+                "defense" : 70,
+                "sp.atk" : 60,
+                "sp.def" : 70,
+                "speed" : 50,
+                "total" : 405
+            },
+             "evolution" : [
+                 "Mudkip",
+                 "Marshtomp",
+                 "Swampert"
+               ]
+
+        },
+        {
+            "name"  : "Swampert",
+            "number" : "260",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "water",
+                 "ground"             
+            ],
+            "height" : "4' 11\"",
+            "weight" : "180.6 lbs",
+            "abilities" : [
+                "Torrent",
+                "Damp"
+            ],
+            "stats" : {
+                "hp" : 90,
+                "attack" : 115,
+                "defense" : 90,
+                "sp.atk" : 85,
+                "sp.def" : 90,
+                "speed" : 60,
+                "total" : 540
+            },
+             "evolution" : [
+                 "Mudkip",
+                 "Marshtomp",
+                 "Swampert"
+               ]
+
+        },
+        {
+            "name" : "Poochyena",
+            "number" : "261",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/261.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "dark"             
+            ],
+            "height" : "1' 08\"",
+            "weight" : "30.0 lbs",
+            "abilities" : [
+                "Run Away",
+                "Quick Feet"
+            ],
+            "stats" : {
+                "hp" : 35,
+                "attack" : 55,
+                "defense" : 35,
+                "sp.atk" : 30,
+                "sp.def" : 30,
+                "speed" : 35,
+                "total" : 220
+            },
+             "evolution" : [
+                 "Poochyena",
+                 "Mightyena"
+               ]
+
+        },
+        {
+            "name" : "Mightyena",
+            "number" : "262",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "dark"             
+            ],
+            "height" : "3' 03\"",
+            "weight" : "81.6 lbs",
+            "abilities" : [
+                "Intimidate",
+                "Quick Feet"
+            ],
+            "stats" : {
+                "hp" : 60,
+                "attack" : 90,
+                "defense" : 70,
+                "sp.atk" : 60,
+                "sp.def" : 60,
+                "speed" : 55,
+                "total" : 405
+            },
+             "evolution" : [
+                 "Poochyena",
+                 "Mightyena"
+               ]
+
+        },
+        {
+            "name" : "Zigzagoon",
+            "number" : "263",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "normal"             
+            ],
+            "height" : "1' 04\"",
+            "weight" : "38.6 lbs",
+            "abilities" : [
+                "Pickup",
+                "Gluttony"
+            ],
+            "stats" : {
+                "hp" : 38,
+                "attack" : 30,
+                "defense" : 41,
+                "sp.atk" : 30,
+                "sp.def" : 41,
+                "speed" : 60,
+                "total" : 300
+            },
+             "evolution" : [
+                 "Zigzagoon",
+                 "Linoone"
+               ]
+
+        },
+        {
+            "name" : "Linoone",
+            "number" : "264",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/264.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "normal"             
+            ],
+            "height" : "1' 08\"",
+            "weight" : "71.7 lbs",
+            "abilities" : [
+                "Pickup",
+                "Gluttony"
+            ],
+            "stats" : {
+                "hp" : 68,
+                "attack" : 70,
+                "defense" : 61,
+                "sp.atk" : 50,
+                "sp.def" : 61,
+                "speed" : 100,
+                "total" : 460
+            },
+             "evolution" : [
+                 "Zigzagoon",
+                 "Linoone"
+               ]
+
+        },
+        {
+            "name" : "Wurmple",
+            "number" : "265",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/265.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "bug"             
+            ],
+            "height" : "1' 00\"",
+            "weight" : "7.9 lbs",
+            "abilities" : [
+                "Shield Dust",
+                "Run Away"
+            ],
+            "stats" : {
+                "hp" : 45,
+                "attack" : 35,
+                "defense" : 55,
+                "sp.atk" : 25,
+                "sp.def" : 25,
+                "speed" : 15,
+                "total" : 250
+            },
+             "evolution" : [
+                 "Wurmple",
+                 "Silcoon",
+                 "Cascoon",
+                 "Beautifly",
+                 "Dustox"
+               ]
+
+        },
+        {
+            "name" : "Silcoon",
+            "number" : "266",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/266.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "bug"             
+            ],
+            "height" : "2' 00\"",
+            "weight" : "22.0 lbs",
+            "abilities" : [
+                "Shed Skin",
+                "Run Away"
+            ],
+            "stats" : {
+                "hp" : 50,
+                "attack" : 35,
+                "defense" : 55,
+                "sp.atk" : 25,
+                "sp.def" : 25,
+                "speed" : 15,
+                "total" : 300
+            },
+             "evolution" : [
+                 "Wurmple",
+                 "Silcoon",
+                 "Cascoon",
+                 "Beautifly",
+                 "Dustox"
+               ]
+
+        },
+        {
+            "name" : "Beautifly",
+            "number" : "267",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "bug",
+                 "flying"             
+            ],
+            "height" : "3' 03\"",
+            "weight" : "62.6 lbs",
+            "abilities" : [
+                "Swarm",
+                "Rivalry"
+            ],
+            "stats" : {
+                "hp" : 60,
+                "attack" : 70,
+                "defense" : 50,
+                "sp.atk" : 100,
+                "sp.def" : 50,
+                "speed" : 65,
+                "total" : 455
+            },
+             "evolution" : [
+                 "Wurmple",
+                 "Silcoon",
+                 "Cascoon",
+                 "Beautifly",
+                 "Dustox"
+               ]
+
+        },
+        {
+            "name" : "Cascoon",
+            "number" : "268",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/268.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "bug"             
+            ],
+            "height" : "2' 04\"",
+            "weight" : "25.4 lbs",
+            "abilities" : [
+                "Shed Skin",
+                "Sticky Hold"
+            ],
+            "stats" : {
+                "hp" : 50,
+                "attack" : 35,
+                "defense" : 55,
+                "sp.atk" : 25,
+                "sp.def" : 25,
+                "speed" : 15,
+                "total" : 300
+            },
+             "evolution" : [
+                 "Wurmple",
+                 "Silcoon",
+                 "Cascoon",
+                 "Beautifly",
+                 "Dustox"
+               ]
+
+        },
+        {
+            "name" : "Dustox",
+            "number" : "269",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/269.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "bug",
+                 "poison"             
+            ],
+            "height" : "3' 11\"",
+            "weight" : "69.7 lbs",
+            "abilities" : [
+                "Shield Dust",
+                "Compound Eyes"
+            ],
+            "stats" : {
+                "hp" : 60,
+                "attack" : 55,
+                "defense" : 50,
+                "sp.atk" : 90,
+                "sp.def" : 80,
+                "speed" : 70,
+                "total" : 455
+            },
+             "evolution" : [
+                 "Wurmple",
+                 "Silcoon",
+                 "Cascoon",
+                 "Beautifly",
+                 "Dustox"
+               ]
+
+        },
+        {
+            "name" : "Lotad",
+            "number" : "270",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/270.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "water",
+                 "grass"             
+            ],
+            "height" : "1' 08\"",
+            "weight" : "5.7 lbs",
+            "abilities" : [
+                "Swift Swim",
+                "Rain Dish"
+            ],
+            "stats" : {
+                "hp" : 40,
+                "attack" : 30,
+                "defense" : 30,
+                "sp.atk" : 40,
+                "sp.def" : 50,
+                "speed" : 30,
+                "total" : 280
+            },
+             "evolution" : [
+                 "Lotad",
+                 "Lombre",
+                 "Ludicolo"
+               ]
+
+        },
+        {
+            "name" : "Lombre",
+            "number" : "271",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/271.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "water",
+                 "grass"             
+            ],
+            "height" : "3' 11\"",
+            "weight" : "71.7 lbs",
+            "abilities" : [
+                "Swift Swim",
+                "Rain Dish"
+            ],
+            "stats" : {
+                "hp" : 60,
+                "attack" : 50,
+                "defense" : 50,
+                "sp.atk" : 60,
+                "sp.def" : 70,
+                "speed" : 50,
+                "total" : 380
+            },
+             "evolution" : [
+                 "Lotad",
+                 "Lombre",
+                 "Ludicolo"
+               ]
+
+        },
+        {
+            "name" : "Ludicolo",
+            "number" : "272",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "water",
+                 "grass"             
+            ],
+            "height" : "4' 11\"",
+            "weight" : "121.3 lbs",
+            "abilities" : [
+                "Swift Swim",
+                "Rain Dish"
+            ],
+            "stats" : {
+                "hp" : 80,
+                "attack" : 70,
+                "defense" : 70,
+                "sp.atk" : 90,
+                "sp.def" : 100,
+                "speed" : 70,
+                "total" : 490
+            },
+             "evolution" : [
+                 "Lotad",
+                 "Lombre",
+                 "Ludicolo"
+               ]
+        }
+   ]
+}
