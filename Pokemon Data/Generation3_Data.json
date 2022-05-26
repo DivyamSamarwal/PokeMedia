@@ -639,6 +639,36 @@
                  "Lombre",
                  "Ludicolo"
                ]
+        },
+        {
+            "name" : "Seedot",
+            "number" : "273",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/273.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "grass"             
+            ],
+            "height" : "1' 08\"",
+            "weight" : "8.8 lbs",
+            "abilities" : [
+                "Chlorophyll",
+                "Early Bird"
+            ],
+            "stats" : {
+                "hp" : 40,
+                "attack" : 40,
+                "defense" : 50,
+                "sp.atk" : 30,
+                "sp.def" : 30,
+                "speed" : 30,
+                "total" : 280
+            },
+             "evolution" : [
+                 "Seedot",
+                 "Nuzleaf",
+                 "Shiftry"
+               ]
+
         }
    ]
 }
