@@ -669,6 +669,370 @@
                  "Shiftry"
                ]
 
+        },
+        {
+            "name" : "Nuzleaf",
+            "number" : "274",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/274.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "grass",
+                 "dark"             
+            ],
+            "height" : "3' 03\"",
+            "weight" : "61.7 lbs",
+            "abilities" : [
+                "Chlorophyll",
+                "Early Bird"
+            ],
+            "stats" : {
+                "hp" : 70,
+                "attack" : 70,
+                "defense" : 40,
+                "sp.atk" : 60,
+                "sp.def" : 40,
+                "speed" : 60,
+                "total" : 380
+            },
+             "evolution" : [
+                 "Seedot",
+                 "Nuzleaf",
+                 "Shiftry"
+               ]
+
+        },
+        {
+            "name" : "Shiftry",
+            "number" : "275",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "grass",
+                 "dark"             
+            ],
+            "height" : "4' 03\"",
+            "weight" : "131.4 lbs",
+            "abilities" : [
+                "Chlorophyll",
+                "Early Bird"
+            ],
+            "stats" : {
+                "hp" : 90,
+                "attack" : 100,
+                "defense" : 60,
+                "sp.atk" : 90,
+                "sp.def" : 60,
+                "speed" : 80,
+                "total" : 490
+            },
+             "evolution" : [
+                 "Seedot",
+                 "Nuzleaf",
+                 "Shiftry"
+               ]
+
+        },
+        {
+            "name" : "Taillow",
+            "number" : "276",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/276.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "normal",
+                 "flying"             
+            ],
+            "height" : "1' 00\"",
+            "weight" : "5.1 lbs",
+            "abilities" : [
+                "Guts",
+                "Scrappy"
+            ],
+            "stats" : {
+                "hp" : 40,
+                "attack" : 55,
+                "defense" : 30,
+                "sp.atk" : 30,
+                "sp.def" : 30,
+                "speed" : 85,
+                "total" : 265
+            },
+             "evolution" : [
+                 "Taillow",
+                 "Swellow"
+               ]
+
+        },
+        {
+            "name" : "Swellow",
+            "number" : "277",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "normal",
+                 "flying"             
+            ],
+            "height" : "2' 04\"",
+            "weight" : "43.7 lbs",
+            "abilities" : [
+                "Guts",
+                "Scrappy"
+            ],
+            "stats" : {
+                "hp" : 60,
+                "attack" : 85,
+                "defense" : 60,
+                "sp.atk" : 75,
+                "sp.def" : 50,
+                "speed" : 125,
+                "total" : 435
+            },
+             "evolution" : [
+                 "Taillow",
+                 "Swellow"
+               ]
+
+        },
+        {
+            "name" : "Wingull",
+            "number" : "278",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "water",
+                 "flying"             
+            ],
+            "height" : "2' 00\"",
+            "weight" : "20.9 lbs",
+            "abilities" : [
+                "Keen Eye",
+                "Hydration"
+            ],
+            "stats" : {
+                "hp" : 40,
+                "attack" : 30,
+                "defense" : 30,
+                "sp.atk" : 55,
+                "sp.def" : 30,
+                "speed" : 85,
+                "total" : 295
+            },
+             "evolution" : [
+                 "Wingull",
+                 "Pelipper"
+               ]
+        },
+        {
+            "name" : "Pelipper",
+            "number" : "279",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "water",
+                 "flying"             
+            ],
+            "height" : "3' 11\"",
+            "weight" : "61.7 lbs",
+            "abilities" : [
+                "Keen Eye",
+                "Drizzle"
+            ],
+            "stats" : {
+                "hp" : 60,
+                "attack" : 50,
+                "defense" : 100,
+                "sp.atk" : 95,
+                "sp.def" : 70,
+                "speed" : 65,
+                "total" : 455
+            },
+             "evolution" : [
+                 "Wingull",
+                 "Pelipper"
+               ]
+        },
+        {
+            "name" : "Ralts",
+            "number" : "280",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "psychic",
+                 "fairy"             
+            ],
+            "height" : "1' 04\"",
+            "weight" : "14.7 lbs",
+            "abilities" : [
+                "Synchronize",
+                "Trace"
+            ],
+            "stats" : {
+                "hp" : 45,
+                "attack" : 35,
+                "defense" : 40,
+                "sp.atk" : 35,
+                "sp.def" : 55,
+                "speed" : 50,
+                "total" : 300
+            },
+             "evolution" : [
+                 "Ralts",
+                 "Kirlia",
+                 "Gardevoir",
+                 "Gallade"
+               ]
+
+        },
+        {
+            "name" : "Kirlia",
+            "number" : "281",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "psychic",
+                 "fairy"             
+            ],
+            "height" : "2' 07\"",
+            "weight" : "44.5 lbs",
+            "abilities" : [
+                "Synchronize",
+                "Trace"
+            ],
+            "stats" : {
+                "hp" : 60,
+                "attack" : 45,
+                "defense" : 50,
+                "sp.atk" : 45,
+                "sp.def" : 70,
+                "speed" : 80,
+                "total" : 380
+            },
+             "evolution" : [
+                 "Ralts",
+                 "Kirlia",
+                 "Gardevoir",
+                 "Gallade"
+               ]
+
+
+        },
+        {
+            "name" : "Gardevoir",
+            "number" : "282",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "psychic",
+                 "fairy"             
+            ],
+            "height" : "5' 03\"",
+            "weight" : "106.7 lbs",
+            "abilities" : [
+                "Synchronize",
+                "Trace"
+            ],
+            "stats" : {
+                "hp" : 68,
+                "attack" : 65,
+                "defense" : 65,
+                "sp.atk" : 125,
+                "sp.def" : 100,
+                "speed" : 115,
+                "total" : 520
+            },
+             "evolution" : [
+                 "Ralts",
+                 "Kirlia",
+                 "Gardevoir"
+               ]
+
+        },
+        {
+            "name" : "Surskit",
+            "number" : "283",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/283.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "bug",
+                 "water"             
+            ],
+            "height" : "1' 08\"",
+            "weight" : "3.7 lbs",
+            "abilities" : [
+                "Swift Swim",
+                "Rain Dish"
+            ],
+            "stats" : {
+                "hp" : 40,
+                "attack" : 30,
+                "defense" : 32,
+                "sp.atk" : 50,
+                "sp.def" : 52,
+                "speed" : 65,
+                "total" : 305
+            },
+             "evolution" : [
+                 "Surskit",
+                 "Masquerain"
+               ]
+
+        },
+        {
+            "name" : "Masquerain",
+            "number" : "284",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "bug",
+                 "flying"             
+            ],
+            "height" : "2' 07\"",
+            "weight" : "7.9 lbs",
+            "abilities" : [
+                "Intimidate",
+                "Keen Eye"
+            ],
+            "stats" : {
+                "hp" : 70,
+                "attack" : 60,
+                "defense" : 62,
+                "sp.atk" : 100,
+                "sp.def" : 82,
+                "speed" : 80,
+                "total" : 495
+            },
+             "evolution" : [
+                 "Surskit",
+                 "Masquerain"
+               ]
+        },
+        {
+            "name" : "Shroomish",
+            "number" : "285",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "grass"             
+            ],
+            "height" : "1' 04\"",
+            "weight" : "9.9 lbs",
+            "abilities" : [
+                "Effect Spore",
+                "Poison Heal"
+            ],
+            "stats" : {
+                "hp" : 60,
+                "attack" : 40,
+                "defense" : 60,
+                "sp.atk" : 40,
+                "sp.def" : 60,
+                "speed" : 35,
+                "total" : 305
+            },
+             "evolution" : [
+                 "Shroomish",
+                 "Breloom"
+               ]
+
         }
    ]
 }
