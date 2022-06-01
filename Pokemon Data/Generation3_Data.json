@@ -1033,6 +1033,448 @@
                  "Breloom"
                ]
 
+        },
+        {
+            "name" : "Breloom",
+            "number" : "286",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "grass",
+                 "fighting"             
+            ],
+            "height" : "3' 11\"",
+            "weight" : "86.4 lbs",
+            "abilities" : [
+                "Effect Spore",
+                "Poison Heal"
+            ],
+            "stats" : {
+                "hp" : 60,
+                "attack" : 130,
+                "defense" : 80,
+                "sp.atk" : 60,
+                "sp.def" : 60,
+                "speed" : 70,
+                "total" : 485
+            },
+             "evolution" : [
+                 "Shroomish",
+                 "Breloom"
+               ]
+
+        },
+        {
+            "name" : "Slakoth",
+            "number" : "287",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "normal"             
+            ],
+            "height" : "2' 07\"",
+            "weight" : "52.9 lbs",
+            "abilities" : [
+                "Truant"
+            ],
+            "stats" : {
+                "hp" : 60,
+                "attack" : 60,
+                "defense" : 45,
+                "sp.atk" : 35,
+                "sp.def" : 35,
+                "speed" : 50,
+                "total" : 305
+            },
+             "evolution" : [
+                 "Slakoth",
+                 "Vigoroth",
+                 "Slaking"
+               ]
+               
+        },
+        {
+            "name" : "Vigoroth",
+            "number" : "288",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "normal"             
+            ],
+            "height" : "4' 07\"",
+            "weight" : "102.5 lbs",
+            "abilities" : [
+                "Vital Spirit"
+            ],
+            "stats" : {
+                "hp" : 80,
+                "attack" : 80,
+                "defense" : 55,
+                "sp.atk" : 60,
+                "sp.def" : 55,
+                "speed" : 90,
+                "total" : 455
+            },
+             "evolution" : [
+                 "Slakoth",
+                 "Vigoroth",
+                 "Slaking"
+               ]
+
+        },
+        {
+            "name" : "Slaking",
+            "number" : "289",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "normal"             
+            ],
+            "height" : "6' 07\"",
+            "weight" : "287.7 lbs",
+            "abilities" : [
+                "Truant"
+            ],
+            "stats" : {
+                "hp" : 150,
+                "attack" : 160,
+                "defense" : 100,
+                "sp.atk" : 95,
+                "sp.def" : 65,
+                "speed" : 100,
+                "total" : 565
+            },
+             "evolution" : [
+                 "Slakoth",
+                 "Vigoroth",
+                 "Slaking"
+               ]
+        },
+        {
+            "name" : "Nincada",
+            "number" : "290",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/290.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "bug",
+                 "ground"             
+            ],
+            "height" : "1' 08\"",
+            "weight" : "12.1 lbs",
+            "abilities" : [
+                "Compound Eyes",
+                "Run Away"
+            ],
+            "stats" : {
+                "hp" : 31,
+                "attack" : 45,
+                "defense" : 90,
+                "sp.atk" : 30,
+                "sp.def" : 30,
+                "speed" : 40,
+                "total" : 285
+            },
+             "evolution" : [
+                 "Nincada",
+                 "Ninjask",
+                 "Shedinja"
+               ]
+        },
+        {
+            "name" : "Ninjask",
+            "number" : "291",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "bug",
+                 "flying"             
+            ],
+            "height" : "2' 07\"",
+            "weight" : "26.5 lbs",
+            "abilities" : [
+                "Speed Boost"
+            ],
+            "stats" : {
+                "hp" : 61,
+                "attack" : 90,
+                "defense" : 45,
+                "sp.atk" : 50,
+                "sp.def" : 50,
+                "speed" : 160,
+                "total" : 435
+            },
+             "evolution" : [
+                 "Nincada",
+                 "Ninjask",
+                 "Shedinja"
+               ]
+
+        },
+        {
+            "name" : "Shedinja",
+            "number" : "292",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "bug",
+                 "ghost"             
+            ],
+            "height" : "2' 07\"",
+            "weight" : "2.6 lbs",
+            "abilities" : [
+                "Wonder Guard"
+            ],
+            "stats" : {
+                "hp" : 1,
+                "attack" : 90,
+                "defense" : 45,
+                "sp.atk" : 30,
+                "sp.def" : 30,
+                "speed" : 40,
+                "total" : 285
+            },
+             "evolution" : [
+                 "Nincada",
+                 "Ninjask",
+                 "Shedinja"
+               ]
+
+        },
+        {
+            "name" : "Whismur",
+            "number" : "293",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "normal"             
+            ],
+            "height" : "2' 00\"",
+            "weight" : "35.9 lbs",
+            "abilities" : [
+                "Soundproof",
+                "Rattled"
+            ],
+            "stats" : {
+                "hp" : 64,
+                "attack" : 51,
+                "defense" : 23,
+                "sp.atk" : 51,
+                "sp.def" : 23,
+                "speed" : 28,
+                "total" : 288
+            },
+             "evolution" : [
+                 "Whismur",
+                 "Loudred",
+                 "Exploud"
+               ]
+        },
+        {
+            "name" : "Loudred",
+            "number" : "294",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/294.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "normal"             
+            ],
+            "height" : "3' 03\"",
+            "weight" : "89.3 lbs",
+            "abilities" : [
+                "Soundproof",
+                "Scrappy"
+            ],
+            "stats" : {
+                "hp" : 89,
+                "attack" : 63,
+                "defense" : 47,
+                "sp.atk" : 63,
+                "sp.def" : 47,
+                "speed" : 31,
+                "total" : 405
+            },
+             "evolution" : [
+                 "Whismur",
+                 "Loudred",
+                 "Exploud"
+               ]
+        },
+        {
+            "name" : "Exploud",
+            "number" : "295",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/295.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "normal"             
+            ],
+            "height" : "4' 11\"",
+            "weight" : "185.2 lbs",
+            "abilities" : [
+                "Soundproof",
+                "Scrappy"
+            ],
+            "stats" : {
+                "hp" : 104,
+                "attack" : 91,
+                "defense" : 63,
+                "sp.atk" : 91,
+                "sp.def" : 73,
+                "speed" : 68,
+                "total" : 535
+            },
+             "evolution" : [
+                 "Whismur",
+                 "Loudred",
+                 "Exploud"
+               ]
+        },
+        {
+            "name" : "Makuhita",
+            "number" : "296",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "fighting"             
+            ],
+            "height" : "3' 03\"",
+            "weight" : "190.5 lbs",
+            "abilities" : [
+                "Thick Fat",
+                "Guts",
+                "Sheer Force"
+            ],
+            "stats" : {
+                "hp" : 72,
+                "attack" : 60,
+                "defense" : 30,
+                "sp.atk" : 20,
+                "sp.def" : 30,
+                "speed" : 25,
+                "total" : 310
+            },
+             "evolution" : [
+                 "Makuhita",
+                 "Hariyama"
+               ]
+        },
+        {
+            "name" : "Hariyama",
+            "number" : "297",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "fighting"             
+            ],
+            "height" : "7' 07\"",
+            "weight" : "559.5 lbs",
+            "abilities" : [
+                "Thick Fat",
+                "Guts",
+                "Sheer Force"
+            ],
+            "stats" : {
+                "hp" : 144,
+                "attack" : 160,
+                "defense" : 90,
+                "sp.atk" : 40,
+                "sp.def" : 70,
+                "speed" : 45,
+                "total" : 535
+            },
+             "evolution" : [
+                 "Makuhita",
+                 "Hariyama"
+               ]
+
+        },
+        {
+            "name" : "Azurill",
+            "number" : "298",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "normal",
+                 "fairy"             
+            ],
+            "height" : "0' 08\"",
+            "weight" : "4.4 lbs",
+            "abilities" : [
+                "Thick Fat",
+                "Huge Power",
+                "Sap Sipper"
+            ],
+            "stats" : {
+                "hp" : 45,
+                "attack" : 20,
+                "defense" : 50,
+                "sp.atk" : 25,
+                "sp.def" : 25,
+                "speed" : 40,
+                "total" : 270
+            },
+             "evolution" : [
+                 "Azurill",
+                 "Marill",
+                 "Azumarill"
+               ]
+        },
+        {
+            "name" : "Nosepass",
+            "number" : "299",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/299.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "rock"             
+            ],
+            "height" : "3'03\"",
+            "weight" : "213.8 lbs",
+            "abilities" : [
+                "Sturdy",
+                "Magnet Pull",
+                "Sand Force"
+            ],
+            "stats" : {
+                "hp" : 30,
+                "attack" : 45,
+                "defense" : 135,
+                "sp.atk" : 45,
+                "sp.def" : 90,
+                "speed" : 35,
+                "total" : 435
+            },
+             "evolution" : [
+                 "Nosepass",
+                 "Probopass"
+               ]
+        },
+        {
+            "name" : "Skitty",
+            "number" : "300",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "normal"             
+            ],
+            "height" : "2' 00\"",
+            "weight" : "24.3 lbs",
+            "abilities" : [
+                "Cute Charm",
+                "Normalize",
+                "Wonder Skin"
+            ],
+            "stats" : {
+                "hp" : 50,
+                "attack" : 45,
+                "defense" : 45,
+                "sp.atk" : 35,
+                "sp.def" : 35,
+                "speed" : 50,
+                "total" : 300
+            },
+             "evolution" : [
+                 "Skitty",
+                 "Delcatty"
+               ]
+
         }
    ]
 }
