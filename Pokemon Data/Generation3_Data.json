@@ -1475,6 +1475,253 @@
                  "Delcatty"
                ]
 
+        },
+        {
+            "name" : "Delcatty",
+            "number" : "301",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "normal"             
+            ],
+            "height" : "3'07\"",
+            "weight" : "71.9 lbs",
+            "abilities" : [
+                "Cute Charm",
+                "Normalize",
+                "Wonder Skin"
+            ],
+            "stats" : {
+                "hp" : 70,
+                "attack" : 65,
+                "defense" : 65,
+                "sp.atk" : 55,
+                "sp.def" : 55,
+                "speed" : 90,
+                "total" : 450
+            },
+             "evolution" : [
+                 "Skitty",
+                 "Delcatty"
+               ]
+
+        },
+        {
+            "name" : "Sableye",
+            "number" : "302",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "dark",
+                 "ghost"             
+            ],
+            "height" : "1'08\"",
+            "weight" : "24.3 lbs",
+            "abilities" : [
+                "Keen Eye",
+                "Stall",
+                "Prankster"
+            ],
+            "stats" : {
+                "hp" : 50,
+                "attack" : 65,
+                "defense" : 45,
+                "sp.atk" : 85,
+                "sp.def" : 65,
+                "speed" : 65,
+                "total" : 435
+            },
+             "evolution" : [
+                 "Sableye"
+               ]
+
+        },
+        {
+            "name" : "Mawile",
+            "number" : "303",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "steel",
+                 "fairy"             
+            ],
+            "height" : "2'00\"",
+            "weight" : "25.4 lbs",
+            "abilities" : [
+                "Hyper Cutter",
+                "Intimidate",
+                "Sheer Force"
+            ],
+            "stats" : {
+                "hp" : 50,
+                "attack" : 75,
+                "defense" : 85,
+                "sp.atk" : 55,
+                "sp.def" : 65,
+                "speed" : 20,
+                "total" : 455
+            },
+             "evolution" : [
+                 "Mawile"
+               ]
+
+        },
+        {
+            "name" : "Aron",
+            "number" : "304",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/304.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "steel",
+                 "rock"             
+            ],
+            "height" : "1'04\"",
+            "weight" : "132.3 lbs",
+            "abilities" : [
+                "Sturdy",
+                "Rock Head",
+                "Heavy Metal"
+            ],
+            "stats" : {
+                "hp" : 50,
+                "attack" : 70,
+                "defense" : 100,
+                "sp.atk" : 40,
+                "sp.def" : 40,
+                "speed" : 30,
+                "total" : 395
+            },
+             "evolution" : [
+                 "Aron",
+                 "Lairon",
+                 "Aggron"
+               ]
+
+
+        },
+        {
+            "name" : "Lairon",
+            "number" : "305",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "steel",
+                 "rock"             
+            ],
+            "height" : "1'08\"",
+            "weight" : "249.8 lbs",
+            "abilities" : [
+                "Sturdy",
+                "Rock Head",
+                "Heavy Metal"
+            ],
+            "stats" : {
+                "hp" : 60,
+                "attack" : 90,
+                "defense" : 140,
+                "sp.atk" : 50,
+                "sp.def" : 50,
+                "speed" : 40,
+                "total" : 505
+            },
+             "evolution" : [
+                 "Aron",
+                 "Lairon",
+                 "Aggron"
+               ]
+               
+        },
+        {
+            "name" : "Aggron",
+            "number" : "306",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "steel",
+                 "rock"             
+            ],
+            "height" : "6'11\"",
+            "weight" : "793.7 lbs",
+            "abilities" : [
+                "Sturdy",
+                "Rock Head",
+                "Heavy Metal"
+            ],
+            "stats" : {
+                "hp" : 70,
+                "attack" : 110,
+                "defense" : 180,
+                "sp.atk" : 60,
+                "sp.def" : 60,
+                "speed" : 50,
+                "total" : 565
+            },
+            "evolution" : [
+                    "Aron",
+                    "Lairon",
+                    "Aggron"
+                ]
+
+        },
+        {
+            "name" : "Meditite",
+            "number" : "307",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "fighting",
+                 "psychic"
+            ],
+            "height" : "2'00\"",
+            "weight" : "24.7 lbs",
+            "abilities" : [
+                "Pure Power",
+                "Telepathy",
+                "Meditate"
+            ],
+            "stats" : {
+                "hp" : 45,
+                "attack" : 80,
+                "defense" : 35,
+                "sp.atk" : 35,
+                "sp.def" : 35,
+                "speed" : 35,
+                "total" : 275
+            },
+                "evolution" : [
+                    "Meditite",
+                    "Medicham"
+                ]
+        },
+        {
+            "name" : "Medicham",
+            "number" : "308",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "fighting",
+                 "psychic"
+            ],
+            "height" : "4'03\"",
+            "weight" : "69.4 lbs",
+            "abilities" : [
+                "Pure Power",
+                "Telepathy",
+                "Meditate"
+            ],
+            "stats" : {
+                "hp" : 60,
+                "attack" : 100,
+                "defense" : 55,
+                "sp.atk" : 70,
+                "sp.def" : 55,
+                "speed" : 85,
+                "total" : 455
+            },
+            "evolution" : [
+                    "Meditite",
+                    "Medicham"
+                ]
         }
    ]
 }
