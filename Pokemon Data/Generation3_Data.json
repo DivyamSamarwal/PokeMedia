@@ -1722,6 +1722,63 @@
                     "Meditite",
                     "Medicham"
                 ]
+        },
+        {
+            "name" : "Electrike",
+            "number" : "309",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/309.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "electric"
+            ],
+            "height" : "2'00\"",
+            "weight" : "33.5 lbs",
+            "abilities" : [
+                "Static",
+                "Lightning Rod"
+            ],
+            "stats" : {
+                "hp" : 40,
+                "attack" : 65,
+                "defense" : 40,
+                "sp.atk" : 60,
+                "sp.def" : 40,
+                "speed" : 75,
+                "total" : 355
+            },
+            "evolution" : [
+                    "Electrike",
+                    "Manectric"
+                ]
+        },
+        {
+            "name" : "Manectric",
+            "number" : "310",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "electric"
+            ],
+            "height" : "4'11\"",
+            "weight" : "88.6 lbs",
+            "abilities" : [
+                "Static",
+                "Lightning Rod"
+            ],
+            "stats" : {
+                "hp" : 70,
+                "attack" : 105,
+                "defense" : 70,
+                "sp.atk" : 100,
+                "sp.def" : 70,
+                "speed" : 95,
+                "total" : 505
+            },
+            "evolution" : [
+                    "Electrike",
+                    "Manectric"
+                ]
         }
+
    ]
 }
