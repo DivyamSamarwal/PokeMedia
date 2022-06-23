@@ -1778,6 +1778,258 @@
                     "Electrike",
                     "Manectric"
                 ]
+        },
+        {
+            "name" : "Plusle",
+            "number" : "311",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "electric"
+            ],
+            "height" : "1'04\"",
+            "weight" : "9.3 lbs",
+            "abilities" : [
+                "Plus"
+            ],
+            "stats" : {
+                "hp" : 60,
+                "attack" : 50,
+                "defense" : 40,
+                "sp.atk" : 85,
+                "sp.def" : 75,
+                "speed" : 95,
+                "total" : 405
+            },
+            "evolution" : [
+                    "Plusle"
+                ]
+        },
+        {
+            "name" : "Minun",
+            "number" : "312",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "electric"
+            ],
+            "height" : "1'04\"",
+            "weight" : "9.3 lbs",
+            "abilities" : [
+                "Minus"
+            ],
+            "stats" : {
+                "hp" : 60,
+                "attack" : 40,
+                "defense" : 50,
+                "sp.atk" : 75,
+                "sp.def" : 85,
+                "speed" : 95,
+                "total" : 405
+            },
+            "evolution" : [
+                    "Minun"
+                ]
+        },
+        {
+            "name" : "Volbeat",
+            "number" : "313",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/313.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "bug"
+            ],
+            "height" : "2'04\"",
+            "weight" : "39.0 lbs",
+            "abilities" : [
+                "Illuminate",
+                "Swarm"
+            ],
+            "stats" : {
+                "hp" : 65,
+                "attack" : 73,
+                "defense" : 55,
+                "sp.atk" : 47,
+                "sp.def" : 75,
+                "speed" : 85,
+                "total" : 405
+            },
+            "evolution" : [
+                    "Volbeat"
+                ]
+
+        },
+        {
+            "name" : "Illumise",
+            "number" : "314",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "bug"
+            ],
+            "height" : "2'00\"",
+            "weight" : "39.0 lbs",
+            "abilities" : [
+                "Tinted Lens",
+                "Swarm"
+            ],
+            "stats" : {
+                "hp" : 65,
+                "attack" : 47,
+                "defense" : 55,
+                "sp.atk" : 73,
+                "sp.def" : 75,
+                "speed" : 85,
+                "total" : 405
+            },
+            "evolution" : [
+                    "Illumise"
+                ]
+        },
+        {
+            "name" : "Roselia",
+            "number" : "315",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "grass",
+                 "poison"
+            ],
+            "height" : "1'00\"",
+            "weight" : "4.4 lbs",
+            "abilities" : [
+                "Natural Cure",
+                "Poison Point",
+                "Leaf Guard"
+            ],
+            "stats" : {
+                "hp" : 50,
+                "attack" : 40,
+                "defense" : 85,
+                "sp.atk" : 40,
+                "sp.def" : 85,
+                "speed" : 75,
+                "total" : 405
+            },
+            "evolution" : [
+                "Budew",
+                "Roselia",
+                "Roserade"
+                ]
+        },
+        {
+            "name" : "Gulpin",
+            "number" : "316",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/316.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "poison"
+            ],
+            "height" : "1'04\"",
+            "weight" : "22.7 lbs",
+            "abilities" : [
+                "Liquid Ooze",
+                "Sticky Hold"
+            ],
+            "stats" : {
+                "hp" : 70,
+                "attack" : 43,
+                "defense" : 53,
+                "sp.atk" : 43,
+                "sp.def" : 53,
+                "speed" : 40,
+                "total" : 305
+            },
+            "evolution" : [
+                    "Gulpin",
+                    "Swalot"
+                ]
+        },
+        {
+            "name" : "Swalot",
+            "number" : "317",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "poison"
+            ],
+            "height" : "5'07\"",
+            "weight" : "176.4.0 lbs",
+            "abilities" : [
+                "Liquid Ooze",
+                "Sticky Hold"
+            ],
+            "stats" : {
+                "hp" : 100,
+                "attack" : 73,
+                "defense" : 83,
+                "sp.atk" : 73,
+                "sp.def" : 83,
+                "speed" : 55,
+                "total" : 505
+            },
+            "evolution" : [
+                    "Gulpin",
+                    "Swalot"
+                ]
+        },
+        {
+            "name" : "Carvanha",
+            "number" : "318",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "water",
+                 "dark"
+            ],
+            "height" : "2'07\"",
+            "weight" : "49.5 lbs",
+            "abilities" : [
+                "Rough Skin",
+                "Sniper"
+            ],
+            "stats" : {
+                "hp" : 45,
+                "attack" : 90,
+                "defense" : 20,
+                "sp.atk" : 65,
+                "sp.def" : 20,
+                "speed" : 65,
+                "total" : 305
+            },
+            "evolution" : [
+                    "Carvanha",
+                    "Sharpedo"
+                ]
+        },
+        {
+            "name" : "Sharpedo",
+            "number" : "319",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "water",
+                 "dark"
+            ],
+            "height" : "5'11\"",
+            "weight" : "195.8 lbs",
+            "abilities" : [
+                "Rough Skin",
+                "Sniper"
+            ],
+            "stats" : {
+                "hp" : 70,
+                "attack" : 120,
+                "defense" : 40,
+                "sp.atk" : 95,
+                "sp.def" : 40,
+                "speed" : 95,
+                "total" : 505
+            },
+            "evolution" : [
+                    "Carvanha",
+                    "Sharpedo"
+                ]
         }
 
    ]
