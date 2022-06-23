@@ -32,7 +32,7 @@
                 "Venusaur"
             ]
         },
-    {
+        {
         "name" : "Ivysaur",
         "number" : "002",
         "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
@@ -61,8 +61,8 @@
             "Ivysaur",
             "Venusaur"
         ]
-    },
-    {
+        },
+        {
         "name" : "Venusaur",
         "number" : "003",
         "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
@@ -92,8 +92,8 @@
             "Ivysaur",
             "Venusaur"
         ]
-    },
-    {
+        },
+        {
         "name" : "Charmander",
         "number" : "004",
         "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
@@ -121,8 +121,8 @@
             "Charmeleon",
             "Charizard"
         ]
-    },
-    {
+        },
+        {
         "name": "Charmeleon",
         "number": "005",
         "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
@@ -150,8 +150,8 @@
             "Charmeleon",
             "Charizard"
         ]
-    },
-    {
+        },
+        {
         "name" : "Charizard",
         "number" : "006",
         "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
@@ -180,8 +180,8 @@
             "Charmeleon",
             "Charizard"
         ]
-    },
-    {
+        },
+        {
         "name": "Squirtle",
         "number": "007",
         "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
@@ -209,8 +209,8 @@
             "Wartortle",
             "Blastoise"
         ]
-    },
-    {
+        },
+        {
         "name": "Wartortle",
         "number": "008",
         "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
@@ -238,9 +238,9 @@
             "Wartortle",
             "Blastoise"
         ]
-    },
+        },
 
-    {
+        {
         "name": "Blastoise",
         "number": "009",
         "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
@@ -268,8 +268,8 @@
             "Wartortle",
             "Blastoise"
         ]
-    },
-    {
+         },
+         {
         "name" : "Caterpie",
         "number" : "010",
         "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
@@ -297,8 +297,8 @@
             "Metapod",
             "Butterfree"
         ]
-    },
-    {
+         },
+         {
         "name" : "Metapod",
         "number" : "011",
         "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
@@ -325,8 +325,8 @@
             "Metapod",
             "Butterfree"
         ]
-    },
-    {
+        },
+        { 
         "name" : "Butterfree",
         "number" : "012",
         "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
@@ -355,8 +355,8 @@
             "Metapod",
             "Butterfree"
         ]
-    },
-    {
+        },
+        {
         "name" : "Weedle",
         "number" : "013",
         "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
@@ -385,8 +385,8 @@
             "Kakuna",
             "Beedrill"
         ]
-    },
-    {
+        },
+        {
         "name": "Kakuna",
         "number": "014",
         "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
@@ -414,8 +414,8 @@
             "Kakuna",
             "Beedrill"
         ]
-    },
-    {
+        },
+        {
         "name": "Beedrill",
         "number": "015",
         "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
@@ -444,8 +444,8 @@
             "Kakuna",
             "Beedrill"
         ]
-    },
-    {
+        },
+        {
         "name": "Pidgey",
         "number": "016",
         "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
@@ -474,8 +474,8 @@
             "Pidgeotto",
             "Pidgeot"
         ]
-    },
-    {
+        },
+        {
         "name" : "Pidgeotto",
         "number" : "017",
         "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
@@ -504,8 +504,8 @@
             "Pidgeotto",
             "Pidgeot"
         ]
-    },
-    {
+        },
+        {
         "name" : "Pidgeot",
         "number" : "018",
         "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
@@ -534,8 +534,8 @@
             "Pidgeotto",
             "Pidgeot"
         ]
-    },
-    {
+        },
+        {
         "name" : "Rattata",
         "number" : "019",
         "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
@@ -562,8 +562,8 @@
             "Rattata",
             "Raticate"
         ]
-    },
-    {
+        },
+        {
         "name" : "Raticate",
         "number" : "020",
         "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
@@ -590,8 +590,8 @@
             "Rattata",
             "Raticate"
         ]
-    },
-    {
+        },
+        {
         "name" : "Spearow",
         "number" : "021",
         "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
@@ -619,8 +619,8 @@
             "Spearow",
             "Fearow"
         ]
-    },
-    {
+        },
+        {
         "name" : "Fearow",
         "number" : "022",
         "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
@@ -648,8 +648,8 @@
             "Spearow",
             "Fearow"
         ]
-    },
-    {
+        },
+        {
         "name" : "Ekans",
         "number" : "023",
         "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
@@ -676,8 +676,8 @@
             "Ekans",
             "Arbok"
         ]
-    },
-    {
+        },
+        {
         "name" :   "Arbok",
         "number" : "024",
         "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
@@ -704,8 +704,8 @@
             "Ekans",
             "Arbok"
         ]
-    },
-    {
+        },
+        {
         "name" : "Pikachu",
         "number" : "025",
         "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
@@ -732,8 +732,8 @@
             "Pikachu",
             "Raichu"
         ]
-    },
-    {
+        },
+        {
         "name" : "Raichu",
         "number" : "026",
         "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
@@ -760,8 +760,8 @@
             "Pikachu",
             "Raichu"
         ]
-    },
-    {
+         },
+         {
         "name" : "Sandshrew",
         "number" : "027",
         "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
@@ -788,8 +788,8 @@
             "Sandshrew",
             "Sandslash"
         ]
-    },
-    {
+        },
+        {
         "name" : "Sandslash",
         "number" : "028",
         "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
@@ -4328,7 +4328,7 @@
             "Mewtwo"
         ]
     },
-    {
+        {
         "name" : "Mew",
         "number" : "151",
         "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
@@ -4355,7 +4355,7 @@
             "Mewtwo"
         ]
                 
-    }     
+        }   
     ]
 }
 
