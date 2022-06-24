@@ -2030,7 +2030,66 @@
                     "Carvanha",
                     "Sharpedo"
                 ]
+        },
+        {
+            "name" : "Wailmer",
+            "number" : "320",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/320.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "water"
+            ],
+            "height" : "3'00\"",
+            "weight" : "130.0 lbs",
+            "abilities" : [
+                "Water Veil",
+                "Oblivious",
+                "Pressure"
+            ],
+            "stats" : {
+                "hp" : 130,
+                "attack" : 105,
+                "defense" : 60,
+                "sp.atk" : 105,
+                "sp.def" : 60,
+                "speed" : 70,
+                "total" : 455
+            },
+            "evolution" : [
+                    "Wailmer",
+                    "Wailord"
+                ]
+        },
+        {
+            "name" : "Wailord",
+            "number" : "321",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "water"
+            ],
+            "height" : "14'00\"",
+            "weight" : "3900.0 lbs",
+            "abilities" : [
+                "Water Veil",
+                "Oblivious",
+                "Pressure"
+            ],
+            "stats" : {
+                "hp" : 170,
+                "attack" : 120,
+                "defense" : 70,
+                "sp.atk" : 120,
+                "sp.def" : 70,
+                "speed" : 80,
+                "total" : 565
+            },
+            "evolution" : [
+                    "Wailmer",
+                    "Wailord"
+                ]
         }
+        
 
    ]
 }
