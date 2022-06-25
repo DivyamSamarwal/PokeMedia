@@ -2088,6 +2088,122 @@
                     "Wailmer",
                     "Wailord"
                 ]
+        },
+        {
+            "name" : "Numel",
+            "number" : "322",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/322.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "fire",
+                 "ground"
+            ],
+            "height" : "2'00\"",
+            "weight" : "24.5 lbs",
+            "abilities" : [
+                "Oblivious",
+                "Simple",
+                "Own Temper"
+            ],
+            "stats" : {
+                "hp" : 50,
+                "attack" : 65,
+                "defense" : 45,
+                "sp.atk" : 70,
+                "sp.def" : 45,
+                "speed" : 35,
+                "total" : 305
+            },
+            "evolution" : [
+                    "Numel",
+                    "Camerupt"
+                ]
+        },
+        {
+            "name" : "Camerupt",
+            "number" : "323",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "fire",
+                 "ground"
+            ],
+            "height" : "4'07\"",
+            "weight" : "199.5 lbs",
+            "abilities" : [
+                "Magma Armor",
+                "Solid Rock"
+            ],
+            "stats" : {
+                "hp" : 70,
+                "attack" : 105,
+                "defense" : 75,
+                "sp.atk" : 110,
+                "sp.def" : 75,
+                "speed" : 40,
+                "total" : 505
+            },
+            "evolution" : [
+                    "Numel",
+                    "Camerupt"
+                ]
+        },
+        {
+            "name" : "Torkoal",
+            "number" : "324",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "fire"
+            ],
+            "height" : "3'07\"",
+            "weight" : "80.0 lbs",
+            "abilities" : [
+                "White Smoke",
+                "Drought"
+            ],
+            "stats" : {
+                "hp" : 70,
+                "attack" : 85,
+                "defense" : 140,
+                "sp.atk" : 85,
+                "sp.def" : 70,
+                "speed" : 20,
+                "total" : 505
+            },
+            "evolution" : [
+                    "Torkoal",
+                    "Sableye"
+                ]
+        },
+        {
+            "name" : "Spoink",
+            "number" : "325",
+            "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/325.png",
+            "color" : "rgb(255, 196, 196)",
+            "type" : [
+                 "psychic"
+            ],
+            "height" : "1'04\"",
+            "weight" : "30.0 lbs",
+            "abilities" : [
+                "Thick Fat",
+                "Own Temper",
+                "Gluttony"
+            ],
+            "stats" : {
+                "hp" : 60,
+                "attack" : 40,
+                "defense" : 65,
+                "sp.atk" : 40,
+                "sp.def" : 65,
+                "speed" : 35,
+                "total" : 305
+            },
+            "evolution" : [
+                    "Spoink",
+                    "Grumpig"
+                ]
         }
         
 
